@@ -120,15 +120,15 @@ public class Generator {
 				// System.out.println("locati = " + ((i/actions.size())%devices.size()));
 
 				if (hasActions) {
-					newSentence = sentence.replaceAll("<action>", actions.get(i % actions.size()).getName());
+					newSentence = sentence.replaceAll("<action>", actions.get(i % actions.size()).getName() + "<action>");
 				}
 
 				if (hasDevices) {
-					newSentence = newSentence.replaceAll("<device>", devices.get((i/actions.size())%devices.size()).getName());
+					newSentence = newSentence.replaceAll("<device>", devices.get((i/actions.size())%devices.size()).getName() + "<device>");
 				}
 				
 				if (hasLocations) {
-					newSentence = newSentence.replaceAll("<location>", locations.get(i/(actions.size() * devices.size())).getName());
+					newSentence = newSentence.replaceAll("<location>", locations.get(i/(actions.size() * devices.size())).getName() + "<location>");
 				}
 				
 
