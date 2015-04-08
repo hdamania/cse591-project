@@ -1,0 +1,1848 @@
+turnon the light in the bedroom
+turnoff the light in the bedroom
+play the light in the bedroom
+increase the light in the bedroom
+decrease the light in the bedroom
+switchon the light in the bedroom
+switchoff the light in the bedroom
+pause the light in the bedroom
+turnon the temperature in the bedroom
+turnoff the temperature in the bedroom
+play the temperature in the bedroom
+increase the temperature in the bedroom
+decrease the temperature in the bedroom
+switchon the temperature in the bedroom
+switchoff the temperature in the bedroom
+pause the temperature in the bedroom
+turnon the music in the bedroom
+turnoff the music in the bedroom
+play the music in the bedroom
+increase the music in the bedroom
+decrease the music in the bedroom
+switchon the music in the bedroom
+switchoff the music in the bedroom
+pause the music in the bedroom
+turnon the musicplayer in the bedroom
+turnoff the musicplayer in the bedroom
+play the musicplayer in the bedroom
+increase the musicplayer in the bedroom
+decrease the musicplayer in the bedroom
+switchon the musicplayer in the bedroom
+switchoff the musicplayer in the bedroom
+pause the musicplayer in the bedroom
+turnon the airconditioner in the bedroom
+turnoff the airconditioner in the bedroom
+play the airconditioner in the bedroom
+increase the airconditioner in the bedroom
+decrease the airconditioner in the bedroom
+switchon the airconditioner in the bedroom
+switchoff the airconditioner in the bedroom
+pause the airconditioner in the bedroom
+turnon the fan in the bedroom
+turnoff the fan in the bedroom
+play the fan in the bedroom
+increase the fan in the bedroom
+decrease the fan in the bedroom
+switchon the fan in the bedroom
+switchoff the fan in the bedroom
+pause the fan in the bedroom
+turnon the coffeepot in the bedroom
+turnoff the coffeepot in the bedroom
+play the coffeepot in the bedroom
+increase the coffeepot in the bedroom
+decrease the coffeepot in the bedroom
+switchon the coffeepot in the bedroom
+switchoff the coffeepot in the bedroom
+pause the coffeepot in the bedroom
+turnon the television in the bedroom
+turnoff the television in the bedroom
+play the television in the bedroom
+increase the television in the bedroom
+decrease the television in the bedroom
+switchon the television in the bedroom
+switchoff the television in the bedroom
+pause the television in the bedroom
+turnon the tv in the bedroom
+turnoff the tv in the bedroom
+play the tv in the bedroom
+increase the tv in the bedroom
+decrease the tv in the bedroom
+switchon the tv in the bedroom
+switchoff the tv in the bedroom
+pause the tv in the bedroom
+turnon the movie in the bedroom
+turnoff the movie in the bedroom
+play the movie in the bedroom
+increase the movie in the bedroom
+decrease the movie in the bedroom
+switchon the movie in the bedroom
+switchoff the movie in the bedroom
+pause the movie in the bedroom
+turnon the dvdplayer in the bedroom
+turnoff the dvdplayer in the bedroom
+play the dvdplayer in the bedroom
+increase the dvdplayer in the bedroom
+decrease the dvdplayer in the bedroom
+switchon the dvdplayer in the bedroom
+switchoff the dvdplayer in the bedroom
+pause the dvdplayer in the bedroom
+turnon the light in the kitchen
+turnoff the light in the kitchen
+play the light in the kitchen
+increase the light in the kitchen
+decrease the light in the kitchen
+switchon the light in the kitchen
+switchoff the light in the kitchen
+pause the light in the kitchen
+turnon the temperature in the kitchen
+turnoff the temperature in the kitchen
+play the temperature in the kitchen
+increase the temperature in the kitchen
+decrease the temperature in the kitchen
+switchon the temperature in the kitchen
+switchoff the temperature in the kitchen
+pause the temperature in the kitchen
+turnon the music in the kitchen
+turnoff the music in the kitchen
+play the music in the kitchen
+increase the music in the kitchen
+decrease the music in the kitchen
+switchon the music in the kitchen
+switchoff the music in the kitchen
+pause the music in the kitchen
+turnon the musicplayer in the kitchen
+turnoff the musicplayer in the kitchen
+play the musicplayer in the kitchen
+increase the musicplayer in the kitchen
+decrease the musicplayer in the kitchen
+switchon the musicplayer in the kitchen
+switchoff the musicplayer in the kitchen
+pause the musicplayer in the kitchen
+turnon the airconditioner in the kitchen
+turnoff the airconditioner in the kitchen
+play the airconditioner in the kitchen
+increase the airconditioner in the kitchen
+decrease the airconditioner in the kitchen
+switchon the airconditioner in the kitchen
+switchoff the airconditioner in the kitchen
+pause the airconditioner in the kitchen
+turnon the fan in the kitchen
+turnoff the fan in the kitchen
+play the fan in the kitchen
+increase the fan in the kitchen
+decrease the fan in the kitchen
+switchon the fan in the kitchen
+switchoff the fan in the kitchen
+pause the fan in the kitchen
+turnon the coffeepot in the kitchen
+turnoff the coffeepot in the kitchen
+play the coffeepot in the kitchen
+increase the coffeepot in the kitchen
+decrease the coffeepot in the kitchen
+switchon the coffeepot in the kitchen
+switchoff the coffeepot in the kitchen
+pause the coffeepot in the kitchen
+turnon the television in the kitchen
+turnoff the television in the kitchen
+play the television in the kitchen
+increase the television in the kitchen
+decrease the television in the kitchen
+switchon the television in the kitchen
+switchoff the television in the kitchen
+pause the television in the kitchen
+turnon the tv in the kitchen
+turnoff the tv in the kitchen
+play the tv in the kitchen
+increase the tv in the kitchen
+decrease the tv in the kitchen
+switchon the tv in the kitchen
+switchoff the tv in the kitchen
+pause the tv in the kitchen
+turnon the movie in the kitchen
+turnoff the movie in the kitchen
+play the movie in the kitchen
+increase the movie in the kitchen
+decrease the movie in the kitchen
+switchon the movie in the kitchen
+switchoff the movie in the kitchen
+pause the movie in the kitchen
+turnon the dvdplayer in the kitchen
+turnoff the dvdplayer in the kitchen
+play the dvdplayer in the kitchen
+increase the dvdplayer in the kitchen
+decrease the dvdplayer in the kitchen
+switchon the dvdplayer in the kitchen
+switchoff the dvdplayer in the kitchen
+pause the dvdplayer in the kitchen
+turnon the light in the bathroom
+turnoff the light in the bathroom
+play the light in the bathroom
+increase the light in the bathroom
+decrease the light in the bathroom
+switchon the light in the bathroom
+switchoff the light in the bathroom
+pause the light in the bathroom
+turnon the temperature in the bathroom
+turnoff the temperature in the bathroom
+play the temperature in the bathroom
+increase the temperature in the bathroom
+decrease the temperature in the bathroom
+switchon the temperature in the bathroom
+switchoff the temperature in the bathroom
+pause the temperature in the bathroom
+turnon the music in the bathroom
+turnoff the music in the bathroom
+play the music in the bathroom
+increase the music in the bathroom
+decrease the music in the bathroom
+switchon the music in the bathroom
+switchoff the music in the bathroom
+pause the music in the bathroom
+turnon the musicplayer in the bathroom
+turnoff the musicplayer in the bathroom
+play the musicplayer in the bathroom
+increase the musicplayer in the bathroom
+decrease the musicplayer in the bathroom
+switchon the musicplayer in the bathroom
+switchoff the musicplayer in the bathroom
+pause the musicplayer in the bathroom
+turnon the airconditioner in the bathroom
+turnoff the airconditioner in the bathroom
+play the airconditioner in the bathroom
+increase the airconditioner in the bathroom
+decrease the airconditioner in the bathroom
+switchon the airconditioner in the bathroom
+switchoff the airconditioner in the bathroom
+pause the airconditioner in the bathroom
+turnon the fan in the bathroom
+turnoff the fan in the bathroom
+play the fan in the bathroom
+increase the fan in the bathroom
+decrease the fan in the bathroom
+switchon the fan in the bathroom
+switchoff the fan in the bathroom
+pause the fan in the bathroom
+turnon the coffeepot in the bathroom
+turnoff the coffeepot in the bathroom
+play the coffeepot in the bathroom
+increase the coffeepot in the bathroom
+decrease the coffeepot in the bathroom
+switchon the coffeepot in the bathroom
+switchoff the coffeepot in the bathroom
+pause the coffeepot in the bathroom
+turnon the television in the bathroom
+turnoff the television in the bathroom
+play the television in the bathroom
+increase the television in the bathroom
+decrease the television in the bathroom
+switchon the television in the bathroom
+switchoff the television in the bathroom
+pause the television in the bathroom
+turnon the tv in the bathroom
+turnoff the tv in the bathroom
+play the tv in the bathroom
+increase the tv in the bathroom
+decrease the tv in the bathroom
+switchon the tv in the bathroom
+switchoff the tv in the bathroom
+pause the tv in the bathroom
+turnon the movie in the bathroom
+turnoff the movie in the bathroom
+play the movie in the bathroom
+increase the movie in the bathroom
+decrease the movie in the bathroom
+switchon the movie in the bathroom
+switchoff the movie in the bathroom
+pause the movie in the bathroom
+turnon the dvdplayer in the bathroom
+turnoff the dvdplayer in the bathroom
+play the dvdplayer in the bathroom
+increase the dvdplayer in the bathroom
+decrease the dvdplayer in the bathroom
+switchon the dvdplayer in the bathroom
+switchoff the dvdplayer in the bathroom
+pause the dvdplayer in the bathroom
+turnon the light in the bathroom
+turnoff the light in the bathroom
+play the light in the bathroom
+increase the light in the bathroom
+decrease the light in the bathroom
+switchon the light in the bathroom
+switchoff the light in the bathroom
+pause the light in the bathroom
+turnon the temperature in the bathroom
+turnoff the temperature in the bathroom
+play the temperature in the bathroom
+increase the temperature in the bathroom
+decrease the temperature in the bathroom
+switchon the temperature in the bathroom
+switchoff the temperature in the bathroom
+pause the temperature in the bathroom
+turnon the music in the bathroom
+turnoff the music in the bathroom
+play the music in the bathroom
+increase the music in the bathroom
+decrease the music in the bathroom
+switchon the music in the bathroom
+switchoff the music in the bathroom
+pause the music in the bathroom
+turnon the musicplayer in the bathroom
+turnoff the musicplayer in the bathroom
+play the musicplayer in the bathroom
+increase the musicplayer in the bathroom
+decrease the musicplayer in the bathroom
+switchon the musicplayer in the bathroom
+switchoff the musicplayer in the bathroom
+pause the musicplayer in the bathroom
+turnon the airconditioner in the bathroom
+turnoff the airconditioner in the bathroom
+play the airconditioner in the bathroom
+increase the airconditioner in the bathroom
+decrease the airconditioner in the bathroom
+switchon the airconditioner in the bathroom
+switchoff the airconditioner in the bathroom
+pause the airconditioner in the bathroom
+turnon the fan in the bathroom
+turnoff the fan in the bathroom
+play the fan in the bathroom
+increase the fan in the bathroom
+decrease the fan in the bathroom
+switchon the fan in the bathroom
+switchoff the fan in the bathroom
+pause the fan in the bathroom
+turnon the coffeepot in the bathroom
+turnoff the coffeepot in the bathroom
+play the coffeepot in the bathroom
+increase the coffeepot in the bathroom
+decrease the coffeepot in the bathroom
+switchon the coffeepot in the bathroom
+switchoff the coffeepot in the bathroom
+pause the coffeepot in the bathroom
+turnon the television in the bathroom
+turnoff the television in the bathroom
+play the television in the bathroom
+increase the television in the bathroom
+decrease the television in the bathroom
+switchon the television in the bathroom
+switchoff the television in the bathroom
+pause the television in the bathroom
+turnon the tv in the bathroom
+turnoff the tv in the bathroom
+play the tv in the bathroom
+increase the tv in the bathroom
+decrease the tv in the bathroom
+switchon the tv in the bathroom
+switchoff the tv in the bathroom
+pause the tv in the bathroom
+turnon the movie in the bathroom
+turnoff the movie in the bathroom
+play the movie in the bathroom
+increase the movie in the bathroom
+decrease the movie in the bathroom
+switchon the movie in the bathroom
+switchoff the movie in the bathroom
+pause the movie in the bathroom
+turnon the dvdplayer in the bathroom
+turnoff the dvdplayer in the bathroom
+play the dvdplayer in the bathroom
+increase the dvdplayer in the bathroom
+decrease the dvdplayer in the bathroom
+switchon the dvdplayer in the bathroom
+switchoff the dvdplayer in the bathroom
+pause the dvdplayer in the bathroom
+turnon the light in the livingroom
+turnoff the light in the livingroom
+play the light in the livingroom
+increase the light in the livingroom
+decrease the light in the livingroom
+switchon the light in the livingroom
+switchoff the light in the livingroom
+pause the light in the livingroom
+turnon the temperature in the livingroom
+turnoff the temperature in the livingroom
+play the temperature in the livingroom
+increase the temperature in the livingroom
+decrease the temperature in the livingroom
+switchon the temperature in the livingroom
+switchoff the temperature in the livingroom
+pause the temperature in the livingroom
+turnon the music in the livingroom
+turnoff the music in the livingroom
+play the music in the livingroom
+increase the music in the livingroom
+decrease the music in the livingroom
+switchon the music in the livingroom
+switchoff the music in the livingroom
+pause the music in the livingroom
+turnon the musicplayer in the livingroom
+turnoff the musicplayer in the livingroom
+play the musicplayer in the livingroom
+increase the musicplayer in the livingroom
+decrease the musicplayer in the livingroom
+switchon the musicplayer in the livingroom
+switchoff the musicplayer in the livingroom
+pause the musicplayer in the livingroom
+turnon the airconditioner in the livingroom
+turnoff the airconditioner in the livingroom
+play the airconditioner in the livingroom
+increase the airconditioner in the livingroom
+decrease the airconditioner in the livingroom
+switchon the airconditioner in the livingroom
+switchoff the airconditioner in the livingroom
+pause the airconditioner in the livingroom
+turnon the fan in the livingroom
+turnoff the fan in the livingroom
+play the fan in the livingroom
+increase the fan in the livingroom
+decrease the fan in the livingroom
+switchon the fan in the livingroom
+switchoff the fan in the livingroom
+pause the fan in the livingroom
+turnon the coffeepot in the livingroom
+turnoff the coffeepot in the livingroom
+play the coffeepot in the livingroom
+increase the coffeepot in the livingroom
+decrease the coffeepot in the livingroom
+switchon the coffeepot in the livingroom
+switchoff the coffeepot in the livingroom
+pause the coffeepot in the livingroom
+turnon the television in the livingroom
+turnoff the television in the livingroom
+play the television in the livingroom
+increase the television in the livingroom
+decrease the television in the livingroom
+switchon the television in the livingroom
+switchoff the television in the livingroom
+pause the television in the livingroom
+turnon the tv in the livingroom
+turnoff the tv in the livingroom
+play the tv in the livingroom
+increase the tv in the livingroom
+decrease the tv in the livingroom
+switchon the tv in the livingroom
+switchoff the tv in the livingroom
+pause the tv in the livingroom
+turnon the movie in the livingroom
+turnoff the movie in the livingroom
+play the movie in the livingroom
+increase the movie in the livingroom
+decrease the movie in the livingroom
+switchon the movie in the livingroom
+switchoff the movie in the livingroom
+pause the movie in the livingroom
+turnon the dvdplayer in the livingroom
+turnoff the dvdplayer in the livingroom
+play the dvdplayer in the livingroom
+increase the dvdplayer in the livingroom
+decrease the dvdplayer in the livingroom
+switchon the dvdplayer in the livingroom
+switchoff the dvdplayer in the livingroom
+pause the dvdplayer in the livingroom
+turnon the light in the storage
+turnoff the light in the storage
+play the light in the storage
+increase the light in the storage
+decrease the light in the storage
+switchon the light in the storage
+switchoff the light in the storage
+pause the light in the storage
+turnon the temperature in the storage
+turnoff the temperature in the storage
+play the temperature in the storage
+increase the temperature in the storage
+decrease the temperature in the storage
+switchon the temperature in the storage
+switchoff the temperature in the storage
+pause the temperature in the storage
+turnon the music in the storage
+turnoff the music in the storage
+play the music in the storage
+increase the music in the storage
+decrease the music in the storage
+switchon the music in the storage
+switchoff the music in the storage
+pause the music in the storage
+turnon the musicplayer in the storage
+turnoff the musicplayer in the storage
+play the musicplayer in the storage
+increase the musicplayer in the storage
+decrease the musicplayer in the storage
+switchon the musicplayer in the storage
+switchoff the musicplayer in the storage
+pause the musicplayer in the storage
+turnon the airconditioner in the storage
+turnoff the airconditioner in the storage
+play the airconditioner in the storage
+increase the airconditioner in the storage
+decrease the airconditioner in the storage
+switchon the airconditioner in the storage
+switchoff the airconditioner in the storage
+pause the airconditioner in the storage
+turnon the fan in the storage
+turnoff the fan in the storage
+play the fan in the storage
+increase the fan in the storage
+decrease the fan in the storage
+switchon the fan in the storage
+switchoff the fan in the storage
+pause the fan in the storage
+turnon the coffeepot in the storage
+turnoff the coffeepot in the storage
+play the coffeepot in the storage
+increase the coffeepot in the storage
+decrease the coffeepot in the storage
+switchon the coffeepot in the storage
+switchoff the coffeepot in the storage
+pause the coffeepot in the storage
+turnon the television in the storage
+turnoff the television in the storage
+play the television in the storage
+increase the television in the storage
+decrease the television in the storage
+switchon the television in the storage
+switchoff the television in the storage
+pause the television in the storage
+turnon the tv in the storage
+turnoff the tv in the storage
+play the tv in the storage
+increase the tv in the storage
+decrease the tv in the storage
+switchon the tv in the storage
+switchoff the tv in the storage
+pause the tv in the storage
+turnon the movie in the storage
+turnoff the movie in the storage
+play the movie in the storage
+increase the movie in the storage
+decrease the movie in the storage
+switchon the movie in the storage
+switchoff the movie in the storage
+pause the movie in the storage
+turnon the dvdplayer in the storage
+turnoff the dvdplayer in the storage
+play the dvdplayer in the storage
+increase the dvdplayer in the storage
+decrease the dvdplayer in the storage
+switchon the dvdplayer in the storage
+switchoff the dvdplayer in the storage
+pause the dvdplayer in the storage
+turnon the light in the basement
+turnoff the light in the basement
+play the light in the basement
+increase the light in the basement
+decrease the light in the basement
+switchon the light in the basement
+switchoff the light in the basement
+pause the light in the basement
+turnon the temperature in the basement
+turnoff the temperature in the basement
+play the temperature in the basement
+increase the temperature in the basement
+decrease the temperature in the basement
+switchon the temperature in the basement
+switchoff the temperature in the basement
+pause the temperature in the basement
+turnon the music in the basement
+turnoff the music in the basement
+play the music in the basement
+increase the music in the basement
+decrease the music in the basement
+switchon the music in the basement
+switchoff the music in the basement
+pause the music in the basement
+turnon the musicplayer in the basement
+turnoff the musicplayer in the basement
+play the musicplayer in the basement
+increase the musicplayer in the basement
+decrease the musicplayer in the basement
+switchon the musicplayer in the basement
+switchoff the musicplayer in the basement
+pause the musicplayer in the basement
+turnon the airconditioner in the basement
+turnoff the airconditioner in the basement
+play the airconditioner in the basement
+increase the airconditioner in the basement
+decrease the airconditioner in the basement
+switchon the airconditioner in the basement
+switchoff the airconditioner in the basement
+pause the airconditioner in the basement
+turnon the fan in the basement
+turnoff the fan in the basement
+play the fan in the basement
+increase the fan in the basement
+decrease the fan in the basement
+switchon the fan in the basement
+switchoff the fan in the basement
+pause the fan in the basement
+turnon the coffeepot in the basement
+turnoff the coffeepot in the basement
+play the coffeepot in the basement
+increase the coffeepot in the basement
+decrease the coffeepot in the basement
+switchon the coffeepot in the basement
+switchoff the coffeepot in the basement
+pause the coffeepot in the basement
+turnon the television in the basement
+turnoff the television in the basement
+play the television in the basement
+increase the television in the basement
+decrease the television in the basement
+switchon the television in the basement
+switchoff the television in the basement
+pause the television in the basement
+turnon the tv in the basement
+turnoff the tv in the basement
+play the tv in the basement
+increase the tv in the basement
+decrease the tv in the basement
+switchon the tv in the basement
+switchoff the tv in the basement
+pause the tv in the basement
+turnon the movie in the basement
+turnoff the movie in the basement
+play the movie in the basement
+increase the movie in the basement
+decrease the movie in the basement
+switchon the movie in the basement
+switchoff the movie in the basement
+pause the movie in the basement
+turnon the dvdplayer in the basement
+turnoff the dvdplayer in the basement
+play the dvdplayer in the basement
+increase the dvdplayer in the basement
+decrease the dvdplayer in the basement
+switchon the dvdplayer in the basement
+switchoff the dvdplayer in the basement
+pause the dvdplayer in the basement
+turnon the bedroom light
+turnoff the bedroom light
+play the bedroom light
+increase the bedroom light
+decrease the bedroom light
+switchon the bedroom light
+switchoff the bedroom light
+pause the bedroom light
+turnon the bedroom temperature
+turnoff the bedroom temperature
+play the bedroom temperature
+increase the bedroom temperature
+decrease the bedroom temperature
+switchon the bedroom temperature
+switchoff the bedroom temperature
+pause the bedroom temperature
+turnon the bedroom music
+turnoff the bedroom music
+play the bedroom music
+increase the bedroom music
+decrease the bedroom music
+switchon the bedroom music
+switchoff the bedroom music
+pause the bedroom music
+turnon the bedroom musicplayer
+turnoff the bedroom musicplayer
+play the bedroom musicplayer
+increase the bedroom musicplayer
+decrease the bedroom musicplayer
+switchon the bedroom musicplayer
+switchoff the bedroom musicplayer
+pause the bedroom musicplayer
+turnon the bedroom airconditioner
+turnoff the bedroom airconditioner
+play the bedroom airconditioner
+increase the bedroom airconditioner
+decrease the bedroom airconditioner
+switchon the bedroom airconditioner
+switchoff the bedroom airconditioner
+pause the bedroom airconditioner
+turnon the bedroom fan
+turnoff the bedroom fan
+play the bedroom fan
+increase the bedroom fan
+decrease the bedroom fan
+switchon the bedroom fan
+switchoff the bedroom fan
+pause the bedroom fan
+turnon the bedroom coffeepot
+turnoff the bedroom coffeepot
+play the bedroom coffeepot
+increase the bedroom coffeepot
+decrease the bedroom coffeepot
+switchon the bedroom coffeepot
+switchoff the bedroom coffeepot
+pause the bedroom coffeepot
+turnon the bedroom television
+turnoff the bedroom television
+play the bedroom television
+increase the bedroom television
+decrease the bedroom television
+switchon the bedroom television
+switchoff the bedroom television
+pause the bedroom television
+turnon the bedroom tv
+turnoff the bedroom tv
+play the bedroom tv
+increase the bedroom tv
+decrease the bedroom tv
+switchon the bedroom tv
+switchoff the bedroom tv
+pause the bedroom tv
+turnon the bedroom movie
+turnoff the bedroom movie
+play the bedroom movie
+increase the bedroom movie
+decrease the bedroom movie
+switchon the bedroom movie
+switchoff the bedroom movie
+pause the bedroom movie
+turnon the bedroom dvdplayer
+turnoff the bedroom dvdplayer
+play the bedroom dvdplayer
+increase the bedroom dvdplayer
+decrease the bedroom dvdplayer
+switchon the bedroom dvdplayer
+switchoff the bedroom dvdplayer
+pause the bedroom dvdplayer
+turnon the kitchen light
+turnoff the kitchen light
+play the kitchen light
+increase the kitchen light
+decrease the kitchen light
+switchon the kitchen light
+switchoff the kitchen light
+pause the kitchen light
+turnon the kitchen temperature
+turnoff the kitchen temperature
+play the kitchen temperature
+increase the kitchen temperature
+decrease the kitchen temperature
+switchon the kitchen temperature
+switchoff the kitchen temperature
+pause the kitchen temperature
+turnon the kitchen music
+turnoff the kitchen music
+play the kitchen music
+increase the kitchen music
+decrease the kitchen music
+switchon the kitchen music
+switchoff the kitchen music
+pause the kitchen music
+turnon the kitchen musicplayer
+turnoff the kitchen musicplayer
+play the kitchen musicplayer
+increase the kitchen musicplayer
+decrease the kitchen musicplayer
+switchon the kitchen musicplayer
+switchoff the kitchen musicplayer
+pause the kitchen musicplayer
+turnon the kitchen airconditioner
+turnoff the kitchen airconditioner
+play the kitchen airconditioner
+increase the kitchen airconditioner
+decrease the kitchen airconditioner
+switchon the kitchen airconditioner
+switchoff the kitchen airconditioner
+pause the kitchen airconditioner
+turnon the kitchen fan
+turnoff the kitchen fan
+play the kitchen fan
+increase the kitchen fan
+decrease the kitchen fan
+switchon the kitchen fan
+switchoff the kitchen fan
+pause the kitchen fan
+turnon the kitchen coffeepot
+turnoff the kitchen coffeepot
+play the kitchen coffeepot
+increase the kitchen coffeepot
+decrease the kitchen coffeepot
+switchon the kitchen coffeepot
+switchoff the kitchen coffeepot
+pause the kitchen coffeepot
+turnon the kitchen television
+turnoff the kitchen television
+play the kitchen television
+increase the kitchen television
+decrease the kitchen television
+switchon the kitchen television
+switchoff the kitchen television
+pause the kitchen television
+turnon the kitchen tv
+turnoff the kitchen tv
+play the kitchen tv
+increase the kitchen tv
+decrease the kitchen tv
+switchon the kitchen tv
+switchoff the kitchen tv
+pause the kitchen tv
+turnon the kitchen movie
+turnoff the kitchen movie
+play the kitchen movie
+increase the kitchen movie
+decrease the kitchen movie
+switchon the kitchen movie
+switchoff the kitchen movie
+pause the kitchen movie
+turnon the kitchen dvdplayer
+turnoff the kitchen dvdplayer
+play the kitchen dvdplayer
+increase the kitchen dvdplayer
+decrease the kitchen dvdplayer
+switchon the kitchen dvdplayer
+switchoff the kitchen dvdplayer
+pause the kitchen dvdplayer
+turnon the bathroom light
+turnoff the bathroom light
+play the bathroom light
+increase the bathroom light
+decrease the bathroom light
+switchon the bathroom light
+switchoff the bathroom light
+pause the bathroom light
+turnon the bathroom temperature
+turnoff the bathroom temperature
+play the bathroom temperature
+increase the bathroom temperature
+decrease the bathroom temperature
+switchon the bathroom temperature
+switchoff the bathroom temperature
+pause the bathroom temperature
+turnon the bathroom music
+turnoff the bathroom music
+play the bathroom music
+increase the bathroom music
+decrease the bathroom music
+switchon the bathroom music
+switchoff the bathroom music
+pause the bathroom music
+turnon the bathroom musicplayer
+turnoff the bathroom musicplayer
+play the bathroom musicplayer
+increase the bathroom musicplayer
+decrease the bathroom musicplayer
+switchon the bathroom musicplayer
+switchoff the bathroom musicplayer
+pause the bathroom musicplayer
+turnon the bathroom airconditioner
+turnoff the bathroom airconditioner
+play the bathroom airconditioner
+increase the bathroom airconditioner
+decrease the bathroom airconditioner
+switchon the bathroom airconditioner
+switchoff the bathroom airconditioner
+pause the bathroom airconditioner
+turnon the bathroom fan
+turnoff the bathroom fan
+play the bathroom fan
+increase the bathroom fan
+decrease the bathroom fan
+switchon the bathroom fan
+switchoff the bathroom fan
+pause the bathroom fan
+turnon the bathroom coffeepot
+turnoff the bathroom coffeepot
+play the bathroom coffeepot
+increase the bathroom coffeepot
+decrease the bathroom coffeepot
+switchon the bathroom coffeepot
+switchoff the bathroom coffeepot
+pause the bathroom coffeepot
+turnon the bathroom television
+turnoff the bathroom television
+play the bathroom television
+increase the bathroom television
+decrease the bathroom television
+switchon the bathroom television
+switchoff the bathroom television
+pause the bathroom television
+turnon the bathroom tv
+turnoff the bathroom tv
+play the bathroom tv
+increase the bathroom tv
+decrease the bathroom tv
+switchon the bathroom tv
+switchoff the bathroom tv
+pause the bathroom tv
+turnon the bathroom movie
+turnoff the bathroom movie
+play the bathroom movie
+increase the bathroom movie
+decrease the bathroom movie
+switchon the bathroom movie
+switchoff the bathroom movie
+pause the bathroom movie
+turnon the bathroom dvdplayer
+turnoff the bathroom dvdplayer
+play the bathroom dvdplayer
+increase the bathroom dvdplayer
+decrease the bathroom dvdplayer
+switchon the bathroom dvdplayer
+switchoff the bathroom dvdplayer
+pause the bathroom dvdplayer
+turnon the bathroom light
+turnoff the bathroom light
+play the bathroom light
+increase the bathroom light
+decrease the bathroom light
+switchon the bathroom light
+switchoff the bathroom light
+pause the bathroom light
+turnon the bathroom temperature
+turnoff the bathroom temperature
+play the bathroom temperature
+increase the bathroom temperature
+decrease the bathroom temperature
+switchon the bathroom temperature
+switchoff the bathroom temperature
+pause the bathroom temperature
+turnon the bathroom music
+turnoff the bathroom music
+play the bathroom music
+increase the bathroom music
+decrease the bathroom music
+switchon the bathroom music
+switchoff the bathroom music
+pause the bathroom music
+turnon the bathroom musicplayer
+turnoff the bathroom musicplayer
+play the bathroom musicplayer
+increase the bathroom musicplayer
+decrease the bathroom musicplayer
+switchon the bathroom musicplayer
+switchoff the bathroom musicplayer
+pause the bathroom musicplayer
+turnon the bathroom airconditioner
+turnoff the bathroom airconditioner
+play the bathroom airconditioner
+increase the bathroom airconditioner
+decrease the bathroom airconditioner
+switchon the bathroom airconditioner
+switchoff the bathroom airconditioner
+pause the bathroom airconditioner
+turnon the bathroom fan
+turnoff the bathroom fan
+play the bathroom fan
+increase the bathroom fan
+decrease the bathroom fan
+switchon the bathroom fan
+switchoff the bathroom fan
+pause the bathroom fan
+turnon the bathroom coffeepot
+turnoff the bathroom coffeepot
+play the bathroom coffeepot
+increase the bathroom coffeepot
+decrease the bathroom coffeepot
+switchon the bathroom coffeepot
+switchoff the bathroom coffeepot
+pause the bathroom coffeepot
+turnon the bathroom television
+turnoff the bathroom television
+play the bathroom television
+increase the bathroom television
+decrease the bathroom television
+switchon the bathroom television
+switchoff the bathroom television
+pause the bathroom television
+turnon the bathroom tv
+turnoff the bathroom tv
+play the bathroom tv
+increase the bathroom tv
+decrease the bathroom tv
+switchon the bathroom tv
+switchoff the bathroom tv
+pause the bathroom tv
+turnon the bathroom movie
+turnoff the bathroom movie
+play the bathroom movie
+increase the bathroom movie
+decrease the bathroom movie
+switchon the bathroom movie
+switchoff the bathroom movie
+pause the bathroom movie
+turnon the bathroom dvdplayer
+turnoff the bathroom dvdplayer
+play the bathroom dvdplayer
+increase the bathroom dvdplayer
+decrease the bathroom dvdplayer
+switchon the bathroom dvdplayer
+switchoff the bathroom dvdplayer
+pause the bathroom dvdplayer
+turnon the livingroom light
+turnoff the livingroom light
+play the livingroom light
+increase the livingroom light
+decrease the livingroom light
+switchon the livingroom light
+switchoff the livingroom light
+pause the livingroom light
+turnon the livingroom temperature
+turnoff the livingroom temperature
+play the livingroom temperature
+increase the livingroom temperature
+decrease the livingroom temperature
+switchon the livingroom temperature
+switchoff the livingroom temperature
+pause the livingroom temperature
+turnon the livingroom music
+turnoff the livingroom music
+play the livingroom music
+increase the livingroom music
+decrease the livingroom music
+switchon the livingroom music
+switchoff the livingroom music
+pause the livingroom music
+turnon the livingroom musicplayer
+turnoff the livingroom musicplayer
+play the livingroom musicplayer
+increase the livingroom musicplayer
+decrease the livingroom musicplayer
+switchon the livingroom musicplayer
+switchoff the livingroom musicplayer
+pause the livingroom musicplayer
+turnon the livingroom airconditioner
+turnoff the livingroom airconditioner
+play the livingroom airconditioner
+increase the livingroom airconditioner
+decrease the livingroom airconditioner
+switchon the livingroom airconditioner
+switchoff the livingroom airconditioner
+pause the livingroom airconditioner
+turnon the livingroom fan
+turnoff the livingroom fan
+play the livingroom fan
+increase the livingroom fan
+decrease the livingroom fan
+switchon the livingroom fan
+switchoff the livingroom fan
+pause the livingroom fan
+turnon the livingroom coffeepot
+turnoff the livingroom coffeepot
+play the livingroom coffeepot
+increase the livingroom coffeepot
+decrease the livingroom coffeepot
+switchon the livingroom coffeepot
+switchoff the livingroom coffeepot
+pause the livingroom coffeepot
+turnon the livingroom television
+turnoff the livingroom television
+play the livingroom television
+increase the livingroom television
+decrease the livingroom television
+switchon the livingroom television
+switchoff the livingroom television
+pause the livingroom television
+turnon the livingroom tv
+turnoff the livingroom tv
+play the livingroom tv
+increase the livingroom tv
+decrease the livingroom tv
+switchon the livingroom tv
+switchoff the livingroom tv
+pause the livingroom tv
+turnon the livingroom movie
+turnoff the livingroom movie
+play the livingroom movie
+increase the livingroom movie
+decrease the livingroom movie
+switchon the livingroom movie
+switchoff the livingroom movie
+pause the livingroom movie
+turnon the livingroom dvdplayer
+turnoff the livingroom dvdplayer
+play the livingroom dvdplayer
+increase the livingroom dvdplayer
+decrease the livingroom dvdplayer
+switchon the livingroom dvdplayer
+switchoff the livingroom dvdplayer
+pause the livingroom dvdplayer
+turnon the storage light
+turnoff the storage light
+play the storage light
+increase the storage light
+decrease the storage light
+switchon the storage light
+switchoff the storage light
+pause the storage light
+turnon the storage temperature
+turnoff the storage temperature
+play the storage temperature
+increase the storage temperature
+decrease the storage temperature
+switchon the storage temperature
+switchoff the storage temperature
+pause the storage temperature
+turnon the storage music
+turnoff the storage music
+play the storage music
+increase the storage music
+decrease the storage music
+switchon the storage music
+switchoff the storage music
+pause the storage music
+turnon the storage musicplayer
+turnoff the storage musicplayer
+play the storage musicplayer
+increase the storage musicplayer
+decrease the storage musicplayer
+switchon the storage musicplayer
+switchoff the storage musicplayer
+pause the storage musicplayer
+turnon the storage airconditioner
+turnoff the storage airconditioner
+play the storage airconditioner
+increase the storage airconditioner
+decrease the storage airconditioner
+switchon the storage airconditioner
+switchoff the storage airconditioner
+pause the storage airconditioner
+turnon the storage fan
+turnoff the storage fan
+play the storage fan
+increase the storage fan
+decrease the storage fan
+switchon the storage fan
+switchoff the storage fan
+pause the storage fan
+turnon the storage coffeepot
+turnoff the storage coffeepot
+play the storage coffeepot
+increase the storage coffeepot
+decrease the storage coffeepot
+switchon the storage coffeepot
+switchoff the storage coffeepot
+pause the storage coffeepot
+turnon the storage television
+turnoff the storage television
+play the storage television
+increase the storage television
+decrease the storage television
+switchon the storage television
+switchoff the storage television
+pause the storage television
+turnon the storage tv
+turnoff the storage tv
+play the storage tv
+increase the storage tv
+decrease the storage tv
+switchon the storage tv
+switchoff the storage tv
+pause the storage tv
+turnon the storage movie
+turnoff the storage movie
+play the storage movie
+increase the storage movie
+decrease the storage movie
+switchon the storage movie
+switchoff the storage movie
+pause the storage movie
+turnon the storage dvdplayer
+turnoff the storage dvdplayer
+play the storage dvdplayer
+increase the storage dvdplayer
+decrease the storage dvdplayer
+switchon the storage dvdplayer
+switchoff the storage dvdplayer
+pause the storage dvdplayer
+turnon the basement light
+turnoff the basement light
+play the basement light
+increase the basement light
+decrease the basement light
+switchon the basement light
+switchoff the basement light
+pause the basement light
+turnon the basement temperature
+turnoff the basement temperature
+play the basement temperature
+increase the basement temperature
+decrease the basement temperature
+switchon the basement temperature
+switchoff the basement temperature
+pause the basement temperature
+turnon the basement music
+turnoff the basement music
+play the basement music
+increase the basement music
+decrease the basement music
+switchon the basement music
+switchoff the basement music
+pause the basement music
+turnon the basement musicplayer
+turnoff the basement musicplayer
+play the basement musicplayer
+increase the basement musicplayer
+decrease the basement musicplayer
+switchon the basement musicplayer
+switchoff the basement musicplayer
+pause the basement musicplayer
+turnon the basement airconditioner
+turnoff the basement airconditioner
+play the basement airconditioner
+increase the basement airconditioner
+decrease the basement airconditioner
+switchon the basement airconditioner
+switchoff the basement airconditioner
+pause the basement airconditioner
+turnon the basement fan
+turnoff the basement fan
+play the basement fan
+increase the basement fan
+decrease the basement fan
+switchon the basement fan
+switchoff the basement fan
+pause the basement fan
+turnon the basement coffeepot
+turnoff the basement coffeepot
+play the basement coffeepot
+increase the basement coffeepot
+decrease the basement coffeepot
+switchon the basement coffeepot
+switchoff the basement coffeepot
+pause the basement coffeepot
+turnon the basement television
+turnoff the basement television
+play the basement television
+increase the basement television
+decrease the basement television
+switchon the basement television
+switchoff the basement television
+pause the basement television
+turnon the basement tv
+turnoff the basement tv
+play the basement tv
+increase the basement tv
+decrease the basement tv
+switchon the basement tv
+switchoff the basement tv
+pause the basement tv
+turnon the basement movie
+turnoff the basement movie
+play the basement movie
+increase the basement movie
+decrease the basement movie
+switchon the basement movie
+switchoff the basement movie
+pause the basement movie
+turnon the basement dvdplayer
+turnoff the basement dvdplayer
+play the basement dvdplayer
+increase the basement dvdplayer
+decrease the basement dvdplayer
+switchon the basement dvdplayer
+switchoff the basement dvdplayer
+pause the basement dvdplayer
+turnon light in the bedroom
+turnoff light in the bedroom
+play light in the bedroom
+increase light in the bedroom
+decrease light in the bedroom
+switchon light in the bedroom
+switchoff light in the bedroom
+pause light in the bedroom
+turnon temperature in the bedroom
+turnoff temperature in the bedroom
+play temperature in the bedroom
+increase temperature in the bedroom
+decrease temperature in the bedroom
+switchon temperature in the bedroom
+switchoff temperature in the bedroom
+pause temperature in the bedroom
+turnon music in the bedroom
+turnoff music in the bedroom
+play music in the bedroom
+increase music in the bedroom
+decrease music in the bedroom
+switchon music in the bedroom
+switchoff music in the bedroom
+pause music in the bedroom
+turnon musicplayer in the bedroom
+turnoff musicplayer in the bedroom
+play musicplayer in the bedroom
+increase musicplayer in the bedroom
+decrease musicplayer in the bedroom
+switchon musicplayer in the bedroom
+switchoff musicplayer in the bedroom
+pause musicplayer in the bedroom
+turnon airconditioner in the bedroom
+turnoff airconditioner in the bedroom
+play airconditioner in the bedroom
+increase airconditioner in the bedroom
+decrease airconditioner in the bedroom
+switchon airconditioner in the bedroom
+switchoff airconditioner in the bedroom
+pause airconditioner in the bedroom
+turnon fan in the bedroom
+turnoff fan in the bedroom
+play fan in the bedroom
+increase fan in the bedroom
+decrease fan in the bedroom
+switchon fan in the bedroom
+switchoff fan in the bedroom
+pause fan in the bedroom
+turnon coffeepot in the bedroom
+turnoff coffeepot in the bedroom
+play coffeepot in the bedroom
+increase coffeepot in the bedroom
+decrease coffeepot in the bedroom
+switchon coffeepot in the bedroom
+switchoff coffeepot in the bedroom
+pause coffeepot in the bedroom
+turnon television in the bedroom
+turnoff television in the bedroom
+play television in the bedroom
+increase television in the bedroom
+decrease television in the bedroom
+switchon television in the bedroom
+switchoff television in the bedroom
+pause television in the bedroom
+turnon tv in the bedroom
+turnoff tv in the bedroom
+play tv in the bedroom
+increase tv in the bedroom
+decrease tv in the bedroom
+switchon tv in the bedroom
+switchoff tv in the bedroom
+pause tv in the bedroom
+turnon movie in the bedroom
+turnoff movie in the bedroom
+play movie in the bedroom
+increase movie in the bedroom
+decrease movie in the bedroom
+switchon movie in the bedroom
+switchoff movie in the bedroom
+pause movie in the bedroom
+turnon dvdplayer in the bedroom
+turnoff dvdplayer in the bedroom
+play dvdplayer in the bedroom
+increase dvdplayer in the bedroom
+decrease dvdplayer in the bedroom
+switchon dvdplayer in the bedroom
+switchoff dvdplayer in the bedroom
+pause dvdplayer in the bedroom
+turnon light in the kitchen
+turnoff light in the kitchen
+play light in the kitchen
+increase light in the kitchen
+decrease light in the kitchen
+switchon light in the kitchen
+switchoff light in the kitchen
+pause light in the kitchen
+turnon temperature in the kitchen
+turnoff temperature in the kitchen
+play temperature in the kitchen
+increase temperature in the kitchen
+decrease temperature in the kitchen
+switchon temperature in the kitchen
+switchoff temperature in the kitchen
+pause temperature in the kitchen
+turnon music in the kitchen
+turnoff music in the kitchen
+play music in the kitchen
+increase music in the kitchen
+decrease music in the kitchen
+switchon music in the kitchen
+switchoff music in the kitchen
+pause music in the kitchen
+turnon musicplayer in the kitchen
+turnoff musicplayer in the kitchen
+play musicplayer in the kitchen
+increase musicplayer in the kitchen
+decrease musicplayer in the kitchen
+switchon musicplayer in the kitchen
+switchoff musicplayer in the kitchen
+pause musicplayer in the kitchen
+turnon airconditioner in the kitchen
+turnoff airconditioner in the kitchen
+play airconditioner in the kitchen
+increase airconditioner in the kitchen
+decrease airconditioner in the kitchen
+switchon airconditioner in the kitchen
+switchoff airconditioner in the kitchen
+pause airconditioner in the kitchen
+turnon fan in the kitchen
+turnoff fan in the kitchen
+play fan in the kitchen
+increase fan in the kitchen
+decrease fan in the kitchen
+switchon fan in the kitchen
+switchoff fan in the kitchen
+pause fan in the kitchen
+turnon coffeepot in the kitchen
+turnoff coffeepot in the kitchen
+play coffeepot in the kitchen
+increase coffeepot in the kitchen
+decrease coffeepot in the kitchen
+switchon coffeepot in the kitchen
+switchoff coffeepot in the kitchen
+pause coffeepot in the kitchen
+turnon television in the kitchen
+turnoff television in the kitchen
+play television in the kitchen
+increase television in the kitchen
+decrease television in the kitchen
+switchon television in the kitchen
+switchoff television in the kitchen
+pause television in the kitchen
+turnon tv in the kitchen
+turnoff tv in the kitchen
+play tv in the kitchen
+increase tv in the kitchen
+decrease tv in the kitchen
+switchon tv in the kitchen
+switchoff tv in the kitchen
+pause tv in the kitchen
+turnon movie in the kitchen
+turnoff movie in the kitchen
+play movie in the kitchen
+increase movie in the kitchen
+decrease movie in the kitchen
+switchon movie in the kitchen
+switchoff movie in the kitchen
+pause movie in the kitchen
+turnon dvdplayer in the kitchen
+turnoff dvdplayer in the kitchen
+play dvdplayer in the kitchen
+increase dvdplayer in the kitchen
+decrease dvdplayer in the kitchen
+switchon dvdplayer in the kitchen
+switchoff dvdplayer in the kitchen
+pause dvdplayer in the kitchen
+turnon light in the bathroom
+turnoff light in the bathroom
+play light in the bathroom
+increase light in the bathroom
+decrease light in the bathroom
+switchon light in the bathroom
+switchoff light in the bathroom
+pause light in the bathroom
+turnon temperature in the bathroom
+turnoff temperature in the bathroom
+play temperature in the bathroom
+increase temperature in the bathroom
+decrease temperature in the bathroom
+switchon temperature in the bathroom
+switchoff temperature in the bathroom
+pause temperature in the bathroom
+turnon music in the bathroom
+turnoff music in the bathroom
+play music in the bathroom
+increase music in the bathroom
+decrease music in the bathroom
+switchon music in the bathroom
+switchoff music in the bathroom
+pause music in the bathroom
+turnon musicplayer in the bathroom
+turnoff musicplayer in the bathroom
+play musicplayer in the bathroom
+increase musicplayer in the bathroom
+decrease musicplayer in the bathroom
+switchon musicplayer in the bathroom
+switchoff musicplayer in the bathroom
+pause musicplayer in the bathroom
+turnon airconditioner in the bathroom
+turnoff airconditioner in the bathroom
+play airconditioner in the bathroom
+increase airconditioner in the bathroom
+decrease airconditioner in the bathroom
+switchon airconditioner in the bathroom
+switchoff airconditioner in the bathroom
+pause airconditioner in the bathroom
+turnon fan in the bathroom
+turnoff fan in the bathroom
+play fan in the bathroom
+increase fan in the bathroom
+decrease fan in the bathroom
+switchon fan in the bathroom
+switchoff fan in the bathroom
+pause fan in the bathroom
+turnon coffeepot in the bathroom
+turnoff coffeepot in the bathroom
+play coffeepot in the bathroom
+increase coffeepot in the bathroom
+decrease coffeepot in the bathroom
+switchon coffeepot in the bathroom
+switchoff coffeepot in the bathroom
+pause coffeepot in the bathroom
+turnon television in the bathroom
+turnoff television in the bathroom
+play television in the bathroom
+increase television in the bathroom
+decrease television in the bathroom
+switchon television in the bathroom
+switchoff television in the bathroom
+pause television in the bathroom
+turnon tv in the bathroom
+turnoff tv in the bathroom
+play tv in the bathroom
+increase tv in the bathroom
+decrease tv in the bathroom
+switchon tv in the bathroom
+switchoff tv in the bathroom
+pause tv in the bathroom
+turnon movie in the bathroom
+turnoff movie in the bathroom
+play movie in the bathroom
+increase movie in the bathroom
+decrease movie in the bathroom
+switchon movie in the bathroom
+switchoff movie in the bathroom
+pause movie in the bathroom
+turnon dvdplayer in the bathroom
+turnoff dvdplayer in the bathroom
+play dvdplayer in the bathroom
+increase dvdplayer in the bathroom
+decrease dvdplayer in the bathroom
+switchon dvdplayer in the bathroom
+switchoff dvdplayer in the bathroom
+pause dvdplayer in the bathroom
+turnon light in the bathroom
+turnoff light in the bathroom
+play light in the bathroom
+increase light in the bathroom
+decrease light in the bathroom
+switchon light in the bathroom
+switchoff light in the bathroom
+pause light in the bathroom
+turnon temperature in the bathroom
+turnoff temperature in the bathroom
+play temperature in the bathroom
+increase temperature in the bathroom
+decrease temperature in the bathroom
+switchon temperature in the bathroom
+switchoff temperature in the bathroom
+pause temperature in the bathroom
+turnon music in the bathroom
+turnoff music in the bathroom
+play music in the bathroom
+increase music in the bathroom
+decrease music in the bathroom
+switchon music in the bathroom
+switchoff music in the bathroom
+pause music in the bathroom
+turnon musicplayer in the bathroom
+turnoff musicplayer in the bathroom
+play musicplayer in the bathroom
+increase musicplayer in the bathroom
+decrease musicplayer in the bathroom
+switchon musicplayer in the bathroom
+switchoff musicplayer in the bathroom
+pause musicplayer in the bathroom
+turnon airconditioner in the bathroom
+turnoff airconditioner in the bathroom
+play airconditioner in the bathroom
+increase airconditioner in the bathroom
+decrease airconditioner in the bathroom
+switchon airconditioner in the bathroom
+switchoff airconditioner in the bathroom
+pause airconditioner in the bathroom
+turnon fan in the bathroom
+turnoff fan in the bathroom
+play fan in the bathroom
+increase fan in the bathroom
+decrease fan in the bathroom
+switchon fan in the bathroom
+switchoff fan in the bathroom
+pause fan in the bathroom
+turnon coffeepot in the bathroom
+turnoff coffeepot in the bathroom
+play coffeepot in the bathroom
+increase coffeepot in the bathroom
+decrease coffeepot in the bathroom
+switchon coffeepot in the bathroom
+switchoff coffeepot in the bathroom
+pause coffeepot in the bathroom
+turnon television in the bathroom
+turnoff television in the bathroom
+play television in the bathroom
+increase television in the bathroom
+decrease television in the bathroom
+switchon television in the bathroom
+switchoff television in the bathroom
+pause television in the bathroom
+turnon tv in the bathroom
+turnoff tv in the bathroom
+play tv in the bathroom
+increase tv in the bathroom
+decrease tv in the bathroom
+switchon tv in the bathroom
+switchoff tv in the bathroom
+pause tv in the bathroom
+turnon movie in the bathroom
+turnoff movie in the bathroom
+play movie in the bathroom
+increase movie in the bathroom
+decrease movie in the bathroom
+switchon movie in the bathroom
+switchoff movie in the bathroom
+pause movie in the bathroom
+turnon dvdplayer in the bathroom
+turnoff dvdplayer in the bathroom
+play dvdplayer in the bathroom
+increase dvdplayer in the bathroom
+decrease dvdplayer in the bathroom
+switchon dvdplayer in the bathroom
+switchoff dvdplayer in the bathroom
+pause dvdplayer in the bathroom
+turnon light in the livingroom
+turnoff light in the livingroom
+play light in the livingroom
+increase light in the livingroom
+decrease light in the livingroom
+switchon light in the livingroom
+switchoff light in the livingroom
+pause light in the livingroom
+turnon temperature in the livingroom
+turnoff temperature in the livingroom
+play temperature in the livingroom
+increase temperature in the livingroom
+decrease temperature in the livingroom
+switchon temperature in the livingroom
+switchoff temperature in the livingroom
+pause temperature in the livingroom
+turnon music in the livingroom
+turnoff music in the livingroom
+play music in the livingroom
+increase music in the livingroom
+decrease music in the livingroom
+switchon music in the livingroom
+switchoff music in the livingroom
+pause music in the livingroom
+turnon musicplayer in the livingroom
+turnoff musicplayer in the livingroom
+play musicplayer in the livingroom
+increase musicplayer in the livingroom
+decrease musicplayer in the livingroom
+switchon musicplayer in the livingroom
+switchoff musicplayer in the livingroom
+pause musicplayer in the livingroom
+turnon airconditioner in the livingroom
+turnoff airconditioner in the livingroom
+play airconditioner in the livingroom
+increase airconditioner in the livingroom
+decrease airconditioner in the livingroom
+switchon airconditioner in the livingroom
+switchoff airconditioner in the livingroom
+pause airconditioner in the livingroom
+turnon fan in the livingroom
+turnoff fan in the livingroom
+play fan in the livingroom
+increase fan in the livingroom
+decrease fan in the livingroom
+switchon fan in the livingroom
+switchoff fan in the livingroom
+pause fan in the livingroom
+turnon coffeepot in the livingroom
+turnoff coffeepot in the livingroom
+play coffeepot in the livingroom
+increase coffeepot in the livingroom
+decrease coffeepot in the livingroom
+switchon coffeepot in the livingroom
+switchoff coffeepot in the livingroom
+pause coffeepot in the livingroom
+turnon television in the livingroom
+turnoff television in the livingroom
+play television in the livingroom
+increase television in the livingroom
+decrease television in the livingroom
+switchon television in the livingroom
+switchoff television in the livingroom
+pause television in the livingroom
+turnon tv in the livingroom
+turnoff tv in the livingroom
+play tv in the livingroom
+increase tv in the livingroom
+decrease tv in the livingroom
+switchon tv in the livingroom
+switchoff tv in the livingroom
+pause tv in the livingroom
+turnon movie in the livingroom
+turnoff movie in the livingroom
+play movie in the livingroom
+increase movie in the livingroom
+decrease movie in the livingroom
+switchon movie in the livingroom
+switchoff movie in the livingroom
+pause movie in the livingroom
+turnon dvdplayer in the livingroom
+turnoff dvdplayer in the livingroom
+play dvdplayer in the livingroom
+increase dvdplayer in the livingroom
+decrease dvdplayer in the livingroom
+switchon dvdplayer in the livingroom
+switchoff dvdplayer in the livingroom
+pause dvdplayer in the livingroom
+turnon light in the storage
+turnoff light in the storage
+play light in the storage
+increase light in the storage
+decrease light in the storage
+switchon light in the storage
+switchoff light in the storage
+pause light in the storage
+turnon temperature in the storage
+turnoff temperature in the storage
+play temperature in the storage
+increase temperature in the storage
+decrease temperature in the storage
+switchon temperature in the storage
+switchoff temperature in the storage
+pause temperature in the storage
+turnon music in the storage
+turnoff music in the storage
+play music in the storage
+increase music in the storage
+decrease music in the storage
+switchon music in the storage
+switchoff music in the storage
+pause music in the storage
+turnon musicplayer in the storage
+turnoff musicplayer in the storage
+play musicplayer in the storage
+increase musicplayer in the storage
+decrease musicplayer in the storage
+switchon musicplayer in the storage
+switchoff musicplayer in the storage
+pause musicplayer in the storage
+turnon airconditioner in the storage
+turnoff airconditioner in the storage
+play airconditioner in the storage
+increase airconditioner in the storage
+decrease airconditioner in the storage
+switchon airconditioner in the storage
+switchoff airconditioner in the storage
+pause airconditioner in the storage
+turnon fan in the storage
+turnoff fan in the storage
+play fan in the storage
+increase fan in the storage
+decrease fan in the storage
+switchon fan in the storage
+switchoff fan in the storage
+pause fan in the storage
+turnon coffeepot in the storage
+turnoff coffeepot in the storage
+play coffeepot in the storage
+increase coffeepot in the storage
+decrease coffeepot in the storage
+switchon coffeepot in the storage
+switchoff coffeepot in the storage
+pause coffeepot in the storage
+turnon television in the storage
+turnoff television in the storage
+play television in the storage
+increase television in the storage
+decrease television in the storage
+switchon television in the storage
+switchoff television in the storage
+pause television in the storage
+turnon tv in the storage
+turnoff tv in the storage
+play tv in the storage
+increase tv in the storage
+decrease tv in the storage
+switchon tv in the storage
+switchoff tv in the storage
+pause tv in the storage
+turnon movie in the storage
+turnoff movie in the storage
+play movie in the storage
+increase movie in the storage
+decrease movie in the storage
+switchon movie in the storage
+switchoff movie in the storage
+pause movie in the storage
+turnon dvdplayer in the storage
+turnoff dvdplayer in the storage
+play dvdplayer in the storage
+increase dvdplayer in the storage
+decrease dvdplayer in the storage
+switchon dvdplayer in the storage
+switchoff dvdplayer in the storage
+pause dvdplayer in the storage
+turnon light in the basement
+turnoff light in the basement
+play light in the basement
+increase light in the basement
+decrease light in the basement
+switchon light in the basement
+switchoff light in the basement
+pause light in the basement
+turnon temperature in the basement
+turnoff temperature in the basement
+play temperature in the basement
+increase temperature in the basement
+decrease temperature in the basement
+switchon temperature in the basement
+switchoff temperature in the basement
+pause temperature in the basement
+turnon music in the basement
+turnoff music in the basement
+play music in the basement
+increase music in the basement
+decrease music in the basement
+switchon music in the basement
+switchoff music in the basement
+pause music in the basement
+turnon musicplayer in the basement
+turnoff musicplayer in the basement
+play musicplayer in the basement
+increase musicplayer in the basement
+decrease musicplayer in the basement
+switchon musicplayer in the basement
+switchoff musicplayer in the basement
+pause musicplayer in the basement
+turnon airconditioner in the basement
+turnoff airconditioner in the basement
+play airconditioner in the basement
+increase airconditioner in the basement
+decrease airconditioner in the basement
+switchon airconditioner in the basement
+switchoff airconditioner in the basement
+pause airconditioner in the basement
+turnon fan in the basement
+turnoff fan in the basement
+play fan in the basement
+increase fan in the basement
+decrease fan in the basement
+switchon fan in the basement
+switchoff fan in the basement
+pause fan in the basement
+turnon coffeepot in the basement
+turnoff coffeepot in the basement
+play coffeepot in the basement
+increase coffeepot in the basement
+decrease coffeepot in the basement
+switchon coffeepot in the basement
+switchoff coffeepot in the basement
+pause coffeepot in the basement
+turnon television in the basement
+turnoff television in the basement
+play television in the basement
+increase television in the basement
+decrease television in the basement
+switchon television in the basement
+switchoff television in the basement
+pause television in the basement
+turnon tv in the basement
+turnoff tv in the basement
+play tv in the basement
+increase tv in the basement
+decrease tv in the basement
+switchon tv in the basement
+switchoff tv in the basement
+pause tv in the basement
+turnon movie in the basement
+turnoff movie in the basement
+play movie in the basement
+increase movie in the basement
+decrease movie in the basement
+switchon movie in the basement
+switchoff movie in the basement
+pause movie in the basement
+turnon dvdplayer in the basement
+turnoff dvdplayer in the basement
+play dvdplayer in the basement
+increase dvdplayer in the basement
+decrease dvdplayer in the basement
+switchon dvdplayer in the basement
+switchoff dvdplayer in the basement
+pause dvdplayer in the basement
