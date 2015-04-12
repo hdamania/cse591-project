@@ -1,4 +1,5 @@
-import java.util.*;
+package swm.smarthome.data;
+
 
 class Device extends Token {
 

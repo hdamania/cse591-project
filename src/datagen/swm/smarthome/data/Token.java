@@ -1,5 +1,4 @@
-import java.io.*;
-import java.util.*;
+package swm.smarthome.data;
 
 public class Token {
 
@@ -12,7 +11,6 @@ public class Token {
 	public Token(String name) {
 		this.name = name;
 
-		// System.out.println("Found " + name);
 	}
 
 	public String getName() {

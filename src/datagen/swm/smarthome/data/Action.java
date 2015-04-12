@@ -1,3 +1,5 @@
+package swm.smarthome.data;
+
 class Action extends Token {
 
 	public Action() {

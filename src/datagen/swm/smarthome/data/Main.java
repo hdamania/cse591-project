@@ -1,5 +1,5 @@
-import java.util.*;
-import java.io.*;
+package swm.smarthome.data;
+
 
 public class Main
 {

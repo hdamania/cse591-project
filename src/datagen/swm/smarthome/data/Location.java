@@ -1,3 +1,5 @@
+package swm.smarthome.data;
+
 class Location extends Token {
 
 	public Location() {
