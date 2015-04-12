@@ -5,17 +5,27 @@
 #include <map>
 #include <vector>
 #include <deque>
-#include "viterbi.hpp"
+#include <fstream>
+
+#define OBS_LEN_MAX 10
 
 using namespace std;
 
-float pi[NUM_STATES];
+float *pi;
 
-float a[NUM_STATES][NUM_STATES];
+float **a;
 
-float b[NUM_STATES][NUM_OBS];
+float **b;
 	
 float **delta;
+
+
+
+vector<string> observations;
+vector<string> states; 
+
+int num_states = 0;
+int num_obs = 0; 
 
 typedef map<int, string> StringMap_t;
 //typedef deque<int> IntVec_t;
@@ -24,39 +34,166 @@ typedef map<int, int> IntVec_t;
 StringMap_t g_stateMap;
 StringMap_t g_obsMap;
 
-int prepare_hmm_model()
+vector<string> read_from_file(const char* file_name)
 {
-	int i, j;
+	
+    vector<string> list;
 
-	for (i = 0; i < NUM_STATES; i++)
-	{
-		pi[i] = start_prob[i];
+    string word;
+    ifstream infile(file_name);
+    while (infile >> word) 
+    {
+        list.push_back(word);
+    }
 
-		for (j = 0; j < NUM_STATES; j++)
-		{
-			a[i][j] = transition_prob[i][j];
-		}
-
-		for (j = 0; j < NUM_OBS; j++)
-		{
-			b[i][j] = emission_prob[i][j];
-		}
-	}
-
-	for (i = 0; i < NUM_STATES; i++)
-	{
-		g_stateMap.insert(make_pair<int, string>(i, states[i]));
-	}
-
-	for (i = 0; i < NUM_OBS; i++)
-	{
-		g_obsMap.insert(make_pair<int, string>(i, observations[i]));
-	}
-
-	return 0;
+    return list;
 }
 
-float viterbi_forward(int num_states, float *sp, float tp[NUM_STATES][NUM_STATES], float op[NUM_STATES][NUM_OBS], int *obs, int obs_len, float **delta, int cur_state, IntVec_t &path)
+
+
+
+
+void fill_matrix(const char * file_name,float **mat,int r,int c)
+{
+   
+   int i = 0;
+   int  j = 0;
+   size_t pos = 0;
+   string delimiter = ",";
+
+   string word;
+   ifstream infile(file_name);
+  
+   while (infile >> word) 
+   {   
+	
+	std::string token;
+	while ((pos = word.find(delimiter)) != std::string::npos) 
+        {
+   
+    	  token = word.substr(0, pos);
+
+	  
+          if(i<r && j < c)
+          {
+           mat[i][j] = atof(token.c_str());
+          }
+	  	
+          word.erase(0, pos + delimiter.length());
+ 	  j++;
+        }
+
+	if(word.length() != 0)
+        {
+           mat[i][j] = atof(word.c_str()); 
+        }           
+	
+
+	i++;
+	j = 0;
+
+   }
+
+ }
+   
+   
+
+
+void load_model_params()
+{
+    int i = 0;
+    int j = 0;
+    states = read_from_file("output/states.txt");
+    observations = read_from_file("output/observations.txt"); 
+    num_states = (int) states.size();
+    num_obs = (int)observations.size();
+    
+    a = (float**) malloc(sizeof(float*) * num_states);
+    for(i = 0;i<num_states;i++)
+    {
+	a[i] = (float*)malloc(sizeof(float)*num_states);
+    }
+
+
+    b = (float**) malloc(sizeof(float*) * num_states);
+    for(i = 0;i<num_states;i++)
+    {
+	b[i] = (float*)malloc(sizeof(float)*num_obs);
+    }    
+    
+    
+    fill_matrix("output/amatrix.csv",a,num_states,num_states);
+
+    
+    fill_matrix("output/bmatrix.csv",b,num_states,num_obs);
+
+    pi = (float *)malloc(sizeof(float)* num_states);
+    
+    cout<<"States\n";
+
+    for(i = 0;i<num_states;i++)
+    {
+	cout<<states.at(i)<<"\n";
+
+    }
+
+
+   cout<<"--------------A_Matrix----------------\n";
+    for(i = 0;i<num_states;i++)
+    {
+
+
+	for(j = 0;j<num_states;j++)
+        {
+	   cout<<a[i][j]<<"\t";
+	}
+	cout<<"\n";
+   }
+
+
+   cout<<"-----------------B_Matrix---------------\n";
+   for(i = 0;i<num_states;i++)
+    {
+
+
+	for(j = 0;j<num_obs;j++)
+        {
+	   cout<<b[i][j]<<"\t";
+	}
+	cout<<"\n";
+   }
+
+    cout<<"---------------Observations-----------------\n";
+
+    for(i = 0;i<num_obs;i++)
+    {
+	cout<<observations.at(i)<<"\n";
+    }
+
+    cout<<"---------start probabilty matrix---------\n";
+
+    fill_matrix("output/startprob.txt",&pi,1,num_states);
+
+    for(i = 0 ; i< num_states;i++)
+       cout<< pi[i]<<"\t";
+
+    cout<<"\n";
+
+    for (i = 0; i < num_states; i++)
+    {
+	g_stateMap.insert(make_pair<int, string>(i, states.at(i)));
+    }
+
+    for (i = 0; i < num_obs; i++)
+    {
+	g_obsMap.insert(make_pair<int, string>(i, observations.at(i)));
+    }
+
+}
+
+
+
+float viterbi_forward(int num_states, float *sp, float **tp, float **op, int *obs, int obs_len, float **delta, int cur_state, IntVec_t &path)
 {
 	int i, max_state;
 	float prod = 0.0, max_prod;
@@ -106,7 +243,7 @@ float viterbi_forward(int num_states, float *sp, float tp[NUM_STATES][NUM_STATES
 	return delta[cur_state][obs_len-1];
 }
 
-int viterbi(int num_states, int num_obs, float *sp, float tp[NUM_STATES][NUM_STATES], float op[NUM_STATES][NUM_OBS], int *obs, int obs_len, IntVec_t &path)
+int viterbi(int num_states, int num_obs, float *sp, float ** tp, float **op, int *obs, int obs_len, IntVec_t &path)
 {
 	int i, j, max_state;
 	float prod, max_prod;
@@ -119,7 +256,7 @@ int viterbi(int num_states, int num_obs, float *sp, float tp[NUM_STATES][NUM_STA
 	}
 
 	// prepare DP table
-	for (i = 0; i < NUM_STATES; i++)
+	for (i = 0; i < num_states; i++)
 	{
 		for (j = 0; j < obs_len; j++)
 		{
@@ -164,16 +301,17 @@ int viterbi(int num_states, int num_obs, float *sp, float tp[NUM_STATES][NUM_STA
 int main()
 {
 	int i, j;
-	int obs[OBS_LEN_MAX] = {0, 1, 2};
+	int obs[OBS_LEN_MAX] = {17, 25, 26,18,16};
 	IntVec_t pathVec;
-	int obs_len = 3;
+	int obs_len = 5;
+        
+        load_model_params();
+	
 
-	prepare_hmm_model();
-
-	viterbi(NUM_STATES, NUM_OBS, pi, a, b, obs, obs_len, pathVec);
+	viterbi(num_states, num_obs, pi, a, b, obs, obs_len, pathVec);
 
 	printf("\n");
-	for (i = 0; i < NUM_STATES; i++)
+	for (i = 0; i < num_states; i++)
 	{
 		for (j = 0; j < obs_len; j++)
 		{
