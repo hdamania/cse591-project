@@ -61,9 +61,10 @@ public class ParseData {
 			for (States states : statesList) {
 				stateNames[statecount++] = states.value();
 			}
-			
+
 			double[][] aMatrix = new double[stateSize][stateSize];
 			double[][] bMatrix = new double[stateSize][obsWords.size()];
+			double[] startStates = new double[stateSize];
 			convertAMapToMatrix(aMap, aMatrix);
 
 			Map<String, Integer> indexMap = new LinkedHashMap<String, Integer>();
@@ -73,9 +74,12 @@ public class ParseData {
 			}
 			convertBMapToMatrix(bMap, bMatrix, indexMap);
 
+			convertStartStateToMatrix(startCounts, startStates);
+
 			writeArrToFile(stateNames, "output" + File.separator + "states.txt");
 			writeArrToFile(indexMap.keySet().toArray(new String[indexMap.size()]), "output"
 					+ File.separator + "observations.txt");
+			writeStartProbToFile(startStates, "output" + File.separator + "startprob.txt");
 			writeMatrixToFile(aMatrix, "output" + File.separator + "amatrix.csv");
 			writeMatrixToFile(bMatrix, "output" + File.separator + "bmatrix.csv");
 
@@ -83,6 +87,42 @@ public class ParseData {
 			e.printStackTrace();
 		} catch (IOException e) {
 			e.printStackTrace();
+		}
+	}
+
+	private static void writeStartProbToFile(double[] startStates, String fileName) {
+		try {
+			DecimalFormat two = new DecimalFormat("#0.00");
+			BufferedWriter br = new BufferedWriter(new FileWriter(fileName));
+			StringBuilder sb = new StringBuilder();
+			boolean firstRow = true;
+			for (double row : startStates) {
+				int count = 0;
+				sb.append(two.format(row));
+				if (count++ < startStates.length - 1) {
+					sb.append(",");
+				}
+			}
+			br.write(sb.toString());
+			br.close();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+	}
+
+	private static void convertStartStateToMatrix(Map<States, Integer> startCounts,
+			double[] startStates) {
+
+		int sum = 0;
+		for (Integer val : startCounts.values()) {
+			sum += val;
+		}
+		for (States state : States.values()) {
+			if (!startCounts.containsKey(state) || startCounts.get(state) == null) {
+				startStates[state.index()] = 0;
+			} else {
+				startStates[state.index()] = (startCounts.get(state) * 1.0) / sum;
+			}
 		}
 	}
 
@@ -148,7 +188,7 @@ public class ParseData {
 		Integer aCount = aMap.get(prevState).get(currState);
 		aMap.get(prevState).put(currState, aCount + 1);
 	}
-	
+
 	private static void writeArrToFile(String[] strArr, String fileName) {
 		try {
 			BufferedWriter br = new BufferedWriter(new FileWriter(fileName));
