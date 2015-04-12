@@ -95,9 +95,8 @@ public class ParseData {
 			DecimalFormat two = new DecimalFormat("#0.00");
 			BufferedWriter br = new BufferedWriter(new FileWriter(fileName));
 			StringBuilder sb = new StringBuilder();
-			boolean firstRow = true;
+			int count = 0;
 			for (double row : startStates) {
-				int count = 0;
 				sb.append(two.format(row));
 				if (count++ < startStates.length - 1) {
 					sb.append(",");
