@@ -195,8 +195,8 @@ void load_model_params()
 
 float viterbi_forward(int num_states, float *sp, float **tp, float **op, int *obs, int obs_len, float **delta, int cur_state, IntVec_t &path)
 {
-	int i, max_state;
-	float prod = 0.0, max_prod;
+	int i, max_state, max_prob_state = 1;
+	float prod = 0.0, max_prod, max_path_prob = 0.0;
 
 	printf("obs_len=%d, cur_state=%d\n", obs_len, cur_state);
 	// return memoized state
@@ -209,6 +209,24 @@ float viterbi_forward(int num_states, float *sp, float **tp, float **op, int *ob
 	if (obs_len == 1)
 	{
 		delta[cur_state][0] = sp[cur_state] * op[cur_state][obs[0]];
+
+		if (cur_state == (num_states - 1))
+		{
+			// reached final state, now find max prob path
+			for (i = 0; i < num_states; i++)
+			{
+				if (delta[i][obs_len-1] > max_path_prob)
+				{
+					max_path_prob = delta[i][obs_len-1];
+					max_prob_state = i;
+				}
+			}
+
+			// update the path with this higher probability path
+			path[obs_len] = max_prob_state;
+			printf("push=%d, cur_state=%d\n", max_state, cur_state);
+		}
+
 		return delta[cur_state][0];
 	}
 
@@ -234,11 +252,28 @@ float viterbi_forward(int num_states, float *sp, float **tp, float **op, int *ob
 		}
 	}
 
-	//path.push_back(max_state);
-	path[obs_len-1] = max_state;
+	// path.push_back(max_state);
+	// only update the path if a higher probability path is found
+	// path[obs_len-1] = max_state;
 
-	printf("push=%d, cur_state=%d\n", obs_len, cur_state);
 	delta[cur_state][obs_len-1] = max_prod * op[cur_state][obs[obs_len-1]];
+
+	if (cur_state == (num_states - 1))
+	{
+		// reached final state, now find max prob path
+		for (i = 0; i < num_states; i++)
+		{
+			if (delta[i][obs_len-1] > max_path_prob)
+			{
+				max_path_prob = delta[i][obs_len-1];
+				max_prob_state = i;
+			}
+		}
+
+		// update the path with this higher probability path
+		path[obs_len] = max_prob_state;
+		printf("push=%d, cur_state=%d\n", max_state, cur_state);
+	}
 
 	return delta[cur_state][obs_len-1];
 }
@@ -291,7 +326,7 @@ int viterbi(int num_states, int num_obs, float *sp, float ** tp, float **op, int
 	}
 	
 	//path.push_back(max_state);
-	path[obs_len] = max_state;
+//	path[obs_len] = max_state;
 
 	//path.push_back(max_state);
 
@@ -301,9 +336,9 @@ int viterbi(int num_states, int num_obs, float *sp, float ** tp, float **op, int
 int main()
 {
 	int i, j;
-	int obs[OBS_LEN_MAX] = {17, 25, 26,18,16};
+	int obs[OBS_LEN_MAX] = {16, 24, 25,17, 24,15};
 	IntVec_t pathVec;
-	int obs_len = 5;
+	int obs_len = 6;
         
         load_model_params();
 	
