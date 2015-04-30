@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <string.h>
 #include <stdlib.h>
 #include <iostream>
 #include <string>
@@ -55,48 +56,48 @@ vector<string> read_from_file(const char* file_name)
 
 void fill_matrix(const char * file_name,float **mat,int r,int c)
 {
-   
-   int i = 0;
-   int  j = 0;
-   size_t pos = 0;
-   string delimiter = ",";
 
-   string word;
-   ifstream infile(file_name);
-  
-   while (infile >> word) 
-   {   
-	
-	std::string token;
-	while ((pos = word.find(delimiter)) != std::string::npos) 
-        {
-   
-    	  token = word.substr(0, pos);
+	int i = 0;
+	int  j = 0;
+	size_t pos = 0;
+	string delimiter = ",";
 
-	  
-          if(i<r && j < c)
-          {
-           mat[i][j] = atof(token.c_str());
-          }
-	  	
-          word.erase(0, pos + delimiter.length());
- 	  j++;
-        }
+	string word;
+	ifstream infile(file_name);
 
-	if(word.length() != 0)
-        {
-           mat[i][j] = atof(word.c_str()); 
-        }           
-	
+	while (infile >> word) 
+	{   
 
-	i++;
-	j = 0;
+		std::string token;
+		while ((pos = word.find(delimiter)) != std::string::npos) 
+		{
 
-   }
+			token = word.substr(0, pos);
 
- }
-   
-   
+
+			if(i<r && j < c)
+			{
+				mat[i][j] = atof(token.c_str());
+			}
+
+			word.erase(0, pos + delimiter.length());
+			j++;
+		}
+
+		if(word.length() != 0)
+		{
+			mat[i][j] = atof(word.c_str()); 
+		}           
+
+
+		i++;
+		j = 0;
+
+	}
+
+}
+
+
 
 
 void load_model_params()
@@ -333,16 +334,52 @@ int viterbi(int num_states, int num_obs, float *sp, float ** tp, float **op, int
 	return 0;
 }
 
-int main()
+int main(int argc, char *argv[])
 {
 	int i, j;
+
+	std::map<std::string, int> obsMap;
+	std::map<std::string, int>::iterator it;
+
+	char *command, *token;
 	int obs[OBS_LEN_MAX] = {16, 24, 25,17, 24,15};
 	IntVec_t pathVec;
 	int obs_len = 6;
-        
-        load_model_params();
-	
+    
+	if (argc != 2)
+	{
+		cout << "Incorrect arguments!" << endl;
+		cout << "Only pass the command in double-inverted commas." << endl;
+		return 0;
+	}
 
+    load_model_params();
+	
+	// Create map of observations
+	for (i = 0; i < observations.size(); i++)
+	{
+		obsMap.insert(std::make_pair<std::string, int>(observations[i], i));
+	}
+
+	for (i = 0, command = argv[1]; ; i++, command = NULL)
+	{
+		token = strtok(command, " ");
+		if (NULL == token)
+		{
+			// end of command reached
+			break;
+		}
+
+		it = obsMap.find(token);
+		if (it != obsMap.end())
+		{
+			// found in obsMap, now insert its value in the obs array
+			obs[i] = it->second;
+		}
+	}
+
+	obs_len = i;
+	
 	viterbi(num_states, num_obs, pi, a, b, obs, obs_len, pathVec);
 
 	printf("\n");
