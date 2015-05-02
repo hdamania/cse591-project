@@ -17,6 +17,8 @@ import java.util.Set;
 
 public class ParseData {
 	private static final String FILE_PATH = "data.txt";
+	private static final String UNKNOWN_KEY = "<unknown>";
+	private static final int UNKNOWN_WT = 1; 
 
 	public static void main(String[] args) {
 
@@ -53,7 +55,9 @@ public class ParseData {
 				startCounts.put(startState, startCount + 1);
 
 			}
-
+			
+			addUnknownValues(bMap);
+			
 			States[] statesList = States.values();
 			int stateSize = statesList.length;
 			String[] stateNames = new String[stateSize];
@@ -63,7 +67,7 @@ public class ParseData {
 			}
 
 			double[][] aMatrix = new double[stateSize][stateSize];
-			double[][] bMatrix = new double[stateSize][obsWords.size()];
+			double[][] bMatrix = new double[stateSize][obsWords.size() + 1];
 			double[] startStates = new double[stateSize];
 			convertAMapToMatrix(aMap, aMatrix);
 
@@ -72,6 +76,7 @@ public class ParseData {
 			for (String word : obsWords) {
 				indexMap.put(word, obsIndex++);
 			}
+			indexMap.put(UNKNOWN_KEY, obsIndex++);
 			convertBMapToMatrix(bMap, bMatrix, indexMap);
 
 			convertStartStateToMatrix(startCounts, startStates);
@@ -87,6 +92,13 @@ public class ParseData {
 			e.printStackTrace();
 		} catch (IOException e) {
 			e.printStackTrace();
+		}
+	}
+
+	private static void addUnknownValues(Map<States, Map<String, Integer>> bMap) {
+		for ( Entry<States, Map<String, Integer>> entry : bMap.entrySet()) {
+			Map<String, Integer> val = entry.getValue();
+			val.put(UNKNOWN_KEY, UNKNOWN_WT);
 		}
 	}
 
