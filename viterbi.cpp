@@ -119,7 +119,8 @@ void load_model_params()
     b = (float**) malloc(sizeof(float*) * num_states);
     for(i = 0;i<num_states;i++)
     {
-	b[i] = (float*)malloc(sizeof(float)*num_obs);
+		// one extra for unknown obs
+		b[i] = (float*)malloc(sizeof(float)*num_obs);
     }    
     
     
@@ -199,7 +200,7 @@ float viterbi_forward(int num_states, float *sp, float **tp, float **op, int *ob
 	int i, max_state, max_prob_state = 1;
 	float prod = 0.0, max_prod, max_path_prob = 0.0;
 
-	printf("obs_len=%d, cur_state=%d\n", obs_len, cur_state);
+	//printf("obs_len=%d, cur_state=%d\n", obs_len, cur_state);
 	// return memoized state
 	if (delta[cur_state][obs_len-1] > -0.5)
 	{
@@ -225,7 +226,7 @@ float viterbi_forward(int num_states, float *sp, float **tp, float **op, int *ob
 
 			// update the path with this higher probability path
 			path[obs_len] = max_prob_state;
-			printf("push=%d, cur_state=%d\n", max_state, cur_state);
+			//printf("push=%d, cur_state=%d\n", max_state, cur_state);
 		}
 
 		return delta[cur_state][0];
@@ -273,7 +274,7 @@ float viterbi_forward(int num_states, float *sp, float **tp, float **op, int *ob
 
 		// update the path with this higher probability path
 		path[obs_len] = max_prob_state;
-		printf("push=%d, cur_state=%d\n", max_state, cur_state);
+		//printf("push=%d, cur_state=%d\n", max_state, cur_state);
 	}
 
 	return delta[cur_state][obs_len-1];
