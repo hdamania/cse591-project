@@ -1,0 +1,3000 @@
+pause<action> the<other> basement<location> light<device>
+decrease<action> the<other> temperature<device> in<other> the<other> livingroom<location>
+switchon<action> the<other> fan<device> in<other> the<other> bedroom<location>
+turnon<action> faucet<device> in<other> the<other> bathroom<location>
+turnon<action> the<other> room<location> airconditioner<device>
+turnoff<action> the<other> television<device> in<other> the<other> room<location>
+switchon<action> tv<device> in<other> the<other> livingroom<location>
+open<action> the<other> musicplayer<device> in<other> the<other> kitchen<location>
+turnon<action> the<other> temperature<device> in<other> the<other> kitchen<location>
+switchon<action> radio<device> in<other> the<other> room<location>
+increase<action> the<other> storage<location> shower<device>
+open<action> the<other> storage<location> temperature<device>
+faucet<device> pause<action>
+movie<device> pause<action>
+decrease<action> the<other> storage<location> shower<device>
+faucet<device> decrease<action>
+airconditioner<device> turnon<action>
+close<action> the<other> airconditioner<device> in<other> the<other> bedroom<location>
+dvdplayer<device> increase<action>
+turnon<action> the<other> room<location> airconditioner<device>
+coffeepot<device> turnoff<action>
+turnoff<action> the<other> bedroom<location> dvdplayer<device>
+turnoff<action> the<other> coffeepot<device> in<other> the<other> basement<location>
+increase<action> faucet<device> in<other> the<other> livingroom<location>
+decrease<action> dvdplayer<device> in<other> the<other> room<location>
+open<action> the<other> bathroom<location> musicplayer<device>
+close<action> the<other> basement<location> coffeepot<device>
+temperature<device> switchon<action>
+increase<action> the<other> bathroom<location> temperature<device>
+turnoff<action> the<other> music<device> in<other> the<other> kitchen<location>
+increase<action> the<other> livingroom<location> fan<device>
+turnoff<action> the<other> faucet<device> in<other> the<other> bathroom<location>
+switchoff<action> the<other> shower<device> in<other> the<other> livingroom<location>
+temperature<device> switchon<action>
+open<action> the<other> bathroom<location> radio<device>
+turnoff<action> tv<device> in<other> the<other> bathroom<location>
+increase<action> fan<device> in<other> the<other> bathroom<location>
+close<action> shower<device> in<other> the<other> kitchen<location>
+turnoff<action> music<device> in<other> the<other> kitchen<location>
+musicplayer<device> turnon<action>
+play<action> the<other> basement<location> airconditioner<device>
+switchoff<action> the<other> room<location> temperature<device>
+open<action> the<other> bathroom<location> coffeepot<device>
+close<action> the<other> dvdplayer<device> in<other> the<other> room<location>
+pause<action> musicplayer<device> in<other> the<other> bathroom<location>
+airconditioner<device> increase<action>
+close<action> radio<device> in<other> the<other> bathroom<location>
+turnoff<action> the<other> musicplayer<device> in<other> the<other> basement<location>
+television<device> play<action>
+musicplayer<device> switchoff<action>
+switchoff<action> the<other> light<device> in<other> the<other> storage<location>
+radio<device> play<action>
+turnon<action> the<other> basement<location> musicplayer<device>
+increase<action> movie<device> in<other> the<other> livingroom<location>
+decrease<action> the<other> musicplayer<device> in<other> the<other> basement<location>
+turnon<action> the<other> basement<location> tv<device>
+switchoff<action> musicplayer<device> in<other> the<other> bathroom<location>
+turnoff<action> the<other> shower<device> in<other> the<other> bathroom<location>
+temperature<device> pause<action>
+play<action> the<other> storage<location> fan<device>
+dvdplayer<device> decrease<action>
+radio<device> increase<action>
+turnon<action> the<other> bathroom<location> radio<device>
+decrease<action> the<other> basement<location> movie<device>
+close<action> the<other> bedroom<location> fan<device>
+turnoff<action> the<other> room<location> radio<device>
+switchon<action> the<other> kitchen<location> television<device>
+light<device> switchoff<action>
+increase<action> the<other> faucet<device> in<other> the<other> bedroom<location>
+switchon<action> tv<device> in<other> the<other> livingroom<location>
+increase<action> the<other> room<location> faucet<device>
+play<action> the<other> bathroom<location> musicplayer<device>
+fan<device> turnoff<action>
+pause<action> the<other> bathroom<location> shower<device>
+increase<action> the<other> musicplayer<device> in<other> the<other> room<location>
+increase<action> the<other> airconditioner<device> in<other> the<other> basement<location>
+open<action> tv<device> in<other> the<other> kitchen<location>
+switchon<action> fan<device> in<other> the<other> livingroom<location>
+pause<action> music<device> in<other> the<other> bathroom<location>
+television<device> turnoff<action>
+pause<action> radio<device> in<other> the<other> storage<location>
+light<device> play<action>
+open<action> the<other> storage<location> music<device>
+turnoff<action> the<other> faucet<device> in<other> the<other> storage<location>
+open<action> the<other> musicplayer<device> in<other> the<other> bedroom<location>
+increase<action> the<other> bathroom<location> musicplayer<device>
+turnoff<action> the<other> radio<device> in<other> the<other> kitchen<location>
+switchon<action> the<other> storage<location> movie<device>
+radio<device> decrease<action>
+turnoff<action> the<other> kitchen<location> faucet<device>
+close<action> coffeepot<device> in<other> the<other> bedroom<location>
+switchoff<action> movie<device> in<other> the<other> livingroom<location>
+play<action> the<other> basement<location> light<device>
+play<action> the<other> music<device> in<other> the<other> room<location>
+increase<action> airconditioner<device> in<other> the<other> bathroom<location>
+increase<action> the<other> storage<location> airconditioner<device>
+turnoff<action> the<other> temperature<device> in<other> the<other> room<location>
+increase<action> the<other> bathroom<location> fan<device>
+faucet<device> switchon<action>
+open<action> the<other> bathroom<location> fan<device>
+decrease<action> the<other> music<device> in<other> the<other> bathroom<location>
+open<action> the<other> light<device> in<other> the<other> kitchen<location>
+coffeepot<device> turnon<action>
+close<action> the<other> bedroom<location> music<device>
+close<action> airconditioner<device> in<other> the<other> kitchen<location>
+dvdplayer<device> decrease<action>
+open<action> the<other> fan<device> in<other> the<other> room<location>
+switchoff<action> shower<device> in<other> the<other> livingroom<location>
+turnoff<action> the<other> airconditioner<device> in<other> the<other> bathroom<location>
+close<action> fan<device> in<other> the<other> bedroom<location>
+close<action> the<other> coffeepot<device> in<other> the<other> kitchen<location>
+dvdplayer<device> play<action>
+play<action> the<other> music<device> in<other> the<other> room<location>
+open<action> coffeepot<device> in<other> the<other> room<location>
+light<device> switchon<action>
+pause<action> the<other> temperature<device> in<other> the<other> basement<location>
+switchon<action> the<other> bedroom<location> shower<device>
+coffeepot<device> increase<action>
+switchoff<action> coffeepot<device> in<other> the<other> room<location>
+movie<device> pause<action>
+coffeepot<device> switchoff<action>
+switchoff<action> the<other> kitchen<location> dvdplayer<device>
+turnoff<action> the<other> temperature<device> in<other> the<other> bedroom<location>
+turnoff<action> the<other> tv<device> in<other> the<other> bathroom<location>
+turnoff<action> the<other> coffeepot<device> in<other> the<other> basement<location>
+increase<action> the<other> bathroom<location> fan<device>
+temperature<device> switchoff<action>
+radio<device> play<action>
+switchoff<action> the<other> bedroom<location> fan<device>
+close<action> music<device> in<other> the<other> storage<location>
+pause<action> the<other> airconditioner<device> in<other> the<other> bathroom<location>
+close<action> the<other> radio<device> in<other> the<other> livingroom<location>
+movie<device> close<action>
+increase<action> the<other> storage<location> temperature<device>
+open<action> the<other> kitchen<location> television<device>
+switchon<action> dvdplayer<device> in<other> the<other> basement<location>
+switchoff<action> the<other> fan<device> in<other> the<other> bathroom<location>
+increase<action> the<other> television<device> in<other> the<other> bathroom<location>
+switchon<action> the<other> tv<device> in<other> the<other> room<location>
+turnoff<action> the<other> bathroom<location> airconditioner<device>
+coffeepot<device> close<action>
+television<device> switchoff<action>
+close<action> the<other> storage<location> shower<device>
+pause<action> the<other> coffeepot<device> in<other> the<other> basement<location>
+play<action> airconditioner<device> in<other> the<other> room<location>
+switchon<action> the<other> storage<location> musicplayer<device>
+play<action> the<other> kitchen<location> temperature<device>
+open<action> the<other> movie<device> in<other> the<other> livingroom<location>
+switchoff<action> the<other> light<device> in<other> the<other> storage<location>
+airconditioner<device> increase<action>
+dvdplayer<device> close<action>
+switchon<action> television<device> in<other> the<other> bedroom<location>
+increase<action> movie<device> in<other> the<other> room<location>
+switchoff<action> dvdplayer<device> in<other> the<other> kitchen<location>
+pause<action> the<other> movie<device> in<other> the<other> bathroom<location>
+pause<action> music<device> in<other> the<other> bedroom<location>
+shower<device> turnoff<action>
+switchon<action> airconditioner<device> in<other> the<other> room<location>
+open<action> the<other> livingroom<location> radio<device>
+light<device> increase<action>
+open<action> the<other> storage<location> coffeepot<device>
+play<action> the<other> basement<location> coffeepot<device>
+shower<device> turnon<action>
+turnon<action> fan<device> in<other> the<other> bedroom<location>
+close<action> temperature<device> in<other> the<other> room<location>
+turnon<action> the<other> airconditioner<device> in<other> the<other> storage<location>
+open<action> the<other> radio<device> in<other> the<other> kitchen<location>
+switchon<action> the<other> coffeepot<device> in<other> the<other> livingroom<location>
+airconditioner<device> switchon<action>
+music<device> switchoff<action>
+play<action> the<other> shower<device> in<other> the<other> storage<location>
+increase<action> the<other> music<device> in<other> the<other> bedroom<location>
+turnon<action> the<other> bathroom<location> television<device>
+increase<action> the<other> bedroom<location> light<device>
+pause<action> the<other> shower<device> in<other> the<other> livingroom<location>
+increase<action> the<other> basement<location> dvdplayer<device>
+dvdplayer<device> decrease<action>
+movie<device> switchon<action>
+play<action> the<other> livingroom<location> movie<device>
+open<action> the<other> bedroom<location> dvdplayer<device>
+fan<device> switchoff<action>
+decrease<action> the<other> room<location> dvdplayer<device>
+play<action> the<other> basement<location> fan<device>
+turnoff<action> coffeepot<device> in<other> the<other> storage<location>
+pause<action> faucet<device> in<other> the<other> basement<location>
+play<action> the<other> basement<location> shower<device>
+musicplayer<device> open<action>
+switchon<action> the<other> coffeepot<device> in<other> the<other> room<location>
+increase<action> the<other> light<device> in<other> the<other> room<location>
+turnoff<action> television<device> in<other> the<other> bathroom<location>
+fan<device> play<action>
+increase<action> the<other> music<device> in<other> the<other> room<location>
+fan<device> switchon<action>
+fan<device> turnoff<action>
+open<action> the<other> basement<location> faucet<device>
+turnon<action> fan<device> in<other> the<other> livingroom<location>
+decrease<action> the<other> bathroom<location> tv<device>
+turnon<action> the<other> dvdplayer<device> in<other> the<other> bathroom<location>
+turnoff<action> the<other> shower<device> in<other> the<other> bathroom<location>
+close<action> the<other> faucet<device> in<other> the<other> bedroom<location>
+shower<device> turnon<action>
+turnon<action> the<other> music<device> in<other> the<other> bathroom<location>
+switchoff<action> the<other> dvdplayer<device> in<other> the<other> basement<location>
+pause<action> the<other> bathroom<location> shower<device>
+turnoff<action> the<other> dvdplayer<device> in<other> the<other> storage<location>
+switchoff<action> the<other> kitchen<location> temperature<device>
+tv<device> pause<action>
+movie<device> decrease<action>
+decrease<action> the<other> musicplayer<device> in<other> the<other> basement<location>
+temperature<device> play<action>
+movie<device> open<action>
+play<action> the<other> dvdplayer<device> in<other> the<other> storage<location>
+tv<device> turnoff<action>
+turnoff<action> the<other> television<device> in<other> the<other> livingroom<location>
+play<action> the<other> basement<location> music<device>
+turnon<action> the<other> storage<location> movie<device>
+play<action> the<other> shower<device> in<other> the<other> bathroom<location>
+close<action> television<device> in<other> the<other> room<location>
+switchon<action> shower<device> in<other> the<other> basement<location>
+close<action> shower<device> in<other> the<other> livingroom<location>
+turnon<action> musicplayer<device> in<other> the<other> bathroom<location>
+close<action> the<other> musicplayer<device> in<other> the<other> bathroom<location>
+play<action> the<other> airconditioner<device> in<other> the<other> bathroom<location>
+play<action> the<other> faucet<device> in<other> the<other> bedroom<location>
+increase<action> shower<device> in<other> the<other> bedroom<location>
+play<action> the<other> shower<device> in<other> the<other> storage<location>
+switchoff<action> the<other> dvdplayer<device> in<other> the<other> room<location>
+turnon<action> the<other> airconditioner<device> in<other> the<other> basement<location>
+shower<device> pause<action>
+turnon<action> the<other> room<location> music<device>
+play<action> the<other> airconditioner<device> in<other> the<other> kitchen<location>
+switchon<action> television<device> in<other> the<other> bathroom<location>
+decrease<action> the<other> bathroom<location> fan<device>
+switchoff<action> the<other> temperature<device> in<other> the<other> bathroom<location>
+decrease<action> radio<device> in<other> the<other> room<location>
+movie<device> turnoff<action>
+pause<action> the<other> airconditioner<device> in<other> the<other> bedroom<location>
+switchon<action> the<other> dvdplayer<device> in<other> the<other> storage<location>
+open<action> tv<device> in<other> the<other> storage<location>
+increase<action> temperature<device> in<other> the<other> bedroom<location>
+turnon<action> airconditioner<device> in<other> the<other> room<location>
+turnoff<action> the<other> television<device> in<other> the<other> kitchen<location>
+turnon<action> the<other> dvdplayer<device> in<other> the<other> basement<location>
+play<action> fan<device> in<other> the<other> room<location>
+radio<device> turnon<action>
+increase<action> the<other> fan<device> in<other> the<other> bedroom<location>
+play<action> the<other> basement<location> music<device>
+turnoff<action> the<other> bedroom<location> temperature<device>
+turnon<action> coffeepot<device> in<other> the<other> kitchen<location>
+switchon<action> music<device> in<other> the<other> storage<location>
+close<action> the<other> fan<device> in<other> the<other> bathroom<location>
+close<action> the<other> basement<location> faucet<device>
+turnoff<action> the<other> movie<device> in<other> the<other> bedroom<location>
+fan<device> pause<action>
+play<action> the<other> livingroom<location> radio<device>
+switchoff<action> coffeepot<device> in<other> the<other> bathroom<location>
+pause<action> the<other> storage<location> temperature<device>
+switchoff<action> tv<device> in<other> the<other> storage<location>
+switchoff<action> the<other> basement<location> radio<device>
+increase<action> television<device> in<other> the<other> basement<location>
+close<action> fan<device> in<other> the<other> livingroom<location>
+turnon<action> the<other> bathroom<location> shower<device>
+faucet<device> turnon<action>
+close<action> the<other> room<location> tv<device>
+temperature<device> turnoff<action>
+turnon<action> the<other> music<device> in<other> the<other> basement<location>
+increase<action> the<other> musicplayer<device> in<other> the<other> room<location>
+switchon<action> the<other> basement<location> radio<device>
+pause<action> musicplayer<device> in<other> the<other> room<location>
+open<action> the<other> room<location> fan<device>
+turnoff<action> the<other> music<device> in<other> the<other> livingroom<location>
+open<action> shower<device> in<other> the<other> bathroom<location>
+turnoff<action> the<other> radio<device> in<other> the<other> storage<location>
+increase<action> the<other> television<device> in<other> the<other> livingroom<location>
+airconditioner<device> pause<action>
+play<action> faucet<device> in<other> the<other> kitchen<location>
+pause<action> the<other> room<location> light<device>
+fan<device> open<action>
+pause<action> faucet<device> in<other> the<other> bathroom<location>
+switchon<action> the<other> kitchen<location> movie<device>
+play<action> the<other> coffeepot<device> in<other> the<other> kitchen<location>
+play<action> dvdplayer<device> in<other> the<other> bathroom<location>
+decrease<action> the<other> dvdplayer<device> in<other> the<other> bedroom<location>
+turnon<action> fan<device> in<other> the<other> room<location>
+switchon<action> the<other> bathroom<location> radio<device>
+pause<action> the<other> musicplayer<device> in<other> the<other> livingroom<location>
+decrease<action> the<other> kitchen<location> coffeepot<device>
+temperature<device> pause<action>
+light<device> turnoff<action>
+increase<action> the<other> television<device> in<other> the<other> storage<location>
+tv<device> decrease<action>
+airconditioner<device> open<action>
+dvdplayer<device> turnoff<action>
+switchoff<action> the<other> room<location> radio<device>
+television<device> open<action>
+open<action> radio<device> in<other> the<other> bathroom<location>
+turnoff<action> the<other> room<location> shower<device>
+turnoff<action> movie<device> in<other> the<other> bathroom<location>
+open<action> the<other> temperature<device> in<other> the<other> bathroom<location>
+temperature<device> turnon<action>
+pause<action> the<other> fan<device> in<other> the<other> bathroom<location>
+turnon<action> the<other> fan<device> in<other> the<other> kitchen<location>
+open<action> the<other> fan<device> in<other> the<other> kitchen<location>
+play<action> the<other> airconditioner<device> in<other> the<other> bathroom<location>
+switchoff<action> airconditioner<device> in<other> the<other> storage<location>
+switchoff<action> the<other> light<device> in<other> the<other> livingroom<location>
+play<action> the<other> storage<location> television<device>
+switchoff<action> the<other> bathroom<location> radio<device>
+close<action> coffeepot<device> in<other> the<other> bathroom<location>
+turnon<action> radio<device> in<other> the<other> kitchen<location>
+switchoff<action> shower<device> in<other> the<other> bathroom<location>
+pause<action> the<other> bathroom<location> dvdplayer<device>
+increase<action> the<other> room<location> music<device>
+play<action> the<other> faucet<device> in<other> the<other> bathroom<location>
+turnon<action> the<other> light<device> in<other> the<other> kitchen<location>
+open<action> the<other> airconditioner<device> in<other> the<other> bedroom<location>
+radio<device> decrease<action>
+radio<device> play<action>
+switchoff<action> shower<device> in<other> the<other> storage<location>
+play<action> the<other> kitchen<location> fan<device>
+turnoff<action> shower<device> in<other> the<other> kitchen<location>
+music<device> switchoff<action>
+pause<action> the<other> television<device> in<other> the<other> bathroom<location>
+pause<action> the<other> kitchen<location> temperature<device>
+dvdplayer<device> open<action>
+switchoff<action> tv<device> in<other> the<other> bathroom<location>
+light<device> close<action>
+switchon<action> the<other> dvdplayer<device> in<other> the<other> bathroom<location>
+close<action> the<other> tv<device> in<other> the<other> bedroom<location>
+close<action> the<other> bathroom<location> fan<device>
+pause<action> movie<device> in<other> the<other> bedroom<location>
+decrease<action> the<other> faucet<device> in<other> the<other> bedroom<location>
+coffeepot<device> decrease<action>
+light<device> open<action>
+temperature<device> decrease<action>
+turnon<action> the<other> fan<device> in<other> the<other> livingroom<location>
+play<action> light<device> in<other> the<other> bathroom<location>
+movie<device> switchon<action>
+turnon<action> the<other> fan<device> in<other> the<other> room<location>
+increase<action> the<other> television<device> in<other> the<other> basement<location>
+switchoff<action> airconditioner<device> in<other> the<other> livingroom<location>
+close<action> musicplayer<device> in<other> the<other> livingroom<location>
+turnoff<action> light<device> in<other> the<other> kitchen<location>
+musicplayer<device> switchon<action>
+turnoff<action> the<other> airconditioner<device> in<other> the<other> storage<location>
+play<action> the<other> music<device> in<other> the<other> bedroom<location>
+pause<action> the<other> basement<location> radio<device>
+light<device> play<action>
+musicplayer<device> switchon<action>
+movie<device> close<action>
+turnon<action> television<device> in<other> the<other> basement<location>
+turnoff<action> the<other> kitchen<location> coffeepot<device>
+increase<action> temperature<device> in<other> the<other> bedroom<location>
+increase<action> tv<device> in<other> the<other> bathroom<location>
+turnon<action> the<other> radio<device> in<other> the<other> storage<location>
+shower<device> pause<action>
+switchoff<action> the<other> airconditioner<device> in<other> the<other> storage<location>
+play<action> tv<device> in<other> the<other> bathroom<location>
+play<action> the<other> light<device> in<other> the<other> storage<location>
+television<device> turnon<action>
+open<action> the<other> coffeepot<device> in<other> the<other> bathroom<location>
+increase<action> temperature<device> in<other> the<other> storage<location>
+increase<action> television<device> in<other> the<other> bathroom<location>
+turnon<action> the<other> light<device> in<other> the<other> kitchen<location>
+open<action> movie<device> in<other> the<other> room<location>
+increase<action> the<other> coffeepot<device> in<other> the<other> kitchen<location>
+turnoff<action> the<other> television<device> in<other> the<other> storage<location>
+decrease<action> the<other> bathroom<location> radio<device>
+close<action> the<other> faucet<device> in<other> the<other> livingroom<location>
+turnoff<action> the<other> room<location> shower<device>
+play<action> the<other> bathroom<location> coffeepot<device>
+open<action> the<other> light<device> in<other> the<other> bedroom<location>
+turnoff<action> the<other> fan<device> in<other> the<other> basement<location>
+decrease<action> airconditioner<device> in<other> the<other> room<location>
+musicplayer<device> play<action>
+increase<action> the<other> fan<device> in<other> the<other> room<location>
+turnon<action> airconditioner<device> in<other> the<other> bedroom<location>
+pause<action> the<other> bathroom<location> temperature<device>
+switchoff<action> the<other> coffeepot<device> in<other> the<other> storage<location>
+coffeepot<device> open<action>
+pause<action> the<other> radio<device> in<other> the<other> storage<location>
+switchoff<action> the<other> dvdplayer<device> in<other> the<other> bathroom<location>
+switchoff<action> the<other> tv<device> in<other> the<other> kitchen<location>
+play<action> light<device> in<other> the<other> bedroom<location>
+radio<device> increase<action>
+television<device> close<action>
+switchon<action> faucet<device> in<other> the<other> room<location>
+coffeepot<device> switchoff<action>
+radio<device> play<action>
+pause<action> the<other> faucet<device> in<other> the<other> bedroom<location>
+turnoff<action> the<other> bathroom<location> coffeepot<device>
+decrease<action> radio<device> in<other> the<other> bathroom<location>
+switchoff<action> the<other> bathroom<location> light<device>
+tv<device> decrease<action>
+decrease<action> television<device> in<other> the<other> bathroom<location>
+airconditioner<device> pause<action>
+play<action> the<other> bathroom<location> radio<device>
+open<action> the<other> fan<device> in<other> the<other> basement<location>
+open<action> movie<device> in<other> the<other> bedroom<location>
+decrease<action> the<other> movie<device> in<other> the<other> storage<location>
+fan<device> switchon<action>
+increase<action> temperature<device> in<other> the<other> storage<location>
+dvdplayer<device> switchoff<action>
+airconditioner<device> turnon<action>
+movie<device> turnon<action>
+increase<action> the<other> faucet<device> in<other> the<other> basement<location>
+play<action> the<other> light<device> in<other> the<other> room<location>
+decrease<action> the<other> music<device> in<other> the<other> livingroom<location>
+tv<device> turnon<action>
+decrease<action> the<other> radio<device> in<other> the<other> livingroom<location>
+turnon<action> the<other> bathroom<location> shower<device>
+switchon<action> fan<device> in<other> the<other> bedroom<location>
+turnon<action> fan<device> in<other> the<other> livingroom<location>
+close<action> the<other> fan<device> in<other> the<other> bedroom<location>
+switchoff<action> radio<device> in<other> the<other> livingroom<location>
+switchon<action> airconditioner<device> in<other> the<other> bathroom<location>
+decrease<action> the<other> storage<location> music<device>
+pause<action> coffeepot<device> in<other> the<other> bedroom<location>
+television<device> decrease<action>
+play<action> musicplayer<device> in<other> the<other> bedroom<location>
+close<action> the<other> basement<location> television<device>
+switchoff<action> fan<device> in<other> the<other> bedroom<location>
+open<action> the<other> faucet<device> in<other> the<other> kitchen<location>
+dvdplayer<device> switchoff<action>
+play<action> the<other> bedroom<location> fan<device>
+dvdplayer<device> close<action>
+pause<action> the<other> musicplayer<device> in<other> the<other> room<location>
+close<action> airconditioner<device> in<other> the<other> kitchen<location>
+open<action> the<other> temperature<device> in<other> the<other> bathroom<location>
+switchon<action> the<other> musicplayer<device> in<other> the<other> bathroom<location>
+increase<action> movie<device> in<other> the<other> livingroom<location>
+close<action> the<other> livingroom<location> light<device>
+increase<action> movie<device> in<other> the<other> basement<location>
+close<action> the<other> livingroom<location> airconditioner<device>
+switchoff<action> the<other> livingroom<location> airconditioner<device>
+turnon<action> the<other> music<device> in<other> the<other> basement<location>
+movie<device> open<action>
+decrease<action> the<other> basement<location> faucet<device>
+coffeepot<device> open<action>
+close<action> shower<device> in<other> the<other> room<location>
+light<device> play<action>
+airconditioner<device> decrease<action>
+close<action> the<other> livingroom<location> movie<device>
+turnoff<action> radio<device> in<other> the<other> livingroom<location>
+decrease<action> temperature<device> in<other> the<other> room<location>
+switchon<action> the<other> bathroom<location> temperature<device>
+turnoff<action> the<other> coffeepot<device> in<other> the<other> bedroom<location>
+movie<device> decrease<action>
+decrease<action> fan<device> in<other> the<other> bathroom<location>
+temperature<device> switchon<action>
+turnon<action> the<other> musicplayer<device> in<other> the<other> storage<location>
+play<action> fan<device> in<other> the<other> livingroom<location>
+pause<action> the<other> basement<location> music<device>
+open<action> shower<device> in<other> the<other> kitchen<location>
+decrease<action> the<other> bedroom<location> television<device>
+turnon<action> the<other> kitchen<location> shower<device>
+decrease<action> faucet<device> in<other> the<other> basement<location>
+open<action> the<other> television<device> in<other> the<other> bedroom<location>
+light<device> turnoff<action>
+light<device> switchoff<action>
+play<action> the<other> light<device> in<other> the<other> bedroom<location>
+switchon<action> the<other> kitchen<location> television<device>
+coffeepot<device> decrease<action>
+switchon<action> the<other> livingroom<location> faucet<device>
+music<device> pause<action>
+play<action> the<other> livingroom<location> movie<device>
+switchon<action> faucet<device> in<other> the<other> storage<location>
+turnoff<action> the<other> kitchen<location> music<device>
+temperature<device> turnon<action>
+turnon<action> the<other> music<device> in<other> the<other> storage<location>
+play<action> the<other> kitchen<location> musicplayer<device>
+turnon<action> the<other> airconditioner<device> in<other> the<other> livingroom<location>
+shower<device> switchon<action>
+movie<device> close<action>
+decrease<action> the<other> television<device> in<other> the<other> basement<location>
+dvdplayer<device> turnon<action>
+increase<action> faucet<device> in<other> the<other> kitchen<location>
+close<action> airconditioner<device> in<other> the<other> livingroom<location>
+switchoff<action> the<other> bathroom<location> music<device>
+switchon<action> the<other> light<device> in<other> the<other> basement<location>
+temperature<device> play<action>
+pause<action> the<other> livingroom<location> musicplayer<device>
+close<action> the<other> television<device> in<other> the<other> basement<location>
+turnoff<action> coffeepot<device> in<other> the<other> kitchen<location>
+switchon<action> tv<device> in<other> the<other> livingroom<location>
+radio<device> close<action>
+decrease<action> faucet<device> in<other> the<other> bathroom<location>
+close<action> the<other> fan<device> in<other> the<other> storage<location>
+play<action> tv<device> in<other> the<other> livingroom<location>
+play<action> the<other> bathroom<location> coffeepot<device>
+decrease<action> the<other> radio<device> in<other> the<other> livingroom<location>
+switchoff<action> the<other> movie<device> in<other> the<other> storage<location>
+increase<action> television<device> in<other> the<other> bedroom<location>
+pause<action> the<other> musicplayer<device> in<other> the<other> livingroom<location>
+faucet<device> switchon<action>
+close<action> the<other> faucet<device> in<other> the<other> basement<location>
+musicplayer<device> turnoff<action>
+light<device> switchon<action>
+turnoff<action> shower<device> in<other> the<other> storage<location>
+play<action> musicplayer<device> in<other> the<other> storage<location>
+close<action> radio<device> in<other> the<other> basement<location>
+play<action> the<other> basement<location> musicplayer<device>
+temperature<device> increase<action>
+turnon<action> the<other> bedroom<location> movie<device>
+decrease<action> the<other> coffeepot<device> in<other> the<other> bathroom<location>
+play<action> the<other> radio<device> in<other> the<other> bathroom<location>
+decrease<action> the<other> livingroom<location> airconditioner<device>
+open<action> coffeepot<device> in<other> the<other> kitchen<location>
+coffeepot<device> increase<action>
+close<action> the<other> room<location> television<device>
+turnon<action> movie<device> in<other> the<other> basement<location>
+turnoff<action> light<device> in<other> the<other> bedroom<location>
+airconditioner<device> open<action>
+decrease<action> television<device> in<other> the<other> basement<location>
+close<action> the<other> music<device> in<other> the<other> bedroom<location>
+increase<action> light<device> in<other> the<other> bedroom<location>
+increase<action> airconditioner<device> in<other> the<other> room<location>
+close<action> the<other> basement<location> music<device>
+radio<device> turnon<action>
+open<action> the<other> basement<location> temperature<device>
+switchon<action> television<device> in<other> the<other> bathroom<location>
+play<action> music<device> in<other> the<other> bathroom<location>
+switchoff<action> the<other> bedroom<location> tv<device>
+switchoff<action> the<other> kitchen<location> light<device>
+fan<device> close<action>
+music<device> turnoff<action>
+increase<action> the<other> radio<device> in<other> the<other> bathroom<location>
+switchon<action> the<other> fan<device> in<other> the<other> bedroom<location>
+close<action> the<other> livingroom<location> fan<device>
+music<device> pause<action>
+decrease<action> the<other> bedroom<location> tv<device>
+play<action> the<other> musicplayer<device> in<other> the<other> kitchen<location>
+switchon<action> the<other> temperature<device> in<other> the<other> kitchen<location>
+open<action> the<other> storage<location> airconditioner<device>
+light<device> play<action>
+turnoff<action> fan<device> in<other> the<other> storage<location>
+airconditioner<device> close<action>
+pause<action> the<other> light<device> in<other> the<other> storage<location>
+turnon<action> shower<device> in<other> the<other> storage<location>
+increase<action> the<other> temperature<device> in<other> the<other> bathroom<location>
+coffeepot<device> close<action>
+close<action> the<other> movie<device> in<other> the<other> bedroom<location>
+musicplayer<device> switchoff<action>
+switchon<action> the<other> musicplayer<device> in<other> the<other> storage<location>
+play<action> dvdplayer<device> in<other> the<other> kitchen<location>
+coffeepot<device> switchoff<action>
+decrease<action> the<other> kitchen<location> temperature<device>
+switchoff<action> the<other> bathroom<location> fan<device>
+open<action> the<other> light<device> in<other> the<other> room<location>
+movie<device> play<action>
+pause<action> the<other> tv<device> in<other> the<other> kitchen<location>
+increase<action> the<other> faucet<device> in<other> the<other> basement<location>
+play<action> television<device> in<other> the<other> basement<location>
+switchoff<action> the<other> music<device> in<other> the<other> kitchen<location>
+music<device> increase<action>
+light<device> switchon<action>
+switchon<action> dvdplayer<device> in<other> the<other> basement<location>
+shower<device> open<action>
+light<device> turnon<action>
+play<action> the<other> livingroom<location> tv<device>
+close<action> the<other> livingroom<location> shower<device>
+pause<action> the<other> shower<device> in<other> the<other> livingroom<location>
+dvdplayer<device> decrease<action>
+switchon<action> the<other> light<device> in<other> the<other> bedroom<location>
+pause<action> light<device> in<other> the<other> livingroom<location>
+turnon<action> the<other> faucet<device> in<other> the<other> kitchen<location>
+temperature<device> decrease<action>
+play<action> the<other> airconditioner<device> in<other> the<other> bathroom<location>
+turnon<action> tv<device> in<other> the<other> kitchen<location>
+switchon<action> the<other> basement<location> dvdplayer<device>
+switchon<action> the<other> bathroom<location> temperature<device>
+coffeepot<device> switchon<action>
+pause<action> the<other> radio<device> in<other> the<other> bathroom<location>
+play<action> fan<device> in<other> the<other> kitchen<location>
+pause<action> the<other> bathroom<location> fan<device>
+increase<action> radio<device> in<other> the<other> room<location>
+turnon<action> the<other> basement<location> musicplayer<device>
+increase<action> television<device> in<other> the<other> bedroom<location>
+switchon<action> the<other> storage<location> radio<device>
+movie<device> close<action>
+dvdplayer<device> play<action>
+fan<device> open<action>
+turnon<action> tv<device> in<other> the<other> basement<location>
+decrease<action> the<other> storage<location> light<device>
+decrease<action> fan<device> in<other> the<other> bathroom<location>
+airconditioner<device> open<action>
+pause<action> dvdplayer<device> in<other> the<other> bathroom<location>
+dvdplayer<device> play<action>
+fan<device> play<action>
+light<device> turnon<action>
+airconditioner<device> play<action>
+switchoff<action> the<other> bathroom<location> tv<device>
+turnoff<action> the<other> bedroom<location> light<device>
+switchon<action> light<device> in<other> the<other> livingroom<location>
+close<action> the<other> bedroom<location> airconditioner<device>
+switchoff<action> the<other> bedroom<location> faucet<device>
+close<action> music<device> in<other> the<other> kitchen<location>
+pause<action> the<other> storage<location> faucet<device>
+pause<action> music<device> in<other> the<other> bedroom<location>
+play<action> the<other> bedroom<location> television<device>
+close<action> the<other> bedroom<location> light<device>
+decrease<action> the<other> light<device> in<other> the<other> bathroom<location>
+increase<action> the<other> storage<location> airconditioner<device>
+increase<action> the<other> livingroom<location> fan<device>
+light<device> increase<action>
+turnon<action> movie<device> in<other> the<other> bedroom<location>
+turnon<action> the<other> dvdplayer<device> in<other> the<other> bathroom<location>
+shower<device> close<action>
+turnoff<action> musicplayer<device> in<other> the<other> room<location>
+close<action> tv<device> in<other> the<other> bathroom<location>
+television<device> increase<action>
+musicplayer<device> increase<action>
+increase<action> the<other> bathroom<location> light<device>
+coffeepot<device> turnon<action>
+music<device> switchon<action>
+television<device> decrease<action>
+turnoff<action> the<other> television<device> in<other> the<other> basement<location>
+switchon<action> the<other> faucet<device> in<other> the<other> storage<location>
+turnoff<action> the<other> bathroom<location> fan<device>
+switchoff<action> the<other> storage<location> faucet<device>
+decrease<action> the<other> kitchen<location> tv<device>
+musicplayer<device> open<action>
+switchon<action> tv<device> in<other> the<other> storage<location>
+shower<device> increase<action>
+tv<device> turnon<action>
+play<action> coffeepot<device> in<other> the<other> bathroom<location>
+increase<action> airconditioner<device> in<other> the<other> kitchen<location>
+radio<device> decrease<action>
+play<action> musicplayer<device> in<other> the<other> storage<location>
+switchon<action> tv<device> in<other> the<other> bedroom<location>
+switchon<action> the<other> movie<device> in<other> the<other> room<location>
+faucet<device> play<action>
+increase<action> the<other> kitchen<location> airconditioner<device>
+close<action> the<other> radio<device> in<other> the<other> bathroom<location>
+close<action> the<other> tv<device> in<other> the<other> kitchen<location>
+decrease<action> fan<device> in<other> the<other> bathroom<location>
+switchon<action> fan<device> in<other> the<other> basement<location>
+play<action> airconditioner<device> in<other> the<other> kitchen<location>
+turnoff<action> the<other> bedroom<location> shower<device>
+dvdplayer<device> increase<action>
+switchoff<action> shower<device> in<other> the<other> livingroom<location>
+open<action> coffeepot<device> in<other> the<other> bathroom<location>
+fan<device> switchoff<action>
+airconditioner<device> switchoff<action>
+pause<action> shower<device> in<other> the<other> livingroom<location>
+turnon<action> the<other> radio<device> in<other> the<other> bedroom<location>
+switchoff<action> fan<device> in<other> the<other> basement<location>
+increase<action> the<other> bedroom<location> temperature<device>
+increase<action> the<other> radio<device> in<other> the<other> storage<location>
+switchoff<action> the<other> basement<location> coffeepot<device>
+switchoff<action> the<other> kitchen<location> airconditioner<device>
+pause<action> dvdplayer<device> in<other> the<other> bathroom<location>
+pause<action> television<device> in<other> the<other> bedroom<location>
+pause<action> the<other> bathroom<location> faucet<device>
+play<action> the<other> kitchen<location> temperature<device>
+dvdplayer<device> switchoff<action>
+movie<device> open<action>
+switchon<action> the<other> tv<device> in<other> the<other> storage<location>
+decrease<action> the<other> kitchen<location> music<device>
+play<action> radio<device> in<other> the<other> kitchen<location>
+turnoff<action> musicplayer<device> in<other> the<other> storage<location>
+increase<action> the<other> movie<device> in<other> the<other> kitchen<location>
+switchon<action> airconditioner<device> in<other> the<other> kitchen<location>
+play<action> the<other> radio<device> in<other> the<other> bathroom<location>
+turnon<action> the<other> airconditioner<device> in<other> the<other> bedroom<location>
+close<action> tv<device> in<other> the<other> storage<location>
+play<action> temperature<device> in<other> the<other> bathroom<location>
+temperature<device> turnoff<action>
+decrease<action> musicplayer<device> in<other> the<other> storage<location>
+increase<action> the<other> room<location> radio<device>
+radio<device> increase<action>
+switchon<action> the<other> music<device> in<other> the<other> bathroom<location>
+airconditioner<device> play<action>
+radio<device> pause<action>
+increase<action> the<other> coffeepot<device> in<other> the<other> bedroom<location>
+shower<device> close<action>
+light<device> decrease<action>
+decrease<action> the<other> storage<location> temperature<device>
+open<action> the<other> basement<location> faucet<device>
+close<action> the<other> storage<location> music<device>
+pause<action> coffeepot<device> in<other> the<other> livingroom<location>
+shower<device> open<action>
+close<action> the<other> dvdplayer<device> in<other> the<other> bathroom<location>
+close<action> the<other> shower<device> in<other> the<other> bathroom<location>
+switchon<action> temperature<device> in<other> the<other> room<location>
+temperature<device> increase<action>
+shower<device> increase<action>
+open<action> the<other> kitchen<location> temperature<device>
+tv<device> switchoff<action>
+turnoff<action> the<other> shower<device> in<other> the<other> bedroom<location>
+radio<device> turnon<action>
+close<action> the<other> coffeepot<device> in<other> the<other> bathroom<location>
+pause<action> radio<device> in<other> the<other> bathroom<location>
+pause<action> the<other> bathroom<location> light<device>
+switchon<action> the<other> faucet<device> in<other> the<other> bathroom<location>
+turnon<action> tv<device> in<other> the<other> bathroom<location>
+pause<action> the<other> bedroom<location> fan<device>
+switchoff<action> the<other> bedroom<location> temperature<device>
+close<action> the<other> room<location> music<device>
+pause<action> shower<device> in<other> the<other> bathroom<location>
+switchoff<action> the<other> basement<location> coffeepot<device>
+airconditioner<device> turnon<action>
+shower<device> pause<action>
+switchoff<action> tv<device> in<other> the<other> bathroom<location>
+open<action> the<other> room<location> shower<device>
+open<action> the<other> basement<location> movie<device>
+pause<action> the<other> bathroom<location> dvdplayer<device>
+tv<device> close<action>
+music<device> open<action>
+decrease<action> the<other> coffeepot<device> in<other> the<other> kitchen<location>
+decrease<action> tv<device> in<other> the<other> livingroom<location>
+open<action> light<device> in<other> the<other> bedroom<location>
+pause<action> the<other> livingroom<location> shower<device>
+switchon<action> airconditioner<device> in<other> the<other> storage<location>
+decrease<action> shower<device> in<other> the<other> basement<location>
+switchoff<action> the<other> airconditioner<device> in<other> the<other> room<location>
+pause<action> musicplayer<device> in<other> the<other> storage<location>
+turnon<action> music<device> in<other> the<other> livingroom<location>
+radio<device> pause<action>
+airconditioner<device> decrease<action>
+music<device> turnon<action>
+fan<device> close<action>
+turnoff<action> coffeepot<device> in<other> the<other> bedroom<location>
+turnoff<action> tv<device> in<other> the<other> bathroom<location>
+decrease<action> the<other> storage<location> tv<device>
+pause<action> the<other> bedroom<location> light<device>
+switchoff<action> dvdplayer<device> in<other> the<other> bathroom<location>
+switchoff<action> light<device> in<other> the<other> livingroom<location>
+airconditioner<device> decrease<action>
+dvdplayer<device> turnoff<action>
+open<action> the<other> coffeepot<device> in<other> the<other> storage<location>
+decrease<action> the<other> room<location> fan<device>
+close<action> airconditioner<device> in<other> the<other> bathroom<location>
+shower<device> increase<action>
+light<device> pause<action>
+musicplayer<device> turnoff<action>
+close<action> light<device> in<other> the<other> kitchen<location>
+decrease<action> the<other> television<device> in<other> the<other> kitchen<location>
+turnoff<action> the<other> kitchen<location> dvdplayer<device>
+increase<action> the<other> storage<location> radio<device>
+close<action> music<device> in<other> the<other> bathroom<location>
+pause<action> the<other> kitchen<location> temperature<device>
+turnoff<action> the<other> livingroom<location> fan<device>
+switchon<action> faucet<device> in<other> the<other> bathroom<location>
+pause<action> the<other> room<location> tv<device>
+turnoff<action> the<other> basement<location> musicplayer<device>
+decrease<action> the<other> dvdplayer<device> in<other> the<other> basement<location>
+fan<device> switchon<action>
+close<action> the<other> storage<location> airconditioner<device>
+switchoff<action> dvdplayer<device> in<other> the<other> bathroom<location>
+open<action> the<other> dvdplayer<device> in<other> the<other> storage<location>
+turnoff<action> the<other> light<device> in<other> the<other> basement<location>
+coffeepot<device> close<action>
+turnoff<action> the<other> fan<device> in<other> the<other> bathroom<location>
+switchon<action> the<other> bathroom<location> light<device>
+temperature<device> switchoff<action>
+turnon<action> the<other> bedroom<location> faucet<device>
+open<action> tv<device> in<other> the<other> kitchen<location>
+pause<action> television<device> in<other> the<other> kitchen<location>
+fan<device> switchon<action>
+television<device> open<action>
+decrease<action> the<other> storage<location> musicplayer<device>
+close<action> the<other> room<location> coffeepot<device>
+close<action> the<other> storage<location> light<device>
+close<action> the<other> faucet<device> in<other> the<other> basement<location>
+dvdplayer<device> pause<action>
+play<action> temperature<device> in<other> the<other> basement<location>
+switchoff<action> the<other> bedroom<location> movie<device>
+switchon<action> the<other> movie<device> in<other> the<other> kitchen<location>
+switchoff<action> the<other> airconditioner<device> in<other> the<other> kitchen<location>
+close<action> the<other> storage<location> temperature<device>
+switchon<action> coffeepot<device> in<other> the<other> basement<location>
+increase<action> the<other> livingroom<location> coffeepot<device>
+dvdplayer<device> open<action>
+increase<action> shower<device> in<other> the<other> kitchen<location>
+turnon<action> the<other> light<device> in<other> the<other> kitchen<location>
+turnon<action> the<other> shower<device> in<other> the<other> storage<location>
+turnon<action> the<other> basement<location> shower<device>
+fan<device> play<action>
+faucet<device> pause<action>
+close<action> the<other> airconditioner<device> in<other> the<other> room<location>
+light<device> increase<action>
+turnoff<action> faucet<device> in<other> the<other> basement<location>
+light<device> open<action>
+increase<action> radio<device> in<other> the<other> bathroom<location>
+play<action> tv<device> in<other> the<other> bathroom<location>
+movie<device> switchoff<action>
+close<action> the<other> dvdplayer<device> in<other> the<other> basement<location>
+dvdplayer<device> switchon<action>
+turnoff<action> the<other> bedroom<location> airconditioner<device>
+increase<action> the<other> temperature<device> in<other> the<other> bedroom<location>
+pause<action> the<other> storage<location> temperature<device>
+coffeepot<device> close<action>
+play<action> airconditioner<device> in<other> the<other> basement<location>
+pause<action> light<device> in<other> the<other> basement<location>
+faucet<device> increase<action>
+movie<device> decrease<action>
+switchon<action> the<other> television<device> in<other> the<other> room<location>
+turnon<action> the<other> bathroom<location> light<device>
+turnoff<action> the<other> dvdplayer<device> in<other> the<other> kitchen<location>
+play<action> the<other> bedroom<location> dvdplayer<device>
+decrease<action> television<device> in<other> the<other> bathroom<location>
+turnoff<action> the<other> bedroom<location> fan<device>
+decrease<action> the<other> room<location> dvdplayer<device>
+movie<device> increase<action>
+pause<action> the<other> television<device> in<other> the<other> livingroom<location>
+shower<device> increase<action>
+tv<device> play<action>
+decrease<action> the<other> bathroom<location> temperature<device>
+turnoff<action> the<other> tv<device> in<other> the<other> storage<location>
+pause<action> music<device> in<other> the<other> bedroom<location>
+decrease<action> the<other> music<device> in<other> the<other> bathroom<location>
+switchoff<action> the<other> room<location> television<device>
+movie<device> play<action>
+musicplayer<device> pause<action>
+open<action> the<other> bedroom<location> movie<device>
+switchon<action> radio<device> in<other> the<other> bathroom<location>
+turnon<action> the<other> temperature<device> in<other> the<other> bedroom<location>
+turnoff<action> tv<device> in<other> the<other> livingroom<location>
+close<action> the<other> temperature<device> in<other> the<other> livingroom<location>
+temperature<device> switchoff<action>
+switchon<action> the<other> dvdplayer<device> in<other> the<other> bathroom<location>
+switchoff<action> the<other> shower<device> in<other> the<other> room<location>
+pause<action> movie<device> in<other> the<other> basement<location>
+turnon<action> tv<device> in<other> the<other> basement<location>
+open<action> the<other> bedroom<location> radio<device>
+close<action> the<other> faucet<device> in<other> the<other> room<location>
+television<device> decrease<action>
+airconditioner<device> decrease<action>
+switchon<action> the<other> livingroom<location> airconditioner<device>
+pause<action> the<other> temperature<device> in<other> the<other> storage<location>
+switchoff<action> the<other> fan<device> in<other> the<other> basement<location>
+close<action> the<other> tv<device> in<other> the<other> livingroom<location>
+light<device> play<action>
+play<action> radio<device> in<other> the<other> room<location>
+pause<action> the<other> bathroom<location> temperature<device>
+turnon<action> the<other> bathroom<location> movie<device>
+decrease<action> the<other> livingroom<location> music<device>
+switchoff<action> the<other> room<location> shower<device>
+switchoff<action> coffeepot<device> in<other> the<other> bathroom<location>
+increase<action> the<other> movie<device> in<other> the<other> kitchen<location>
+musicplayer<device> switchon<action>
+light<device> close<action>
+close<action> musicplayer<device> in<other> the<other> basement<location>
+increase<action> the<other> temperature<device> in<other> the<other> room<location>
+pause<action> the<other> bathroom<location> fan<device>
+musicplayer<device> switchon<action>
+coffeepot<device> pause<action>
+decrease<action> the<other> livingroom<location> movie<device>
+play<action> the<other> music<device> in<other> the<other> basement<location>
+turnoff<action> the<other> fan<device> in<other> the<other> storage<location>
+radio<device> turnon<action>
+decrease<action> the<other> tv<device> in<other> the<other> bathroom<location>
+turnoff<action> faucet<device> in<other> the<other> bedroom<location>
+turnon<action> the<other> tv<device> in<other> the<other> bedroom<location>
+faucet<device> turnoff<action>
+play<action> light<device> in<other> the<other> bathroom<location>
+open<action> the<other> tv<device> in<other> the<other> room<location>
+play<action> the<other> temperature<device> in<other> the<other> room<location>
+switchon<action> the<other> music<device> in<other> the<other> livingroom<location>
+television<device> turnoff<action>
+temperature<device> turnoff<action>
+decrease<action> the<other> movie<device> in<other> the<other> bathroom<location>
+turnoff<action> the<other> kitchen<location> dvdplayer<device>
+turnoff<action> light<device> in<other> the<other> storage<location>
+open<action> temperature<device> in<other> the<other> bathroom<location>
+switchon<action> the<other> television<device> in<other> the<other> kitchen<location>
+faucet<device> pause<action>
+decrease<action> the<other> livingroom<location> temperature<device>
+light<device> open<action>
+musicplayer<device> play<action>
+pause<action> musicplayer<device> in<other> the<other> bathroom<location>
+fan<device> play<action>
+open<action> the<other> shower<device> in<other> the<other> bathroom<location>
+coffeepot<device> turnon<action>
+pause<action> movie<device> in<other> the<other> bathroom<location>
+movie<device> open<action>
+turnon<action> the<other> faucet<device> in<other> the<other> bedroom<location>
+pause<action> musicplayer<device> in<other> the<other> room<location>
+turnon<action> the<other> airconditioner<device> in<other> the<other> room<location>
+shower<device> play<action>
+television<device> play<action>
+musicplayer<device> turnoff<action>
+switchon<action> music<device> in<other> the<other> bathroom<location>
+turnoff<action> the<other> coffeepot<device> in<other> the<other> bathroom<location>
+play<action> the<other> bathroom<location> temperature<device>
+pause<action> coffeepot<device> in<other> the<other> livingroom<location>
+switchoff<action> the<other> movie<device> in<other> the<other> storage<location>
+switchon<action> the<other> bedroom<location> television<device>
+close<action> the<other> airconditioner<device> in<other> the<other> storage<location>
+open<action> the<other> radio<device> in<other> the<other> bathroom<location>
+tv<device> close<action>
+close<action> the<other> basement<location> radio<device>
+decrease<action> the<other> livingroom<location> faucet<device>
+increase<action> the<other> movie<device> in<other> the<other> storage<location>
+pause<action> the<other> bathroom<location> music<device>
+temperature<device> close<action>
+decrease<action> tv<device> in<other> the<other> basement<location>
+turnoff<action> the<other> basement<location> coffeepot<device>
+decrease<action> the<other> basement<location> tv<device>
+open<action> coffeepot<device> in<other> the<other> storage<location>
+pause<action> the<other> fan<device> in<other> the<other> livingroom<location>
+temperature<device> pause<action>
+close<action> television<device> in<other> the<other> basement<location>
+shower<device> open<action>
+open<action> musicplayer<device> in<other> the<other> bathroom<location>
+decrease<action> the<other> room<location> dvdplayer<device>
+switchoff<action> music<device> in<other> the<other> bedroom<location>
+television<device> switchon<action>
+radio<device> play<action>
+pause<action> the<other> temperature<device> in<other> the<other> kitchen<location>
+increase<action> dvdplayer<device> in<other> the<other> bathroom<location>
+television<device> switchoff<action>
+turnon<action> coffeepot<device> in<other> the<other> basement<location>
+turnon<action> the<other> temperature<device> in<other> the<other> bathroom<location>
+pause<action> airconditioner<device> in<other> the<other> basement<location>
+close<action> airconditioner<device> in<other> the<other> livingroom<location>
+close<action> music<device> in<other> the<other> bathroom<location>
+open<action> temperature<device> in<other> the<other> bathroom<location>
+fan<device> open<action>
+fan<device> close<action>
+turnon<action> the<other> movie<device> in<other> the<other> bedroom<location>
+shower<device> switchon<action>
+open<action> the<other> coffeepot<device> in<other> the<other> livingroom<location>
+turnon<action> the<other> bedroom<location> fan<device>
+television<device> open<action>
+open<action> the<other> music<device> in<other> the<other> basement<location>
+switchon<action> the<other> bathroom<location> television<device>
+airconditioner<device> increase<action>
+play<action> the<other> livingroom<location> television<device>
+open<action> fan<device> in<other> the<other> kitchen<location>
+switchoff<action> the<other> television<device> in<other> the<other> livingroom<location>
+turnoff<action> the<other> shower<device> in<other> the<other> kitchen<location>
+close<action> the<other> faucet<device> in<other> the<other> kitchen<location>
+close<action> the<other> bathroom<location> airconditioner<device>
+shower<device> switchon<action>
+temperature<device> turnoff<action>
+open<action> the<other> temperature<device> in<other> the<other> bedroom<location>
+close<action> the<other> kitchen<location> television<device>
+decrease<action> radio<device> in<other> the<other> basement<location>
+pause<action> tv<device> in<other> the<other> room<location>
+open<action> fan<device> in<other> the<other> kitchen<location>
+pause<action> the<other> storage<location> dvdplayer<device>
+turnon<action> the<other> radio<device> in<other> the<other> livingroom<location>
+switchoff<action> the<other> storage<location> faucet<device>
+increase<action> the<other> faucet<device> in<other> the<other> bedroom<location>
+close<action> the<other> bedroom<location> fan<device>
+decrease<action> the<other> light<device> in<other> the<other> bathroom<location>
+airconditioner<device> switchon<action>
+pause<action> the<other> bedroom<location> fan<device>
+fan<device> switchoff<action>
+switchoff<action> the<other> temperature<device> in<other> the<other> bathroom<location>
+switchoff<action> the<other> bathroom<location> coffeepot<device>
+switchon<action> airconditioner<device> in<other> the<other> room<location>
+television<device> increase<action>
+switchon<action> the<other> livingroom<location> light<device>
+close<action> temperature<device> in<other> the<other> storage<location>
+decrease<action> the<other> radio<device> in<other> the<other> basement<location>
+close<action> the<other> storage<location> faucet<device>
+increase<action> the<other> livingroom<location> tv<device>
+turnon<action> the<other> room<location> temperature<device>
+switchon<action> the<other> light<device> in<other> the<other> room<location>
+turnon<action> the<other> movie<device> in<other> the<other> bathroom<location>
+switchoff<action> the<other> tv<device> in<other> the<other> room<location>
+increase<action> musicplayer<device> in<other> the<other> bedroom<location>
+shower<device> close<action>
+decrease<action> the<other> fan<device> in<other> the<other> kitchen<location>
+movie<device> switchon<action>
+decrease<action> the<other> musicplayer<device> in<other> the<other> livingroom<location>
+pause<action> the<other> temperature<device> in<other> the<other> storage<location>
+play<action> the<other> kitchen<location> light<device>
+radio<device> close<action>
+music<device> turnon<action>
+pause<action> dvdplayer<device> in<other> the<other> livingroom<location>
+tv<device> increase<action>
+airconditioner<device> open<action>
+pause<action> airconditioner<device> in<other> the<other> bathroom<location>
+turnoff<action> the<other> bathroom<location> fan<device>
+increase<action> the<other> bedroom<location> shower<device>
+music<device> increase<action>
+play<action> radio<device> in<other> the<other> bathroom<location>
+close<action> the<other> movie<device> in<other> the<other> bedroom<location>
+switchoff<action> the<other> movie<device> in<other> the<other> bathroom<location>
+close<action> the<other> airconditioner<device> in<other> the<other> kitchen<location>
+increase<action> the<other> storage<location> television<device>
+radio<device> open<action>
+pause<action> the<other> bedroom<location> faucet<device>
+pause<action> light<device> in<other> the<other> kitchen<location>
+music<device> increase<action>
+increase<action> the<other> radio<device> in<other> the<other> room<location>
+turnon<action> faucet<device> in<other> the<other> kitchen<location>
+play<action> radio<device> in<other> the<other> room<location>
+radio<device> switchoff<action>
+increase<action> the<other> light<device> in<other> the<other> room<location>
+musicplayer<device> decrease<action>
+increase<action> the<other> dvdplayer<device> in<other> the<other> room<location>
+turnoff<action> the<other> radio<device> in<other> the<other> storage<location>
+coffeepot<device> increase<action>
+turnoff<action> the<other> basement<location> faucet<device>
+close<action> the<other> storage<location> light<device>
+switchon<action> the<other> music<device> in<other> the<other> kitchen<location>
+musicplayer<device> switchon<action>
+turnoff<action> the<other> kitchen<location> dvdplayer<device>
+pause<action> the<other> storage<location> dvdplayer<device>
+switchon<action> light<device> in<other> the<other> storage<location>
+open<action> the<other> storage<location> music<device>
+close<action> musicplayer<device> in<other> the<other> kitchen<location>
+faucet<device> decrease<action>
+music<device> switchon<action>
+radio<device> turnon<action>
+switchon<action> shower<device> in<other> the<other> bedroom<location>
+turnoff<action> temperature<device> in<other> the<other> kitchen<location>
+open<action> radio<device> in<other> the<other> bathroom<location>
+close<action> the<other> bathroom<location> light<device>
+increase<action> the<other> coffeepot<device> in<other> the<other> storage<location>
+dvdplayer<device> switchoff<action>
+pause<action> the<other> room<location> television<device>
+turnon<action> the<other> airconditioner<device> in<other> the<other> storage<location>
+play<action> musicplayer<device> in<other> the<other> room<location>
+light<device> pause<action>
+radio<device> turnoff<action>
+close<action> the<other> radio<device> in<other> the<other> kitchen<location>
+light<device> switchoff<action>
+switchoff<action> airconditioner<device> in<other> the<other> bedroom<location>
+shower<device> turnoff<action>
+open<action> radio<device> in<other> the<other> kitchen<location>
+turnoff<action> the<other> light<device> in<other> the<other> storage<location>
+close<action> the<other> tv<device> in<other> the<other> storage<location>
+shower<device> pause<action>
+turnoff<action> the<other> radio<device> in<other> the<other> room<location>
+switchoff<action> the<other> temperature<device> in<other> the<other> kitchen<location>
+increase<action> fan<device> in<other> the<other> room<location>
+increase<action> the<other> bedroom<location> fan<device>
+play<action> movie<device> in<other> the<other> kitchen<location>
+switchon<action> the<other> basement<location> television<device>
+play<action> the<other> airconditioner<device> in<other> the<other> room<location>
+close<action> shower<device> in<other> the<other> room<location>
+switchon<action> the<other> coffeepot<device> in<other> the<other> kitchen<location>
+decrease<action> tv<device> in<other> the<other> livingroom<location>
+pause<action> the<other> kitchen<location> dvdplayer<device>
+open<action> the<other> basement<location> musicplayer<device>
+open<action> tv<device> in<other> the<other> room<location>
+play<action> the<other> radio<device> in<other> the<other> bedroom<location>
+decrease<action> the<other> music<device> in<other> the<other> room<location>
+turnoff<action> tv<device> in<other> the<other> room<location>
+open<action> movie<device> in<other> the<other> storage<location>
+temperature<device> increase<action>
+switchon<action> the<other> shower<device> in<other> the<other> bathroom<location>
+musicplayer<device> close<action>
+switchoff<action> the<other> kitchen<location> fan<device>
+close<action> the<other> music<device> in<other> the<other> kitchen<location>
+switchon<action> the<other> bathroom<location> music<device>
+pause<action> the<other> movie<device> in<other> the<other> livingroom<location>
+radio<device> decrease<action>
+musicplayer<device> pause<action>
+music<device> pause<action>
+shower<device> close<action>
+switchoff<action> the<other> storage<location> television<device>
+switchon<action> radio<device> in<other> the<other> bathroom<location>
+switchoff<action> movie<device> in<other> the<other> livingroom<location>
+switchoff<action> temperature<device> in<other> the<other> bedroom<location>
+movie<device> turnoff<action>
+tv<device> switchoff<action>
+open<action> the<other> basement<location> shower<device>
+switchon<action> the<other> coffeepot<device> in<other> the<other> basement<location>
+tv<device> open<action>
+open<action> the<other> basement<location> shower<device>
+close<action> the<other> basement<location> light<device>
+turnoff<action> the<other> basement<location> faucet<device>
+decrease<action> airconditioner<device> in<other> the<other> bathroom<location>
+turnoff<action> the<other> airconditioner<device> in<other> the<other> bedroom<location>
+open<action> the<other> coffeepot<device> in<other> the<other> bathroom<location>
+open<action> the<other> bedroom<location> movie<device>
+radio<device> open<action>
+increase<action> the<other> bathroom<location> faucet<device>
+open<action> the<other> kitchen<location> television<device>
+tv<device> play<action>
+pause<action> the<other> bathroom<location> musicplayer<device>
+switchon<action> movie<device> in<other> the<other> livingroom<location>
+music<device> play<action>
+close<action> the<other> shower<device> in<other> the<other> bedroom<location>
+turnon<action> dvdplayer<device> in<other> the<other> bathroom<location>
+open<action> the<other> room<location> temperature<device>
+close<action> coffeepot<device> in<other> the<other> bathroom<location>
+shower<device> switchon<action>
+decrease<action> temperature<device> in<other> the<other> bathroom<location>
+turnon<action> the<other> airconditioner<device> in<other> the<other> bathroom<location>
+open<action> tv<device> in<other> the<other> basement<location>
+close<action> light<device> in<other> the<other> kitchen<location>
+decrease<action> the<other> dvdplayer<device> in<other> the<other> bathroom<location>
+shower<device> switchon<action>
+airconditioner<device> pause<action>
+play<action> the<other> kitchen<location> radio<device>
+turnon<action> coffeepot<device> in<other> the<other> bedroom<location>
+pause<action> the<other> shower<device> in<other> the<other> bathroom<location>
+switchon<action> airconditioner<device> in<other> the<other> bedroom<location>
+switchon<action> movie<device> in<other> the<other> kitchen<location>
+turnoff<action> the<other> bathroom<location> television<device>
+open<action> the<other> room<location> musicplayer<device>
+increase<action> the<other> light<device> in<other> the<other> livingroom<location>
+temperature<device> open<action>
+open<action> the<other> shower<device> in<other> the<other> basement<location>
+musicplayer<device> switchon<action>
+increase<action> dvdplayer<device> in<other> the<other> kitchen<location>
+turnon<action> the<other> bathroom<location> television<device>
+play<action> the<other> airconditioner<device> in<other> the<other> bathroom<location>
+faucet<device> open<action>
+switchon<action> the<other> storage<location> radio<device>
+pause<action> musicplayer<device> in<other> the<other> kitchen<location>
+decrease<action> the<other> room<location> radio<device>
+music<device> switchon<action>
+television<device> turnon<action>
+pause<action> the<other> bathroom<location> shower<device>
+open<action> the<other> bathroom<location> airconditioner<device>
+switchon<action> faucet<device> in<other> the<other> bathroom<location>
+decrease<action> movie<device> in<other> the<other> kitchen<location>
+switchon<action> radio<device> in<other> the<other> bedroom<location>
+play<action> dvdplayer<device> in<other> the<other> livingroom<location>
+switchoff<action> the<other> musicplayer<device> in<other> the<other> bedroom<location>
+play<action> the<other> faucet<device> in<other> the<other> bathroom<location>
+turnon<action> fan<device> in<other> the<other> livingroom<location>
+close<action> dvdplayer<device> in<other> the<other> room<location>
+switchon<action> the<other> airconditioner<device> in<other> the<other> livingroom<location>
+increase<action> musicplayer<device> in<other> the<other> bathroom<location>
+switchon<action> the<other> faucet<device> in<other> the<other> room<location>
+switchoff<action> the<other> kitchen<location> movie<device>
+switchon<action> radio<device> in<other> the<other> room<location>
+radio<device> increase<action>
+coffeepot<device> close<action>
+increase<action> fan<device> in<other> the<other> bathroom<location>
+switchon<action> the<other> basement<location> television<device>
+pause<action> the<other> shower<device> in<other> the<other> bathroom<location>
+turnon<action> the<other> temperature<device> in<other> the<other> bathroom<location>
+switchon<action> airconditioner<device> in<other> the<other> bathroom<location>
+musicplayer<device> turnon<action>
+turnon<action> shower<device> in<other> the<other> basement<location>
+turnoff<action> airconditioner<device> in<other> the<other> livingroom<location>
+switchon<action> the<other> radio<device> in<other> the<other> bathroom<location>
+open<action> the<other> radio<device> in<other> the<other> bedroom<location>
+switchon<action> the<other> shower<device> in<other> the<other> bathroom<location>
+switchoff<action> the<other> livingroom<location> musicplayer<device>
+play<action> the<other> television<device> in<other> the<other> bathroom<location>
+turnon<action> the<other> kitchen<location> tv<device>
+pause<action> the<other> music<device> in<other> the<other> bathroom<location>
+temperature<device> turnoff<action>
+pause<action> the<other> airconditioner<device> in<other> the<other> storage<location>
+switchoff<action> faucet<device> in<other> the<other> storage<location>
+turnon<action> the<other> bathroom<location> airconditioner<device>
+decrease<action> the<other> coffeepot<device> in<other> the<other> bathroom<location>
+play<action> the<other> bathroom<location> faucet<device>
+shower<device> turnon<action>
+open<action> the<other> storage<location> movie<device>
+switchoff<action> the<other> temperature<device> in<other> the<other> livingroom<location>
+turnon<action> the<other> bathroom<location> shower<device>
+turnoff<action> the<other> room<location> radio<device>
+coffeepot<device> switchon<action>
+movie<device> switchon<action>
+music<device> turnoff<action>
+open<action> radio<device> in<other> the<other> storage<location>
+close<action> temperature<device> in<other> the<other> livingroom<location>
+fan<device> increase<action>
+radio<device> close<action>
+turnoff<action> light<device> in<other> the<other> basement<location>
+shower<device> switchon<action>
+play<action> coffeepot<device> in<other> the<other> kitchen<location>
+turnon<action> the<other> airconditioner<device> in<other> the<other> basement<location>
+open<action> the<other> bathroom<location> radio<device>
+switchon<action> the<other> kitchen<location> fan<device>
+coffeepot<device> decrease<action>
+decrease<action> musicplayer<device> in<other> the<other> bathroom<location>
+light<device> play<action>
+switchoff<action> airconditioner<device> in<other> the<other> kitchen<location>
+play<action> the<other> storage<location> airconditioner<device>
+switchon<action> the<other> music<device> in<other> the<other> bathroom<location>
+pause<action> the<other> light<device> in<other> the<other> room<location>
+coffeepot<device> increase<action>
+decrease<action> the<other> movie<device> in<other> the<other> livingroom<location>
+turnon<action> dvdplayer<device> in<other> the<other> room<location>
+turnon<action> the<other> basement<location> music<device>
+pause<action> fan<device> in<other> the<other> room<location>
+decrease<action> light<device> in<other> the<other> bathroom<location>
+tv<device> switchon<action>
+fan<device> turnon<action>
+television<device> turnoff<action>
+light<device> increase<action>
+pause<action> the<other> movie<device> in<other> the<other> bedroom<location>
+fan<device> close<action>
+increase<action> the<other> airconditioner<device> in<other> the<other> bathroom<location>
+switchoff<action> the<other> faucet<device> in<other> the<other> bathroom<location>
+close<action> musicplayer<device> in<other> the<other> room<location>
+dvdplayer<device> turnon<action>
+turnon<action> the<other> shower<device> in<other> the<other> bathroom<location>
+turnoff<action> television<device> in<other> the<other> basement<location>
+pause<action> movie<device> in<other> the<other> kitchen<location>
+music<device> pause<action>
+faucet<device> pause<action>
+increase<action> television<device> in<other> the<other> bathroom<location>
+close<action> the<other> bathroom<location> tv<device>
+close<action> shower<device> in<other> the<other> basement<location>
+coffeepot<device> turnon<action>
+switchon<action> temperature<device> in<other> the<other> basement<location>
+tv<device> turnon<action>
+play<action> the<other> airconditioner<device> in<other> the<other> kitchen<location>
+tv<device> pause<action>
+movie<device> switchoff<action>
+increase<action> the<other> room<location> dvdplayer<device>
+pause<action> coffeepot<device> in<other> the<other> room<location>
+pause<action> the<other> coffeepot<device> in<other> the<other> livingroom<location>
+shower<device> switchon<action>
+music<device> turnon<action>
+close<action> the<other> light<device> in<other> the<other> livingroom<location>
+decrease<action> light<device> in<other> the<other> kitchen<location>
+open<action> the<other> faucet<device> in<other> the<other> bedroom<location>
+turnon<action> airconditioner<device> in<other> the<other> bathroom<location>
+tv<device> pause<action>
+turnoff<action> the<other> light<device> in<other> the<other> bathroom<location>
+coffeepot<device> play<action>
+light<device> turnoff<action>
+turnon<action> the<other> dvdplayer<device> in<other> the<other> bathroom<location>
+temperature<device> turnoff<action>
+turnon<action> shower<device> in<other> the<other> room<location>
+open<action> tv<device> in<other> the<other> kitchen<location>
+close<action> fan<device> in<other> the<other> room<location>
+coffeepot<device> increase<action>
+decrease<action> fan<device> in<other> the<other> basement<location>
+airconditioner<device> decrease<action>
+turnon<action> the<other> fan<device> in<other> the<other> livingroom<location>
+turnon<action> the<other> coffeepot<device> in<other> the<other> bathroom<location>
+open<action> airconditioner<device> in<other> the<other> room<location>
+switchoff<action> the<other> movie<device> in<other> the<other> livingroom<location>
+open<action> fan<device> in<other> the<other> bathroom<location>
+turnon<action> faucet<device> in<other> the<other> bathroom<location>
+open<action> the<other> basement<location> music<device>
+light<device> open<action>
+coffeepot<device> open<action>
+switchoff<action> the<other> kitchen<location> musicplayer<device>
+pause<action> the<other> radio<device> in<other> the<other> room<location>
+decrease<action> the<other> fan<device> in<other> the<other> kitchen<location>
+switchoff<action> movie<device> in<other> the<other> livingroom<location>
+faucet<device> open<action>
+decrease<action> television<device> in<other> the<other> livingroom<location>
+pause<action> the<other> radio<device> in<other> the<other> livingroom<location>
+turnon<action> the<other> radio<device> in<other> the<other> bathroom<location>
+decrease<action> the<other> bathroom<location> coffeepot<device>
+close<action> temperature<device> in<other> the<other> storage<location>
+open<action> the<other> shower<device> in<other> the<other> kitchen<location>
+close<action> the<other> faucet<device> in<other> the<other> bathroom<location>
+play<action> music<device> in<other> the<other> room<location>
+turnon<action> the<other> faucet<device> in<other> the<other> room<location>
+play<action> music<device> in<other> the<other> basement<location>
+open<action> temperature<device> in<other> the<other> bathroom<location>
+fan<device> turnoff<action>
+increase<action> the<other> kitchen<location> light<device>
+tv<device> decrease<action>
+music<device> decrease<action>
+music<device> play<action>
+decrease<action> the<other> light<device> in<other> the<other> storage<location>
+tv<device> play<action>
+switchoff<action> the<other> movie<device> in<other> the<other> room<location>
+play<action> the<other> tv<device> in<other> the<other> basement<location>
+open<action> shower<device> in<other> the<other> bathroom<location>
+switchoff<action> the<other> dvdplayer<device> in<other> the<other> bedroom<location>
+turnoff<action> tv<device> in<other> the<other> bathroom<location>
+increase<action> the<other> bathroom<location> light<device>
+turnon<action> faucet<device> in<other> the<other> bathroom<location>
+turnoff<action> the<other> bathroom<location> music<device>
+turnon<action> the<other> light<device> in<other> the<other> bathroom<location>
+dvdplayer<device> close<action>
+turnon<action> light<device> in<other> the<other> livingroom<location>
+close<action> the<other> tv<device> in<other> the<other> storage<location>
+close<action> the<other> dvdplayer<device> in<other> the<other> bathroom<location>
+decrease<action> the<other> kitchen<location> faucet<device>
+turnoff<action> the<other> coffeepot<device> in<other> the<other> storage<location>
+movie<device> close<action>
+increase<action> shower<device> in<other> the<other> bedroom<location>
+switchoff<action> the<other> bedroom<location> tv<device>
+tv<device> turnon<action>
+increase<action> the<other> dvdplayer<device> in<other> the<other> basement<location>
+turnoff<action> the<other> tv<device> in<other> the<other> bathroom<location>
+decrease<action> the<other> bathroom<location> movie<device>
+radio<device> turnoff<action>
+play<action> shower<device> in<other> the<other> kitchen<location>
+turnoff<action> the<other> bathroom<location> dvdplayer<device>
+switchoff<action> the<other> room<location> coffeepot<device>
+open<action> the<other> storage<location> coffeepot<device>
+pause<action> the<other> room<location> shower<device>
+decrease<action> the<other> light<device> in<other> the<other> room<location>
+increase<action> the<other> basement<location> music<device>
+close<action> the<other> movie<device> in<other> the<other> bedroom<location>
+turnoff<action> the<other> faucet<device> in<other> the<other> livingroom<location>
+decrease<action> airconditioner<device> in<other> the<other> bathroom<location>
+turnon<action> fan<device> in<other> the<other> kitchen<location>
+pause<action> the<other> basement<location> music<device>
+dvdplayer<device> turnoff<action>
+decrease<action> the<other> kitchen<location> movie<device>
+tv<device> decrease<action>
+turnon<action> the<other> television<device> in<other> the<other> kitchen<location>
+switchon<action> the<other> livingroom<location> coffeepot<device>
+open<action> the<other> music<device> in<other> the<other> bathroom<location>
+open<action> the<other> livingroom<location> fan<device>
+fan<device> pause<action>
+switchoff<action> tv<device> in<other> the<other> storage<location>
+increase<action> the<other> airconditioner<device> in<other> the<other> bathroom<location>
+increase<action> the<other> room<location> coffeepot<device>
+pause<action> the<other> fan<device> in<other> the<other> basement<location>
+switchon<action> the<other> music<device> in<other> the<other> bathroom<location>
+switchoff<action> television<device> in<other> the<other> livingroom<location>
+switchoff<action> fan<device> in<other> the<other> kitchen<location>
+switchoff<action> the<other> bathroom<location> shower<device>
+television<device> switchon<action>
+tv<device> switchon<action>
+coffeepot<device> decrease<action>
+increase<action> the<other> storage<location> musicplayer<device>
+turnon<action> the<other> tv<device> in<other> the<other> kitchen<location>
+faucet<device> switchoff<action>
+light<device> switchoff<action>
+close<action> the<other> music<device> in<other> the<other> livingroom<location>
+switchoff<action> the<other> airconditioner<device> in<other> the<other> storage<location>
+movie<device> turnon<action>
+light<device> play<action>
+decrease<action> radio<device> in<other> the<other> bathroom<location>
+close<action> music<device> in<other> the<other> bathroom<location>
+increase<action> the<other> bathroom<location> light<device>
+television<device> play<action>
+increase<action> the<other> light<device> in<other> the<other> bedroom<location>
+pause<action> the<other> bathroom<location> fan<device>
+tv<device> open<action>
+play<action> shower<device> in<other> the<other> livingroom<location>
+close<action> the<other> temperature<device> in<other> the<other> room<location>
+tv<device> switchon<action>
+decrease<action> the<other> storage<location> movie<device>
+open<action> the<other> coffeepot<device> in<other> the<other> bathroom<location>
+switchoff<action> coffeepot<device> in<other> the<other> storage<location>
+decrease<action> music<device> in<other> the<other> storage<location>
+open<action> shower<device> in<other> the<other> basement<location>
+play<action> the<other> bathroom<location> coffeepot<device>
+turnoff<action> the<other> livingroom<location> faucet<device>
+switchoff<action> the<other> kitchen<location> musicplayer<device>
+switchoff<action> dvdplayer<device> in<other> the<other> bathroom<location>
+play<action> movie<device> in<other> the<other> storage<location>
+play<action> the<other> airconditioner<device> in<other> the<other> storage<location>
+close<action> faucet<device> in<other> the<other> basement<location>
+tv<device> close<action>
+light<device> switchoff<action>
+decrease<action> the<other> bathroom<location> fan<device>
+increase<action> the<other> light<device> in<other> the<other> storage<location>
+pause<action> the<other> kitchen<location> dvdplayer<device>
+increase<action> the<other> kitchen<location> music<device>
+faucet<device> decrease<action>
+switchoff<action> the<other> airconditioner<device> in<other> the<other> livingroom<location>
+increase<action> the<other> coffeepot<device> in<other> the<other> bedroom<location>
+increase<action> dvdplayer<device> in<other> the<other> bathroom<location>
+play<action> the<other> radio<device> in<other> the<other> storage<location>
+music<device> pause<action>
+light<device> turnon<action>
+close<action> the<other> dvdplayer<device> in<other> the<other> bedroom<location>
+switchon<action> music<device> in<other> the<other> bathroom<location>
+increase<action> the<other> fan<device> in<other> the<other> bedroom<location>
+dvdplayer<device> increase<action>
+turnon<action> the<other> bedroom<location> shower<device>
+pause<action> the<other> tv<device> in<other> the<other> basement<location>
+increase<action> the<other> television<device> in<other> the<other> basement<location>
+pause<action> tv<device> in<other> the<other> basement<location>
+switchoff<action> the<other> room<location> shower<device>
+turnoff<action> faucet<device> in<other> the<other> bathroom<location>
+close<action> the<other> tv<device> in<other> the<other> livingroom<location>
+decrease<action> the<other> television<device> in<other> the<other> kitchen<location>
+coffeepot<device> turnoff<action>
+shower<device> decrease<action>
+fan<device> switchoff<action>
+turnon<action> the<other> storage<location> music<device>
+turnon<action> the<other> storage<location> television<device>
+switchoff<action> the<other> fan<device> in<other> the<other> basement<location>
+fan<device> decrease<action>
+close<action> movie<device> in<other> the<other> bathroom<location>
+decrease<action> the<other> bedroom<location> shower<device>
+pause<action> the<other> faucet<device> in<other> the<other> room<location>
+increase<action> the<other> basement<location> airconditioner<device>
+decrease<action> the<other> radio<device> in<other> the<other> basement<location>
+turnon<action> music<device> in<other> the<other> storage<location>
+turnon<action> the<other> bathroom<location> shower<device>
+music<device> switchoff<action>
+open<action> the<other> bedroom<location> movie<device>
+decrease<action> the<other> livingroom<location> fan<device>
+open<action> the<other> storage<location> radio<device>
+increase<action> the<other> room<location> music<device>
+turnon<action> radio<device> in<other> the<other> storage<location>
+turnoff<action> the<other> dvdplayer<device> in<other> the<other> room<location>
+turnon<action> television<device> in<other> the<other> kitchen<location>
+pause<action> dvdplayer<device> in<other> the<other> bathroom<location>
+switchoff<action> the<other> tv<device> in<other> the<other> room<location>
+switchon<action> the<other> movie<device> in<other> the<other> bedroom<location>
+switchoff<action> the<other> temperature<device> in<other> the<other> livingroom<location>
+open<action> the<other> temperature<device> in<other> the<other> kitchen<location>
+open<action> the<other> kitchen<location> tv<device>
+light<device> pause<action>
+close<action> the<other> bathroom<location> shower<device>
+turnon<action> the<other> livingroom<location> television<device>
+turnoff<action> the<other> airconditioner<device> in<other> the<other> basement<location>
+open<action> the<other> livingroom<location> radio<device>
+coffeepot<device> turnoff<action>
+increase<action> the<other> movie<device> in<other> the<other> bathroom<location>
+play<action> movie<device> in<other> the<other> bathroom<location>
+decrease<action> the<other> storage<location> coffeepot<device>
+turnoff<action> the<other> radio<device> in<other> the<other> bathroom<location>
+switchoff<action> the<other> bathroom<location> airconditioner<device>
+open<action> the<other> livingroom<location> movie<device>
+faucet<device> play<action>
+coffeepot<device> decrease<action>
+decrease<action> the<other> livingroom<location> airconditioner<device>
+television<device> turnon<action>
+movie<device> increase<action>
+musicplayer<device> switchon<action>
+open<action> the<other> shower<device> in<other> the<other> bedroom<location>
+increase<action> the<other> music<device> in<other> the<other> basement<location>
+switchoff<action> the<other> airconditioner<device> in<other> the<other> room<location>
+turnoff<action> faucet<device> in<other> the<other> room<location>
+play<action> the<other> temperature<device> in<other> the<other> bathroom<location>
+pause<action> temperature<device> in<other> the<other> storage<location>
+pause<action> the<other> tv<device> in<other> the<other> basement<location>
+coffeepot<device> increase<action>
+open<action> the<other> storage<location> tv<device>
+television<device> decrease<action>
+radio<device> close<action>
+play<action> television<device> in<other> the<other> livingroom<location>
+music<device> turnoff<action>
+movie<device> play<action>
+close<action> the<other> radio<device> in<other> the<other> livingroom<location>
+close<action> the<other> bedroom<location> music<device>
+open<action> the<other> bathroom<location> musicplayer<device>
+play<action> fan<device> in<other> the<other> kitchen<location>
+close<action> the<other> bathroom<location> airconditioner<device>
+close<action> temperature<device> in<other> the<other> livingroom<location>
+switchon<action> the<other> livingroom<location> light<device>
+turnoff<action> the<other> bathroom<location> movie<device>
+temperature<device> pause<action>
+play<action> radio<device> in<other> the<other> bathroom<location>
+switchon<action> dvdplayer<device> in<other> the<other> bathroom<location>
+pause<action> the<other> livingroom<location> tv<device>
+increase<action> light<device> in<other> the<other> bathroom<location>
+turnoff<action> the<other> bathroom<location> television<device>
+open<action> temperature<device> in<other> the<other> livingroom<location>
+open<action> the<other> bedroom<location> airconditioner<device>
+fan<device> switchon<action>
+light<device> turnoff<action>
+fan<device> turnoff<action>
+light<device> switchon<action>
+decrease<action> musicplayer<device> in<other> the<other> bathroom<location>
+open<action> the<other> dvdplayer<device> in<other> the<other> bathroom<location>
+turnoff<action> the<other> kitchen<location> temperature<device>
+switchoff<action> the<other> faucet<device> in<other> the<other> room<location>
+open<action> faucet<device> in<other> the<other> kitchen<location>
+radio<device> play<action>
+pause<action> the<other> bedroom<location> dvdplayer<device>
+light<device> switchon<action>
+switchoff<action> the<other> fan<device> in<other> the<other> room<location>
+turnon<action> radio<device> in<other> the<other> livingroom<location>
+movie<device> play<action>
+switchon<action> shower<device> in<other> the<other> basement<location>
+play<action> shower<device> in<other> the<other> bathroom<location>
+play<action> the<other> kitchen<location> fan<device>
+open<action> the<other> musicplayer<device> in<other> the<other> storage<location>
+close<action> the<other> television<device> in<other> the<other> bathroom<location>
+switchon<action> musicplayer<device> in<other> the<other> bathroom<location>
+decrease<action> the<other> radio<device> in<other> the<other> bathroom<location>
+close<action> the<other> fan<device> in<other> the<other> storage<location>
+open<action> the<other> kitchen<location> radio<device>
+turnon<action> the<other> light<device> in<other> the<other> bathroom<location>
+switchon<action> the<other> musicplayer<device> in<other> the<other> storage<location>
+increase<action> coffeepot<device> in<other> the<other> basement<location>
+switchoff<action> movie<device> in<other> the<other> basement<location>
+turnoff<action> the<other> kitchen<location> tv<device>
+turnon<action> the<other> kitchen<location> dvdplayer<device>
+close<action> the<other> bathroom<location> musicplayer<device>
+switchon<action> movie<device> in<other> the<other> bathroom<location>
+faucet<device> pause<action>
+pause<action> the<other> bedroom<location> fan<device>
+turnon<action> the<other> music<device> in<other> the<other> storage<location>
+musicplayer<device> turnoff<action>
+pause<action> the<other> kitchen<location> temperature<device>
+increase<action> the<other> bathroom<location> tv<device>
+increase<action> the<other> basement<location> movie<device>
+pause<action> the<other> basement<location> musicplayer<device>
+switchon<action> tv<device> in<other> the<other> livingroom<location>
+switchoff<action> the<other> faucet<device> in<other> the<other> kitchen<location>
+increase<action> television<device> in<other> the<other> kitchen<location>
+increase<action> the<other> music<device> in<other> the<other> basement<location>
+increase<action> the<other> storage<location> musicplayer<device>
+television<device> open<action>
+open<action> temperature<device> in<other> the<other> room<location>
+decrease<action> the<other> bathroom<location> tv<device>
+television<device> pause<action>
+switchon<action> the<other> kitchen<location> tv<device>
+music<device> play<action>
+switchon<action> airconditioner<device> in<other> the<other> livingroom<location>
+dvdplayer<device> switchoff<action>
+turnoff<action> the<other> bathroom<location> coffeepot<device>
+turnon<action> the<other> television<device> in<other> the<other> basement<location>
+pause<action> the<other> livingroom<location> shower<device>
+switchoff<action> fan<device> in<other> the<other> kitchen<location>
+turnoff<action> tv<device> in<other> the<other> livingroom<location>
+decrease<action> the<other> basement<location> coffeepot<device>
+play<action> music<device> in<other> the<other> livingroom<location>
+close<action> the<other> livingroom<location> television<device>
+open<action> fan<device> in<other> the<other> bathroom<location>
+temperature<device> pause<action>
+airconditioner<device> increase<action>
+decrease<action> the<other> room<location> movie<device>
+increase<action> the<other> storage<location> movie<device>
+switchoff<action> the<other> livingroom<location> light<device>
+decrease<action> the<other> music<device> in<other> the<other> bathroom<location>
+television<device> decrease<action>
+temperature<device> switchon<action>
+switchoff<action> the<other> radio<device> in<other> the<other> storage<location>
+open<action> television<device> in<other> the<other> bathroom<location>
+decrease<action> the<other> bedroom<location> temperature<device>
+increase<action> the<other> livingroom<location> coffeepot<device>
+turnon<action> the<other> fan<device> in<other> the<other> kitchen<location>
+close<action> the<other> basement<location> movie<device>
+decrease<action> the<other> television<device> in<other> the<other> storage<location>
+faucet<device> turnon<action>
+switchoff<action> faucet<device> in<other> the<other> livingroom<location>
+shower<device> turnon<action>
+decrease<action> the<other> airconditioner<device> in<other> the<other> bathroom<location>
+pause<action> television<device> in<other> the<other> kitchen<location>
+switchon<action> the<other> radio<device> in<other> the<other> basement<location>
+pause<action> the<other> television<device> in<other> the<other> room<location>
+increase<action> the<other> room<location> fan<device>
+switchon<action> radio<device> in<other> the<other> livingroom<location>
+airconditioner<device> switchon<action>
+faucet<device> switchoff<action>
+turnoff<action> light<device> in<other> the<other> basement<location>
+television<device> increase<action>
+turnon<action> light<device> in<other> the<other> storage<location>
+tv<device> switchon<action>
+decrease<action> dvdplayer<device> in<other> the<other> bedroom<location>
+turnoff<action> television<device> in<other> the<other> bathroom<location>
+turnon<action> fan<device> in<other> the<other> livingroom<location>
+turnoff<action> the<other> coffeepot<device> in<other> the<other> bedroom<location>
+open<action> the<other> bathroom<location> radio<device>
+pause<action> shower<device> in<other> the<other> storage<location>
+switchoff<action> the<other> temperature<device> in<other> the<other> bedroom<location>
+pause<action> faucet<device> in<other> the<other> bedroom<location>
+switchon<action> dvdplayer<device> in<other> the<other> room<location>
+close<action> the<other> tv<device> in<other> the<other> bathroom<location>
+light<device> close<action>
+play<action> the<other> basement<location> faucet<device>
+turnon<action> the<other> dvdplayer<device> in<other> the<other> kitchen<location>
+fan<device> switchon<action>
+turnon<action> the<other> storage<location> musicplayer<device>
+open<action> airconditioner<device> in<other> the<other> bathroom<location>
+decrease<action> the<other> radio<device> in<other> the<other> bedroom<location>
+switchoff<action> fan<device> in<other> the<other> kitchen<location>
+pause<action> the<other> bedroom<location> shower<device>
+switchoff<action> temperature<device> in<other> the<other> kitchen<location>
+decrease<action> dvdplayer<device> in<other> the<other> bedroom<location>
+close<action> tv<device> in<other> the<other> kitchen<location>
+musicplayer<device> pause<action>
+open<action> the<other> dvdplayer<device> in<other> the<other> kitchen<location>
+dvdplayer<device> switchon<action>
+faucet<device> increase<action>
+pause<action> the<other> livingroom<location> tv<device>
+pause<action> coffeepot<device> in<other> the<other> kitchen<location>
+turnoff<action> the<other> faucet<device> in<other> the<other> kitchen<location>
+dvdplayer<device> play<action>
+open<action> radio<device> in<other> the<other> livingroom<location>
+musicplayer<device> pause<action>
+decrease<action> the<other> movie<device> in<other> the<other> room<location>
+dvdplayer<device> play<action>
+turnoff<action> the<other> bedroom<location> tv<device>
+switchoff<action> the<other> musicplayer<device> in<other> the<other> room<location>
+play<action> the<other> dvdplayer<device> in<other> the<other> kitchen<location>
+turnon<action> the<other> livingroom<location> coffeepot<device>
+close<action> faucet<device> in<other> the<other> bedroom<location>
+play<action> light<device> in<other> the<other> basement<location>
+television<device> open<action>
+increase<action> the<other> tv<device> in<other> the<other> bathroom<location>
+open<action> light<device> in<other> the<other> basement<location>
+open<action> the<other> airconditioner<device> in<other> the<other> bedroom<location>
+turnon<action> the<other> storage<location> movie<device>
+decrease<action> the<other> temperature<device> in<other> the<other> storage<location>
+switchon<action> the<other> basement<location> airconditioner<device>
+tv<device> pause<action>
+temperature<device> turnon<action>
+switchoff<action> the<other> bathroom<location> coffeepot<device>
+turnon<action> the<other> room<location> movie<device>
+pause<action> music<device> in<other> the<other> bedroom<location>
+turnon<action> the<other> music<device> in<other> the<other> room<location>
+switchon<action> tv<device> in<other> the<other> basement<location>
+turnoff<action> musicplayer<device> in<other> the<other> livingroom<location>
+switchoff<action> the<other> movie<device> in<other> the<other> kitchen<location>
+pause<action> shower<device> in<other> the<other> bathroom<location>
+radio<device> open<action>
+open<action> the<other> radio<device> in<other> the<other> bathroom<location>
+decrease<action> coffeepot<device> in<other> the<other> bathroom<location>
+increase<action> the<other> basement<location> temperature<device>
+musicplayer<device> pause<action>
+temperature<device> turnon<action>
+turnon<action> the<other> bathroom<location> shower<device>
+switchoff<action> the<other> dvdplayer<device> in<other> the<other> kitchen<location>
+pause<action> the<other> basement<location> dvdplayer<device>
+decrease<action> fan<device> in<other> the<other> bathroom<location>
+decrease<action> the<other> livingroom<location> shower<device>
+open<action> fan<device> in<other> the<other> kitchen<location>
+close<action> light<device> in<other> the<other> storage<location>
+switchoff<action> the<other> room<location> light<device>
+fan<device> switchon<action>
+light<device> close<action>
+switchoff<action> the<other> bathroom<location> dvdplayer<device>
+switchoff<action> the<other> bathroom<location> coffeepot<device>
+pause<action> the<other> room<location> temperature<device>
+shower<device> open<action>
+switchon<action> the<other> room<location> fan<device>
+open<action> the<other> movie<device> in<other> the<other> basement<location>
+play<action> the<other> room<location> music<device>
+open<action> the<other> room<location> movie<device>
+switchon<action> dvdplayer<device> in<other> the<other> room<location>
+open<action> the<other> musicplayer<device> in<other> the<other> room<location>
+play<action> the<other> movie<device> in<other> the<other> room<location>
+switchon<action> the<other> tv<device> in<other> the<other> basement<location>
+switchon<action> the<other> dvdplayer<device> in<other> the<other> livingroom<location>
+play<action> the<other> room<location> light<device>
+play<action> the<other> movie<device> in<other> the<other> bathroom<location>
+switchoff<action> the<other> livingroom<location> television<device>
+turnoff<action> faucet<device> in<other> the<other> livingroom<location>
+turnoff<action> the<other> airconditioner<device> in<other> the<other> storage<location>
+turnoff<action> the<other> kitchen<location> movie<device>
+turnoff<action> light<device> in<other> the<other> bathroom<location>
+close<action> the<other> basement<location> television<device>
+switchon<action> music<device> in<other> the<other> room<location>
+play<action> temperature<device> in<other> the<other> room<location>
+open<action> the<other> bathroom<location> dvdplayer<device>
+movie<device> play<action>
+play<action> the<other> movie<device> in<other> the<other> bathroom<location>
+open<action> the<other> fan<device> in<other> the<other> livingroom<location>
+close<action> the<other> room<location> musicplayer<device>
+turnoff<action> the<other> storage<location> music<device>
+switchoff<action> light<device> in<other> the<other> bathroom<location>
+play<action> the<other> tv<device> in<other> the<other> storage<location>
+close<action> the<other> livingroom<location> fan<device>
+increase<action> light<device> in<other> the<other> storage<location>
+light<device> close<action>
+play<action> temperature<device> in<other> the<other> livingroom<location>
+radio<device> switchon<action>
+increase<action> the<other> light<device> in<other> the<other> livingroom<location>
+switchoff<action> the<other> radio<device> in<other> the<other> storage<location>
+faucet<device> play<action>
+turnon<action> radio<device> in<other> the<other> bathroom<location>
+television<device> pause<action>
+turnoff<action> the<other> basement<location> television<device>
+switchoff<action> the<other> bedroom<location> shower<device>
+switchoff<action> the<other> movie<device> in<other> the<other> basement<location>
+open<action> the<other> tv<device> in<other> the<other> bathroom<location>
+switchon<action> the<other> shower<device> in<other> the<other> bedroom<location>
+switchon<action> music<device> in<other> the<other> livingroom<location>
+open<action> the<other> basement<location> dvdplayer<device>
+turnoff<action> the<other> fan<device> in<other> the<other> bathroom<location>
+decrease<action> faucet<device> in<other> the<other> livingroom<location>
+increase<action> dvdplayer<device> in<other> the<other> bathroom<location>
+pause<action> the<other> coffeepot<device> in<other> the<other> bathroom<location>
+music<device> open<action>
+decrease<action> the<other> music<device> in<other> the<other> storage<location>
+decrease<action> the<other> bedroom<location> musicplayer<device>
+pause<action> tv<device> in<other> the<other> bedroom<location>
+play<action> the<other> kitchen<location> temperature<device>
+switchon<action> shower<device> in<other> the<other> bathroom<location>
+turnon<action> the<other> radio<device> in<other> the<other> room<location>
+tv<device> switchoff<action>
+close<action> musicplayer<device> in<other> the<other> storage<location>
+play<action> the<other> bathroom<location> temperature<device>
+music<device> play<action>
+radio<device> decrease<action>
+close<action> the<other> light<device> in<other> the<other> room<location>
+open<action> the<other> coffeepot<device> in<other> the<other> livingroom<location>
+temperature<device> turnoff<action>
+pause<action> the<other> movie<device> in<other> the<other> livingroom<location>
+airconditioner<device> turnon<action>
+increase<action> the<other> bathroom<location> musicplayer<device>
+movie<device> switchoff<action>
+turnon<action> the<other> bathroom<location> tv<device>
+fan<device> decrease<action>
+musicplayer<device> turnon<action>
+fan<device> turnoff<action>
+open<action> airconditioner<device> in<other> the<other> livingroom<location>
+turnoff<action> the<other> bedroom<location> fan<device>
+turnoff<action> the<other> tv<device> in<other> the<other> bathroom<location>
+open<action> the<other> bathroom<location> movie<device>
+fan<device> turnon<action>
+shower<device> open<action>
+switchon<action> the<other> radio<device> in<other> the<other> kitchen<location>
+decrease<action> the<other> basement<location> temperature<device>
+switchon<action> musicplayer<device> in<other> the<other> bathroom<location>
+decrease<action> temperature<device> in<other> the<other> bathroom<location>
+open<action> the<other> bathroom<location> airconditioner<device>
+turnoff<action> coffeepot<device> in<other> the<other> bedroom<location>
+switchoff<action> the<other> television<device> in<other> the<other> bathroom<location>
+close<action> the<other> tv<device> in<other> the<other> basement<location>
+switchon<action> the<other> dvdplayer<device> in<other> the<other> bathroom<location>
+increase<action> the<other> kitchen<location> television<device>
+increase<action> the<other> kitchen<location> musicplayer<device>
+pause<action> coffeepot<device> in<other> the<other> livingroom<location>
+decrease<action> radio<device> in<other> the<other> kitchen<location>
+switchoff<action> the<other> television<device> in<other> the<other> livingroom<location>
+radio<device> switchon<action>
+play<action> the<other> basement<location> radio<device>
+play<action> the<other> shower<device> in<other> the<other> bedroom<location>
+radio<device> pause<action>
+close<action> temperature<device> in<other> the<other> bedroom<location>
+turnoff<action> the<other> tv<device> in<other> the<other> kitchen<location>
+turnoff<action> musicplayer<device> in<other> the<other> room<location>
+movie<device> turnoff<action>
+light<device> switchoff<action>
+pause<action> the<other> light<device> in<other> the<other> bathroom<location>
+play<action> music<device> in<other> the<other> storage<location>
+pause<action> the<other> livingroom<location> television<device>
+pause<action> temperature<device> in<other> the<other> livingroom<location>
+decrease<action> television<device> in<other> the<other> bedroom<location>
+fan<device> decrease<action>
+light<device> close<action>
+play<action> the<other> bedroom<location> fan<device>
+decrease<action> the<other> television<device> in<other> the<other> bathroom<location>
+close<action> faucet<device> in<other> the<other> storage<location>
+play<action> music<device> in<other> the<other> livingroom<location>
+increase<action> temperature<device> in<other> the<other> kitchen<location>
+turnon<action> the<other> basement<location> airconditioner<device>
+tv<device> increase<action>
+pause<action> the<other> radio<device> in<other> the<other> bedroom<location>
+decrease<action> the<other> dvdplayer<device> in<other> the<other> basement<location>
+music<device> close<action>
+temperature<device> open<action>
+fan<device> turnon<action>
+dvdplayer<device> play<action>
+radio<device> pause<action>
+light<device> increase<action>
+close<action> the<other> coffeepot<device> in<other> the<other> room<location>
+decrease<action> the<other> bathroom<location> television<device>
+switchon<action> the<other> television<device> in<other> the<other> livingroom<location>
+turnon<action> coffeepot<device> in<other> the<other> storage<location>
+open<action> shower<device> in<other> the<other> basement<location>
+temperature<device> close<action>
+faucet<device> open<action>
+switchoff<action> tv<device> in<other> the<other> livingroom<location>
+movie<device> close<action>
+switchon<action> the<other> bathroom<location> tv<device>
+pause<action> shower<device> in<other> the<other> room<location>
+dvdplayer<device> close<action>
+play<action> the<other> bathroom<location> radio<device>
+television<device> play<action>
+play<action> the<other> bathroom<location> fan<device>
+decrease<action> the<other> movie<device> in<other> the<other> kitchen<location>
+play<action> temperature<device> in<other> the<other> bathroom<location>
+pause<action> music<device> in<other> the<other> kitchen<location>
+fan<device> switchoff<action>
+play<action> tv<device> in<other> the<other> bedroom<location>
+close<action> the<other> kitchen<location> coffeepot<device>
+pause<action> the<other> kitchen<location> tv<device>
+fan<device> open<action>
+pause<action> the<other> fan<device> in<other> the<other> bathroom<location>
+switchon<action> the<other> music<device> in<other> the<other> storage<location>
+turnon<action> airconditioner<device> in<other> the<other> storage<location>
+pause<action> the<other> storage<location> dvdplayer<device>
+decrease<action> the<other> basement<location> music<device>
+switchon<action> the<other> room<location> fan<device>
+open<action> temperature<device> in<other> the<other> basement<location>
+increase<action> temperature<device> in<other> the<other> bedroom<location>
+turnon<action> television<device> in<other> the<other> livingroom<location>
+decrease<action> the<other> bathroom<location> shower<device>
+switchoff<action> the<other> music<device> in<other> the<other> bathroom<location>
+switchon<action> the<other> bedroom<location> coffeepot<device>
+decrease<action> the<other> basement<location> movie<device>
+open<action> the<other> movie<device> in<other> the<other> storage<location>
+decrease<action> shower<device> in<other> the<other> bathroom<location>
+turnoff<action> the<other> kitchen<location> musicplayer<device>
+turnon<action> the<other> radio<device> in<other> the<other> kitchen<location>
+play<action> shower<device> in<other> the<other> kitchen<location>
+musicplayer<device> switchon<action>
+music<device> increase<action>
+pause<action> the<other> radio<device> in<other> the<other> bathroom<location>
+music<device> increase<action>
+open<action> radio<device> in<other> the<other> livingroom<location>
+open<action> radio<device> in<other> the<other> basement<location>
+fan<device> open<action>
+turnon<action> the<other> radio<device> in<other> the<other> bedroom<location>
+airconditioner<device> pause<action>
+decrease<action> the<other> kitchen<location> temperature<device>
+play<action> fan<device> in<other> the<other> bathroom<location>
+open<action> the<other> kitchen<location> airconditioner<device>
+turnoff<action> musicplayer<device> in<other> the<other> livingroom<location>
+decrease<action> the<other> basement<location> shower<device>
+decrease<action> the<other> light<device> in<other> the<other> bathroom<location>
+turnoff<action> the<other> bathroom<location> television<device>
+increase<action> the<other> television<device> in<other> the<other> livingroom<location>
+dvdplayer<device> play<action>
+tv<device> close<action>
+pause<action> coffeepot<device> in<other> the<other> livingroom<location>
+increase<action> the<other> coffeepot<device> in<other> the<other> bathroom<location>
+decrease<action> light<device> in<other> the<other> bathroom<location>
+increase<action> musicplayer<device> in<other> the<other> bathroom<location>
+close<action> the<other> livingroom<location> tv<device>
+open<action> the<other> temperature<device> in<other> the<other> room<location>
+movie<device> decrease<action>
+temperature<device> play<action>
+coffeepot<device> turnoff<action>
+airconditioner<device> turnon<action>
+open<action> the<other> bathroom<location> faucet<device>
+switchoff<action> the<other> musicplayer<device> in<other> the<other> room<location>
+dvdplayer<device> play<action>
+turnon<action> television<device> in<other> the<other> bathroom<location>
+play<action> radio<device> in<other> the<other> basement<location>
+switchon<action> the<other> musicplayer<device> in<other> the<other> kitchen<location>
+increase<action> dvdplayer<device> in<other> the<other> room<location>
+dvdplayer<device> close<action>
+pause<action> the<other> kitchen<location> tv<device>
+shower<device> switchoff<action>
+increase<action> the<other> radio<device> in<other> the<other> room<location>
+open<action> the<other> movie<device> in<other> the<other> bedroom<location>
+open<action> the<other> faucet<device> in<other> the<other> livingroom<location>
+close<action> coffeepot<device> in<other> the<other> bathroom<location>
+play<action> the<other> bedroom<location> dvdplayer<device>
+music<device> increase<action>
+switchon<action> the<other> bathroom<location> fan<device>
+radio<device> increase<action>
+turnon<action> the<other> television<device> in<other> the<other> bedroom<location>
+pause<action> the<other> storage<location> musicplayer<device>
+decrease<action> the<other> storage<location> fan<device>
+play<action> movie<device> in<other> the<other> bathroom<location>
+close<action> the<other> bedroom<location> temperature<device>
+pause<action> dvdplayer<device> in<other> the<other> storage<location>
+play<action> the<other> storage<location> fan<device>
+play<action> the<other> musicplayer<device> in<other> the<other> kitchen<location>
+faucet<device> close<action>
+pause<action> the<other> music<device> in<other> the<other> room<location>
+switchoff<action> the<other> airconditioner<device> in<other> the<other> bathroom<location>
+radio<device> close<action>
+temperature<device> turnon<action>
+musicplayer<device> open<action>
+switchoff<action> the<other> room<location> music<device>
+decrease<action> shower<device> in<other> the<other> bedroom<location>
+play<action> the<other> faucet<device> in<other> the<other> livingroom<location>
+light<device> open<action>
+temperature<device> open<action>
+turnon<action> shower<device> in<other> the<other> basement<location>
+television<device> switchon<action>
+turnoff<action> the<other> coffeepot<device> in<other> the<other> bathroom<location>
+open<action> the<other> fan<device> in<other> the<other> basement<location>
+increase<action> music<device> in<other> the<other> bathroom<location>
+turnoff<action> the<other> coffeepot<device> in<other> the<other> room<location>
+play<action> the<other> coffeepot<device> in<other> the<other> bathroom<location>
+radio<device> turnon<action>
+close<action> temperature<device> in<other> the<other> kitchen<location>
+decrease<action> coffeepot<device> in<other> the<other> bathroom<location>
+airconditioner<device> increase<action>
+play<action> movie<device> in<other> the<other> bathroom<location>
+airconditioner<device> switchoff<action>
+music<device> switchoff<action>
+switchon<action> the<other> bathroom<location> movie<device>
+close<action> the<other> movie<device> in<other> the<other> livingroom<location>
+play<action> temperature<device> in<other> the<other> bedroom<location>
+switchoff<action> the<other> faucet<device> in<other> the<other> bathroom<location>
+musicplayer<device> close<action>
+switchon<action> the<other> light<device> in<other> the<other> bathroom<location>
+turnoff<action> the<other> storage<location> coffeepot<device>
+switchon<action> the<other> room<location> musicplayer<device>
+turnon<action> dvdplayer<device> in<other> the<other> kitchen<location>
+close<action> the<other> livingroom<location> music<device>
+turnoff<action> faucet<device> in<other> the<other> bedroom<location>
+play<action> shower<device> in<other> the<other> kitchen<location>
+close<action> dvdplayer<device> in<other> the<other> bedroom<location>
+turnoff<action> coffeepot<device> in<other> the<other> bathroom<location>
+pause<action> radio<device> in<other> the<other> room<location>
+switchoff<action> musicplayer<device> in<other> the<other> storage<location>
+radio<device> switchoff<action>
+decrease<action> the<other> basement<location> tv<device>
+light<device> pause<action>
+switchoff<action> shower<device> in<other> the<other> room<location>
+fan<device> open<action>
+radio<device> open<action>
+play<action> the<other> bathroom<location> music<device>
+open<action> the<other> bedroom<location> shower<device>
+open<action> the<other> airconditioner<device> in<other> the<other> bathroom<location>
+play<action> the<other> bathroom<location> radio<device>
+close<action> the<other> bathroom<location> tv<device>
+turnon<action> the<other> livingroom<location> tv<device>
+increase<action> the<other> storage<location> radio<device>
+turnon<action> the<other> kitchen<location> tv<device>
+increase<action> airconditioner<device> in<other> the<other> storage<location>
+tv<device> increase<action>
+turnon<action> the<other> fan<device> in<other> the<other> basement<location>
+increase<action> the<other> shower<device> in<other> the<other> kitchen<location>
+open<action> the<other> tv<device> in<other> the<other> bedroom<location>
+turnon<action> the<other> storage<location> fan<device>
+decrease<action> music<device> in<other> the<other> room<location>
+faucet<device> play<action>
+play<action> the<other> radio<device> in<other> the<other> storage<location>
+faucet<device> open<action>
+temperature<device> play<action>
+increase<action> the<other> television<device> in<other> the<other> bedroom<location>
+decrease<action> the<other> basement<location> movie<device>
+shower<device> turnon<action>
+fan<device> turnon<action>
+increase<action> the<other> storage<location> faucet<device>
+turnoff<action> movie<device> in<other> the<other> kitchen<location>
+open<action> the<other> basement<location> temperature<device>
+shower<device> turnon<action>
+temperature<device> turnon<action>
+switchon<action> the<other> music<device> in<other> the<other> bathroom<location>
+turnon<action> the<other> dvdplayer<device> in<other> the<other> room<location>
+television<device> decrease<action>
+turnoff<action> the<other> bathroom<location> television<device>
+switchon<action> light<device> in<other> the<other> bathroom<location>
+switchoff<action> the<other> storage<location> temperature<device>
+switchoff<action> fan<device> in<other> the<other> livingroom<location>
+turnon<action> coffeepot<device> in<other> the<other> kitchen<location>
+turnon<action> the<other> tv<device> in<other> the<other> storage<location>
+pause<action> the<other> television<device> in<other> the<other> kitchen<location>
+decrease<action> the<other> storage<location> music<device>
+switchoff<action> television<device> in<other> the<other> kitchen<location>
+play<action> the<other> storage<location> airconditioner<device>
+increase<action> temperature<device> in<other> the<other> basement<location>
+increase<action> temperature<device> in<other> the<other> basement<location>
+turnoff<action> the<other> livingroom<location> television<device>
+switchon<action> music<device> in<other> the<other> bathroom<location>
+decrease<action> the<other> bathroom<location> shower<device>
+turnon<action> airconditioner<device> in<other> the<other> room<location>
+decrease<action> the<other> bathroom<location> music<device>
+switchoff<action> fan<device> in<other> the<other> bedroom<location>
+pause<action> the<other> dvdplayer<device> in<other> the<other> room<location>
+switchoff<action> the<other> bathroom<location> tv<device>
+musicplayer<device> open<action>
+switchoff<action> temperature<device> in<other> the<other> kitchen<location>
+movie<device> open<action>
+open<action> the<other> bedroom<location> shower<device>
+pause<action> the<other> musicplayer<device> in<other> the<other> storage<location>
+switchon<action> the<other> tv<device> in<other> the<other> bathroom<location>
+faucet<device> close<action>
+turnon<action> the<other> movie<device> in<other> the<other> bathroom<location>
+switchon<action> the<other> bathroom<location> temperature<device>
+turnon<action> the<other> storage<location> temperature<device>
+switchon<action> the<other> bathroom<location> fan<device>
+coffeepot<device> switchon<action>
+turnon<action> television<device> in<other> the<other> kitchen<location>
+open<action> the<other> airconditioner<device> in<other> the<other> bathroom<location>
+close<action> dvdplayer<device> in<other> the<other> kitchen<location>
+play<action> the<other> bathroom<location> dvdplayer<device>
+pause<action> faucet<device> in<other> the<other> bathroom<location>
+close<action> the<other> airconditioner<device> in<other> the<other> kitchen<location>
+switchoff<action> fan<device> in<other> the<other> bathroom<location>
+pause<action> television<device> in<other> the<other> bathroom<location>
+pause<action> dvdplayer<device> in<other> the<other> kitchen<location>
+play<action> the<other> musicplayer<device> in<other> the<other> livingroom<location>
+switchon<action> the<other> television<device> in<other> the<other> room<location>
+light<device> decrease<action>
+increase<action> tv<device> in<other> the<other> bedroom<location>
+open<action> music<device> in<other> the<other> kitchen<location>
+temperature<device> play<action>
+turnoff<action> the<other> fan<device> in<other> the<other> bedroom<location>
+close<action> the<other> bathroom<location> temperature<device>
+radio<device> turnon<action>
+coffeepot<device> switchoff<action>
+close<action> the<other> storage<location> fan<device>
+turnon<action> shower<device> in<other> the<other> bathroom<location>
+increase<action> shower<device> in<other> the<other> livingroom<location>
+increase<action> the<other> bathroom<location> coffeepot<device>
+dvdplayer<device> pause<action>
+movie<device> turnoff<action>
+switchon<action> the<other> livingroom<location> airconditioner<device>
+switchoff<action> the<other> bathroom<location> television<device>
+turnoff<action> the<other> livingroom<location> movie<device>
+switchoff<action> the<other> temperature<device> in<other> the<other> room<location>
+play<action> the<other> radio<device> in<other> the<other> basement<location>
+switchoff<action> movie<device> in<other> the<other> livingroom<location>
+increase<action> the<other> temperature<device> in<other> the<other> bathroom<location>
+shower<device> play<action>
+switchon<action> radio<device> in<other> the<other> bathroom<location>
+radio<device> pause<action>
+switchon<action> the<other> livingroom<location> dvdplayer<device>
+turnoff<action> tv<device> in<other> the<other> kitchen<location>
+turnon<action> light<device> in<other> the<other> kitchen<location>
+temperature<device> open<action>
+shower<device> turnoff<action>
+faucet<device> turnon<action>
+light<device> turnon<action>
+switchon<action> the<other> radio<device> in<other> the<other> bathroom<location>
+switchon<action> movie<device> in<other> the<other> bathroom<location>
+switchon<action> radio<device> in<other> the<other> storage<location>
+switchon<action> the<other> basement<location> airconditioner<device>
+decrease<action> the<other> movie<device> in<other> the<other> room<location>
+open<action> the<other> musicplayer<device> in<other> the<other> livingroom<location>
+turnoff<action> movie<device> in<other> the<other> livingroom<location>
+temperature<device> turnoff<action>
+increase<action> the<other> bedroom<location> movie<device>
+turnoff<action> airconditioner<device> in<other> the<other> bathroom<location>
+play<action> light<device> in<other> the<other> storage<location>
+play<action> the<other> basement<location> music<device>
+close<action> the<other> bathroom<location> tv<device>
+decrease<action> the<other> airconditioner<device> in<other> the<other> room<location>
+faucet<device> turnoff<action>
+open<action> the<other> basement<location> radio<device>
+increase<action> the<other> radio<device> in<other> the<other> bathroom<location>
+close<action> musicplayer<device> in<other> the<other> kitchen<location>
+switchoff<action> television<device> in<other> the<other> bathroom<location>
+close<action> the<other> airconditioner<device> in<other> the<other> livingroom<location>
+close<action> the<other> bathroom<location> music<device>
+movie<device> decrease<action>
+turnoff<action> the<other> movie<device> in<other> the<other> bathroom<location>
+coffeepot<device> close<action>
+switchoff<action> airconditioner<device> in<other> the<other> bathroom<location>
+turnoff<action> the<other> movie<device> in<other> the<other> bathroom<location>
+musicplayer<device> close<action>
+decrease<action> the<other> room<location> music<device>
+musicplayer<device> play<action>
+increase<action> the<other> television<device> in<other> the<other> basement<location>
+open<action> the<other> faucet<device> in<other> the<other> room<location>
+switchoff<action> the<other> airconditioner<device> in<other> the<other> basement<location>
+increase<action> the<other> bedroom<location> airconditioner<device>
+turnoff<action> the<other> room<location> music<device>
+switchoff<action> dvdplayer<device> in<other> the<other> bathroom<location>
+switchoff<action> the<other> bathroom<location> movie<device>
+switchon<action> tv<device> in<other> the<other> livingroom<location>
+open<action> temperature<device> in<other> the<other> bathroom<location>
+fan<device> turnoff<action>
+open<action> the<other> television<device> in<other> the<other> livingroom<location>
+play<action> music<device> in<other> the<other> basement<location>
+dvdplayer<device> increase<action>
+turnon<action> musicplayer<device> in<other> the<other> livingroom<location>
+switchoff<action> light<device> in<other> the<other> kitchen<location>
+decrease<action> dvdplayer<device> in<other> the<other> bedroom<location>
+increase<action> music<device> in<other> the<other> bedroom<location>
+play<action> the<other> fan<device> in<other> the<other> livingroom<location>
+increase<action> the<other> room<location> light<device>
+music<device> close<action>
+airconditioner<device> open<action>
+pause<action> fan<device> in<other> the<other> basement<location>
+play<action> the<other> tv<device> in<other> the<other> bathroom<location>
+close<action> airconditioner<device> in<other> the<other> livingroom<location>
+switchoff<action> the<other> bathroom<location> dvdplayer<device>
+open<action> the<other> temperature<device> in<other> the<other> storage<location>
+open<action> the<other> livingroom<location> faucet<device>
+open<action> the<other> bathroom<location> music<device>
+pause<action> the<other> livingroom<location> movie<device>
+open<action> the<other> bathroom<location> fan<device>
+open<action> the<other> airconditioner<device> in<other> the<other> storage<location>
+turnoff<action> the<other> room<location> coffeepot<device>
+switchoff<action> the<other> storage<location> fan<device>
+decrease<action> the<other> bathroom<location> music<device>
+open<action> the<other> livingroom<location> fan<device>
+open<action> coffeepot<device> in<other> the<other> room<location>
+turnon<action> the<other> room<location> radio<device>
+close<action> the<other> kitchen<location> dvdplayer<device>
+switchon<action> the<other> bathroom<location> shower<device>
+switchon<action> the<other> faucet<device> in<other> the<other> bedroom<location>
+play<action> the<other> room<location> musicplayer<device>
+decrease<action> light<device> in<other> the<other> livingroom<location>
+increase<action> the<other> kitchen<location> fan<device>
+switchoff<action> the<other> temperature<device> in<other> the<other> bathroom<location>
+play<action> the<other> basement<location> fan<device>
+temperature<device> decrease<action>
+tv<device> turnon<action>
+light<device> open<action>
+coffeepot<device> pause<action>
+turnoff<action> the<other> light<device> in<other> the<other> bedroom<location>
+close<action> the<other> bathroom<location> musicplayer<device>
+shower<device> turnon<action>
+close<action> the<other> bathroom<location> music<device>
+switchon<action> dvdplayer<device> in<other> the<other> bathroom<location>
+play<action> the<other> dvdplayer<device> in<other> the<other> storage<location>
+music<device> switchon<action>
+radio<device> turnon<action>
+switchon<action> light<device> in<other> the<other> kitchen<location>
+radio<device> switchoff<action>
+pause<action> movie<device> in<other> the<other> basement<location>
+decrease<action> the<other> storage<location> faucet<device>
+switchoff<action> movie<device> in<other> the<other> basement<location>
+switchoff<action> the<other> tv<device> in<other> the<other> kitchen<location>
+television<device> close<action>
+play<action> musicplayer<device> in<other> the<other> bedroom<location>
+play<action> the<other> faucet<device> in<other> the<other> bathroom<location>
+switchon<action> the<other> temperature<device> in<other> the<other> livingroom<location>
+switchon<action> the<other> bathroom<location> radio<device>
+turnon<action> the<other> bathroom<location> television<device>
+open<action> the<other> dvdplayer<device> in<other> the<other> basement<location>
+play<action> movie<device> in<other> the<other> bathroom<location>
+play<action> the<other> basement<location> dvdplayer<device>
+close<action> the<other> storage<location> tv<device>
+switchon<action> the<other> movie<device> in<other> the<other> bathroom<location>
+turnon<action> the<other> bedroom<location> movie<device>
+pause<action> temperature<device> in<other> the<other> room<location>
+temperature<device> play<action>
+open<action> the<other> livingroom<location> television<device>
+switchon<action> music<device> in<other> the<other> bathroom<location>
+turnoff<action> the<other> coffeepot<device> in<other> the<other> room<location>
+close<action> the<other> room<location> temperature<device>
+turnon<action> the<other> radio<device> in<other> the<other> room<location>
+decrease<action> the<other> basement<location> musicplayer<device>
+play<action> the<other> coffeepot<device> in<other> the<other> room<location>
+close<action> the<other> kitchen<location> tv<device>
+light<device> decrease<action>
+shower<device> turnoff<action>
+pause<action> temperature<device> in<other> the<other> livingroom<location>
+play<action> airconditioner<device> in<other> the<other> livingroom<location>
+turnoff<action> fan<device> in<other> the<other> basement<location>
+increase<action> the<other> television<device> in<other> the<other> kitchen<location>
+television<device> increase<action>
+turnoff<action> the<other> shower<device> in<other> the<other> bathroom<location>
+decrease<action> the<other> bathroom<location> tv<device>
+radio<device> open<action>
+decrease<action> the<other> kitchen<location> movie<device>
+light<device> open<action>
+switchon<action> the<other> musicplayer<device> in<other> the<other> kitchen<location>
+coffeepot<device> close<action>
+turnoff<action> the<other> bathroom<location> fan<device>
+close<action> the<other> airconditioner<device> in<other> the<other> basement<location>
+airconditioner<device> play<action>
+open<action> shower<device> in<other> the<other> bathroom<location>
+decrease<action> the<other> kitchen<location> coffeepot<device>
+increase<action> the<other> radio<device> in<other> the<other> storage<location>
+pause<action> the<other> storage<location> coffeepot<device>
+turnon<action> airconditioner<device> in<other> the<other> bedroom<location>
+switchon<action> the<other> bathroom<location> shower<device>
+shower<device> play<action>
+decrease<action> the<other> bathroom<location> musicplayer<device>
+decrease<action> the<other> dvdplayer<device> in<other> the<other> storage<location>
+fan<device> close<action>
+turnoff<action> the<other> light<device> in<other> the<other> room<location>
+close<action> the<other> kitchen<location> coffeepot<device>
+decrease<action> the<other> livingroom<location> tv<device>
+airconditioner<device> pause<action>
+increase<action> light<device> in<other> the<other> livingroom<location>
+switchon<action> the<other> kitchen<location> temperature<device>
+turnon<action> the<other> musicplayer<device> in<other> the<other> storage<location>
+television<device> play<action>
+turnoff<action> airconditioner<device> in<other> the<other> bathroom<location>
+turnoff<action> musicplayer<device> in<other> the<other> bedroom<location>
+switchoff<action> airconditioner<device> in<other> the<other> kitchen<location>
+increase<action> light<device> in<other> the<other> storage<location>
+decrease<action> the<other> movie<device> in<other> the<other> storage<location>
+decrease<action> the<other> kitchen<location> dvdplayer<device>
+open<action> the<other> airconditioner<device> in<other> the<other> storage<location>
+turnoff<action> the<other> temperature<device> in<other> the<other> storage<location>
+switchon<action> the<other> temperature<device> in<other> the<other> room<location>
+dvdplayer<device> open<action>
+close<action> television<device> in<other> the<other> bathroom<location>
+decrease<action> coffeepot<device> in<other> the<other> kitchen<location>
+coffeepot<device> turnon<action>
+turnon<action> the<other> bedroom<location> light<device>
+switchon<action> the<other> room<location> music<device>
+open<action> the<other> shower<device> in<other> the<other> kitchen<location>
+switchon<action> the<other> bathroom<location> tv<device>
+switchon<action> the<other> storage<location> airconditioner<device>
+music<device> increase<action>
+tv<device> pause<action>
+increase<action> dvdplayer<device> in<other> the<other> storage<location>
+switchoff<action> movie<device> in<other> the<other> livingroom<location>
+increase<action> the<other> basement<location> musicplayer<device>
+switchon<action> musicplayer<device> in<other> the<other> bathroom<location>
+close<action> the<other> bathroom<location> radio<device>
+turnoff<action> coffeepot<device> in<other> the<other> bathroom<location>
+movie<device> switchoff<action>
+turnon<action> the<other> bathroom<location> light<device>
+switchoff<action> the<other> storage<location> light<device>
+play<action> the<other> livingroom<location> shower<device>
+close<action> the<other> room<location> tv<device>
+close<action> fan<device> in<other> the<other> bathroom<location>
+close<action> the<other> music<device> in<other> the<other> bathroom<location>
+open<action> the<other> faucet<device> in<other> the<other> bathroom<location>
+switchon<action> the<other> television<device> in<other> the<other> storage<location>
+coffeepot<device> turnon<action>
+close<action> the<other> kitchen<location> light<device>
+play<action> the<other> radio<device> in<other> the<other> basement<location>
+music<device> turnoff<action>
+pause<action> the<other> fan<device> in<other> the<other> kitchen<location>
+decrease<action> the<other> storage<location> music<device>
+fan<device> play<action>
+open<action> tv<device> in<other> the<other> storage<location>
+open<action> the<other> movie<device> in<other> the<other> storage<location>
+increase<action> tv<device> in<other> the<other> kitchen<location>
+decrease<action> the<other> basement<location> shower<device>
+switchon<action> the<other> kitchen<location> movie<device>
+decrease<action> musicplayer<device> in<other> the<other> kitchen<location>
+decrease<action> the<other> bedroom<location> musicplayer<device>
+fan<device> decrease<action>
+play<action> dvdplayer<device> in<other> the<other> bathroom<location>
+play<action> the<other> kitchen<location> temperature<device>
+play<action> the<other> bathroom<location> light<device>
+play<action> temperature<device> in<other> the<other> room<location>
+turnon<action> movie<device> in<other> the<other> kitchen<location>
+play<action> the<other> movie<device> in<other> the<other> room<location>
+radio<device> switchoff<action>
+decrease<action> the<other> storage<location> shower<device>
+switchoff<action> television<device> in<other> the<other> storage<location>
+coffeepot<device> open<action>
+decrease<action> the<other> radio<device> in<other> the<other> basement<location>
+switchoff<action> shower<device> in<other> the<other> bedroom<location>
+light<device> play<action>
+open<action> the<other> tv<device> in<other> the<other> storage<location>
+radio<device> increase<action>
+turnon<action> the<other> livingroom<location> tv<device>
+temperature<device> switchoff<action>
+close<action> the<other> temperature<device> in<other> the<other> bedroom<location>
+television<device> switchoff<action>
+close<action> shower<device> in<other> the<other> basement<location>
+close<action> the<other> room<location> television<device>
+open<action> coffeepot<device> in<other> the<other> bedroom<location>
+switchoff<action> television<device> in<other> the<other> room<location>
+play<action> the<other> music<device> in<other> the<other> bathroom<location>
+decrease<action> tv<device> in<other> the<other> bathroom<location>
+play<action> the<other> tv<device> in<other> the<other> bathroom<location>
+faucet<device> close<action>
+turnoff<action> the<other> faucet<device> in<other> the<other> bathroom<location>
+dvdplayer<device> pause<action>
+shower<device> pause<action>
+movie<device> close<action>
+decrease<action> dvdplayer<device> in<other> the<other> storage<location>
+decrease<action> the<other> basement<location> faucet<device>
+switchoff<action> the<other> bathroom<location> musicplayer<device>
+pause<action> musicplayer<device> in<other> the<other> bathroom<location>
+switchon<action> the<other> radio<device> in<other> the<other> bathroom<location>
+close<action> musicplayer<device> in<other> the<other> bedroom<location>
+switchoff<action> airconditioner<device> in<other> the<other> room<location>
+temperature<device> increase<action>
+open<action> the<other> kitchen<location> television<device>
+switchon<action> the<other> bedroom<location> radio<device>
+increase<action> the<other> kitchen<location> television<device>
+light<device> switchon<action>
+open<action> movie<device> in<other> the<other> storage<location>
+increase<action> the<other> bathroom<location> dvdplayer<device>
+switchoff<action> music<device> in<other> the<other> bathroom<location>
+movie<device> decrease<action>
+light<device> turnon<action>
+musicplayer<device> play<action>
+play<action> the<other> radio<device> in<other> the<other> bathroom<location>
+pause<action> the<other> room<location> coffeepot<device>
+play<action> tv<device> in<other> the<other> kitchen<location>
+television<device> open<action>
+switchon<action> the<other> music<device> in<other> the<other> kitchen<location>
+open<action> the<other> livingroom<location> airconditioner<device>
+turnoff<action> the<other> tv<device> in<other> the<other> basement<location>
+pause<action> the<other> shower<device> in<other> the<other> basement<location>
+switchoff<action> musicplayer<device> in<other> the<other> storage<location>
+turnoff<action> the<other> bedroom<location> dvdplayer<device>
+pause<action> the<other> bathroom<location> tv<device>
+shower<device> close<action>
+airconditioner<device> switchoff<action>
+faucet<device> pause<action>
+dvdplayer<device> increase<action>
+airconditioner<device> switchon<action>
+increase<action> fan<device> in<other> the<other> livingroom<location>
+switchon<action> coffeepot<device> in<other> the<other> bathroom<location>
+play<action> the<other> basement<location> radio<device>
+television<device> pause<action>
+decrease<action> the<other> storage<location> tv<device>
+switchon<action> the<other> movie<device> in<other> the<other> room<location>
+turnon<action> tv<device> in<other> the<other> room<location>
+turnon<action> light<device> in<other> the<other> bedroom<location>
+switchoff<action> radio<device> in<other> the<other> bathroom<location>
+turnon<action> movie<device> in<other> the<other> livingroom<location>
+switchon<action> the<other> fan<device> in<other> the<other> basement<location>
+close<action> the<other> kitchen<location> tv<device>
+increase<action> the<other> bathroom<location> dvdplayer<device>
+close<action> the<other> bathroom<location> tv<device>
+turnoff<action> the<other> kitchen<location> fan<device>
+turnoff<action> the<other> bedroom<location> faucet<device>
+musicplayer<device> decrease<action>
+pause<action> the<other> fan<device> in<other> the<other> livingroom<location>
+increase<action> the<other> shower<device> in<other> the<other> storage<location>
+pause<action> movie<device> in<other> the<other> basement<location>
+pause<action> shower<device> in<other> the<other> livingroom<location>
+switchoff<action> faucet<device> in<other> the<other> bathroom<location>
+faucet<device> switchoff<action>
+decrease<action> temperature<device> in<other> the<other> storage<location>
+turnon<action> the<other> tv<device> in<other> the<other> bedroom<location>
+faucet<device> close<action>
+switchon<action> the<other> livingroom<location> shower<device>
+turnon<action> the<other> airconditioner<device> in<other> the<other> livingroom<location>
+switchoff<action> the<other> bedroom<location> music<device>
+turnoff<action> tv<device> in<other> the<other> storage<location>
+turnon<action> the<other> musicplayer<device> in<other> the<other> bedroom<location>
+close<action> the<other> livingroom<location> coffeepot<device>
+decrease<action> tv<device> in<other> the<other> kitchen<location>
+play<action> the<other> light<device> in<other> the<other> livingroom<location>
+dvdplayer<device> pause<action>
+close<action> the<other> airconditioner<device> in<other> the<other> kitchen<location>
+pause<action> light<device> in<other> the<other> basement<location>
+close<action> faucet<device> in<other> the<other> kitchen<location>
+increase<action> the<other> temperature<device> in<other> the<other> basement<location>
+close<action> the<other> music<device> in<other> the<other> bedroom<location>
+close<action> dvdplayer<device> in<other> the<other> basement<location>
+airconditioner<device> open<action>
+turnoff<action> the<other> faucet<device> in<other> the<other> bathroom<location>
+turnon<action> shower<device> in<other> the<other> storage<location>
+light<device> play<action>
+turnoff<action> the<other> movie<device> in<other> the<other> bathroom<location>
+open<action> the<other> kitchen<location> movie<device>
+turnon<action> faucet<device> in<other> the<other> bathroom<location>
+decrease<action> the<other> faucet<device> in<other> the<other> kitchen<location>
+light<device> switchoff<action>
+open<action> the<other> musicplayer<device> in<other> the<other> storage<location>
+switchoff<action> coffeepot<device> in<other> the<other> bathroom<location>
+decrease<action> the<other> fan<device> in<other> the<other> storage<location>
+turnon<action> the<other> storage<location> musicplayer<device>
+airconditioner<device> increase<action>
+play<action> the<other> airconditioner<device> in<other> the<other> livingroom<location>
+open<action> radio<device> in<other> the<other> room<location>
+switchon<action> the<other> basement<location> light<device>
+play<action> the<other> basement<location> tv<device>
+decrease<action> the<other> television<device> in<other> the<other> bathroom<location>
+tv<device> close<action>
+turnon<action> the<other> bathroom<location> temperature<device>
+play<action> the<other> bedroom<location> faucet<device>
+turnoff<action> musicplayer<device> in<other> the<other> livingroom<location>
+decrease<action> the<other> bedroom<location> airconditioner<device>
+open<action> the<other> faucet<device> in<other> the<other> storage<location>
+pause<action> the<other> livingroom<location> tv<device>
+open<action> the<other> movie<device> in<other> the<other> bathroom<location>
+play<action> the<other> faucet<device> in<other> the<other> bedroom<location>
+open<action> the<other> movie<device> in<other> the<other> storage<location>
+light<device> pause<action>
+close<action> temperature<device> in<other> the<other> bathroom<location>
+play<action> the<other> airconditioner<device> in<other> the<other> bathroom<location>
+television<device> decrease<action>
+decrease<action> the<other> livingroom<location> faucet<device>
+turnoff<action> the<other> dvdplayer<device> in<other> the<other> bathroom<location>
+close<action> the<other> bedroom<location> dvdplayer<device>
+close<action> the<other> storage<location> radio<device>
+turnoff<action> the<other> kitchen<location> music<device>
+switchoff<action> the<other> movie<device> in<other> the<other> kitchen<location>
+increase<action> the<other> radio<device> in<other> the<other> livingroom<location>
+switchoff<action> the<other> shower<device> in<other> the<other> kitchen<location>
+turnoff<action> the<other> fan<device> in<other> the<other> basement<location>
+play<action> radio<device> in<other> the<other> bathroom<location>
+close<action> the<other> fan<device> in<other> the<other> room<location>
+movie<device> turnoff<action>
+fan<device> switchon<action>
+increase<action> the<other> basement<location> faucet<device>
+decrease<action> coffeepot<device> in<other> the<other> room<location>
+dvdplayer<device> turnoff<action>
+tv<device> open<action>
+open<action> the<other> room<location> temperature<device>
+decrease<action> television<device> in<other> the<other> bedroom<location>
+coffeepot<device> decrease<action>
+pause<action> the<other> radio<device> in<other> the<other> kitchen<location>
+switchoff<action> the<other> temperature<device> in<other> the<other> storage<location>
+turnon<action> the<other> light<device> in<other> the<other> kitchen<location>
+increase<action> coffeepot<device> in<other> the<other> bathroom<location>
+turnon<action> the<other> bathroom<location> musicplayer<device>
+open<action> the<other> dvdplayer<device> in<other> the<other> room<location>
+pause<action> the<other> bathroom<location> musicplayer<device>
+temperature<device> close<action>
+open<action> shower<device> in<other> the<other> basement<location>
+turnoff<action> tv<device> in<other> the<other> bedroom<location>
+tv<device> open<action>
+dvdplayer<device> open<action>
+decrease<action> television<device> in<other> the<other> bedroom<location>
+light<device> open<action>
+switchoff<action> the<other> room<location> light<device>
+increase<action> the<other> livingroom<location> temperature<device>
+switchon<action> the<other> bedroom<location> coffeepot<device>
+play<action> the<other> shower<device> in<other> the<other> bedroom<location>
+open<action> the<other> storage<location> music<device>
+close<action> the<other> kitchen<location> music<device>
+light<device> switchoff<action>
+light<device> close<action>
+coffeepot<device> switchoff<action>
+close<action> the<other> airconditioner<device> in<other> the<other> basement<location>
+play<action> light<device> in<other> the<other> livingroom<location>
+decrease<action> the<other> tv<device> in<other> the<other> storage<location>
+close<action> the<other> livingroom<location> tv<device>
+turnon<action> the<other> music<device> in<other> the<other> bathroom<location>
+open<action> the<other> kitchen<location> airconditioner<device>
+turnoff<action> the<other> bathroom<location> movie<device>
+play<action> coffeepot<device> in<other> the<other> storage<location>
+pause<action> the<other> light<device> in<other> the<other> room<location>
+dvdplayer<device> close<action>
+switchoff<action> the<other> light<device> in<other> the<other> livingroom<location>
+switchoff<action> the<other> movie<device> in<other> the<other> livingroom<location>
+open<action> television<device> in<other> the<other> storage<location>
+play<action> the<other> bedroom<location> tv<device>
+shower<device> open<action>
+switchon<action> the<other> faucet<device> in<other> the<other> bedroom<location>
+television<device> play<action>
+open<action> faucet<device> in<other> the<other> bedroom<location>
+increase<action> tv<device> in<other> the<other> kitchen<location>
+open<action> the<other> kitchen<location> tv<device>
+pause<action> the<other> basement<location> movie<device>
+switchon<action> the<other> bathroom<location> movie<device>
+turnon<action> the<other> storage<location> faucet<device>
+radio<device> pause<action>
+decrease<action> the<other> television<device> in<other> the<other> bedroom<location>
+decrease<action> the<other> livingroom<location> faucet<device>
+increase<action> the<other> airconditioner<device> in<other> the<other> kitchen<location>
+turnoff<action> temperature<device> in<other> the<other> livingroom<location>
+turnoff<action> the<other> room<location> coffeepot<device>
+increase<action> the<other> basement<location> musicplayer<device>
+switchon<action> the<other> bathroom<location> temperature<device>
+pause<action> music<device> in<other> the<other> bathroom<location>
+switchoff<action> the<other> bathroom<location> fan<device>
+radio<device> switchoff<action>
+increase<action> temperature<device> in<other> the<other> livingroom<location>
+switchon<action> the<other> bedroom<location> faucet<device>
+increase<action> radio<device> in<other> the<other> kitchen<location>
+musicplayer<device> increase<action>
+open<action> the<other> coffeepot<device> in<other> the<other> kitchen<location>
+music<device> switchon<action>
+play<action> the<other> shower<device> in<other> the<other> kitchen<location>
+switchoff<action> the<other> livingroom<location> radio<device>
+close<action> music<device> in<other> the<other> basement<location>
+decrease<action> the<other> storage<location> television<device>
+increase<action> the<other> kitchen<location> faucet<device>
+music<device> switchoff<action>
+pause<action> the<other> light<device> in<other> the<other> bathroom<location>
+tv<device> increase<action>
+temperature<device> open<action>
+musicplayer<device> switchoff<action>
+radio<device> play<action>
+switchon<action> the<other> radio<device> in<other> the<other> bathroom<location>
+pause<action> airconditioner<device> in<other> the<other> kitchen<location>
+turnon<action> the<other> kitchen<location> coffeepot<device>
+decrease<action> the<other> music<device> in<other> the<other> bedroom<location>
+close<action> the<other> storage<location> radio<device>
+pause<action> the<other> shower<device> in<other> the<other> livingroom<location>
+decrease<action> the<other> bedroom<location> fan<device>
+switchoff<action> the<other> shower<device> in<other> the<other> bathroom<location>
+close<action> the<other> kitchen<location> shower<device>
+switchon<action> the<other> dvdplayer<device> in<other> the<other> storage<location>
+play<action> faucet<device> in<other> the<other> kitchen<location>
+open<action> the<other> shower<device> in<other> the<other> basement<location>
+switchon<action> the<other> bathroom<location> light<device>
+shower<device> open<action>
+turnoff<action> the<other> kitchen<location> movie<device>
+turnoff<action> the<other> shower<device> in<other> the<other> bathroom<location>
+pause<action> the<other> basement<location> shower<device>
+movie<device> switchoff<action>
+increase<action> the<other> tv<device> in<other> the<other> room<location>
+switchon<action> the<other> bathroom<location> musicplayer<device>
+faucet<device> decrease<action>
+switchoff<action> the<other> bathroom<location> radio<device>
+increase<action> the<other> radio<device> in<other> the<other> bedroom<location>
+play<action> shower<device> in<other> the<other> kitchen<location>
+light<device> switchoff<action>
+pause<action> the<other> tv<device> in<other> the<other> bathroom<location>
+switchon<action> the<other> livingroom<location> music<device>
+decrease<action> the<other> temperature<device> in<other> the<other> bathroom<location>
+switchoff<action> the<other> livingroom<location> airconditioner<device>
+pause<action> the<other> livingroom<location> light<device>
+turnoff<action> the<other> light<device> in<other> the<other> bedroom<location>
+increase<action> the<other> faucet<device> in<other> the<other> room<location>
+light<device> switchon<action>
+turnon<action> the<other> bathroom<location> fan<device>
+switchoff<action> the<other> music<device> in<other> the<other> bathroom<location>
+open<action> shower<device> in<other> the<other> kitchen<location>
+turnoff<action> the<other> kitchen<location> fan<device>
+turnoff<action> the<other> temperature<device> in<other> the<other> kitchen<location>
+turnon<action> the<other> bedroom<location> light<device>
+coffeepot<device> play<action>
+tv<device> increase<action>
+switchon<action> the<other> temperature<device> in<other> the<other> bedroom<location>
+decrease<action> the<other> bathroom<location> airconditioner<device>
+movie<device> pause<action>
+pause<action> the<other> room<location> musicplayer<device>
+airconditioner<device> decrease<action>
+turnon<action> the<other> temperature<device> in<other> the<other> bathroom<location>
+music<device> play<action>
+turnon<action> the<other> radio<device> in<other> the<other> bathroom<location>
+switchon<action> the<other> livingroom<location> music<device>
+increase<action> light<device> in<other> the<other> storage<location>
+switchon<action> the<other> basement<location> temperature<device>
+dvdplayer<device> switchon<action>
+decrease<action> light<device> in<other> the<other> kitchen<location>
+play<action> television<device> in<other> the<other> bedroom<location>
+temperature<device> switchon<action>
+switchon<action> the<other> airconditioner<device> in<other> the<other> bathroom<location>
+open<action> musicplayer<device> in<other> the<other> kitchen<location>
+airconditioner<device> switchoff<action>
+turnon<action> coffeepot<device> in<other> the<other> bedroom<location>
+switchoff<action> the<other> storage<location> faucet<device>
+faucet<device> close<action>
+switchon<action> the<other> kitchen<location> light<device>
+faucet<device> switchon<action>
+decrease<action> fan<device> in<other> the<other> bathroom<location>
+play<action> the<other> bathroom<location> light<device>
+fan<device> increase<action>
+turnon<action> the<other> fan<device> in<other> the<other> bathroom<location>
+airconditioner<device> play<action>
+turnoff<action> the<other> livingroom<location> television<device>
+play<action> the<other> music<device> in<other> the<other> basement<location>
+movie<device> turnon<action>
+open<action> faucet<device> in<other> the<other> bathroom<location>
+turnoff<action> light<device> in<other> the<other> bedroom<location>
+tv<device> turnoff<action>
+play<action> the<other> bedroom<location> television<device>
+turnoff<action> the<other> storage<location> temperature<device>
+faucet<device> pause<action>
+faucet<device> turnon<action>
+turnon<action> the<other> livingroom<location> music<device>
+play<action> the<other> television<device> in<other> the<other> storage<location>
+switchoff<action> the<other> shower<device> in<other> the<other> bathroom<location>
+tv<device> pause<action>
+play<action> the<other> bedroom<location> coffeepot<device>
+turnon<action> the<other> bathroom<location> faucet<device>
+temperature<device> close<action>
+pause<action> the<other> bathroom<location> musicplayer<device>
+musicplayer<device> switchon<action>
+play<action> the<other> musicplayer<device> in<other> the<other> storage<location>
+increase<action> faucet<device> in<other> the<other> storage<location>
+switchon<action> the<other> music<device> in<other> the<other> bedroom<location>
+decrease<action> music<device> in<other> the<other> livingroom<location>
+shower<device> increase<action>
+pause<action> coffeepot<device> in<other> the<other> bathroom<location>
+turnon<action> the<other> fan<device> in<other> the<other> kitchen<location>
+fan<device> switchoff<action>
+switchon<action> the<other> airconditioner<device> in<other> the<other> bathroom<location>
+open<action> the<other> light<device> in<other> the<other> bathroom<location>
+turnon<action> movie<device> in<other> the<other> livingroom<location>
+airconditioner<device> switchon<action>
+play<action> the<other> storage<location> fan<device>
+decrease<action> the<other> storage<location> television<device>
+turnon<action> the<other> dvdplayer<device> in<other> the<other> bedroom<location>
+open<action> shower<device> in<other> the<other> bathroom<location>
+switchoff<action> the<other> coffeepot<device> in<other> the<other> livingroom<location>
+turnoff<action> the<other> livingroom<location> musicplayer<device>
+radio<device> decrease<action>
+switchoff<action> the<other> bathroom<location> television<device>
+decrease<action> the<other> livingroom<location> musicplayer<device>
+switchon<action> tv<device> in<other> the<other> basement<location>
+radio<device> pause<action>
+decrease<action> the<other> coffeepot<device> in<other> the<other> basement<location>
+close<action> the<other> movie<device> in<other> the<other> basement<location>
+movie<device> play<action>
+play<action> the<other> bathroom<location> shower<device>
+increase<action> movie<device> in<other> the<other> bathroom<location>
+turnoff<action> the<other> bedroom<location> faucet<device>
+pause<action> the<other> tv<device> in<other> the<other> room<location>
+open<action> the<other> room<location> shower<device>
+switchon<action> coffeepot<device> in<other> the<other> livingroom<location>
+dvdplayer<device> close<action>
+movie<device> decrease<action>
+decrease<action> the<other> tv<device> in<other> the<other> basement<location>
+switchoff<action> television<device> in<other> the<other> kitchen<location>
+tv<device> switchon<action>
+tv<device> open<action>
+pause<action> light<device> in<other> the<other> bathroom<location>
+pause<action> the<other> bathroom<location> faucet<device>
+turnoff<action> the<other> room<location> airconditioner<device>
+close<action> television<device> in<other> the<other> basement<location>
+switchon<action> music<device> in<other> the<other> storage<location>
+open<action> music<device> in<other> the<other> bathroom<location>
+increase<action> the<other> room<location> faucet<device>
+increase<action> the<other> bathroom<location> tv<device>
+switchoff<action> the<other> tv<device> in<other> the<other> bedroom<location>
+musicplayer<device> close<action>
+increase<action> coffeepot<device> in<other> the<other> room<location>
+switchoff<action> the<other> basement<location> shower<device>
+open<action> the<other> airconditioner<device> in<other> the<other> basement<location>
+increase<action> the<other> tv<device> in<other> the<other> kitchen<location>
+pause<action> the<other> basement<location> faucet<device>
+close<action> the<other> coffeepot<device> in<other> the<other> kitchen<location>
+increase<action> faucet<device> in<other> the<other> bathroom<location>
+increase<action> light<device> in<other> the<other> storage<location>
+pause<action> the<other> bedroom<location> shower<device>
+switchoff<action> the<other> basement<location> coffeepot<device>
+faucet<device> switchon<action>
+temperature<device> switchoff<action>
+switchon<action> radio<device> in<other> the<other> basement<location>
+pause<action> the<other> temperature<device> in<other> the<other> bathroom<location>
+turnon<action> the<other> music<device> in<other> the<other> bathroom<location>
+switchon<action> the<other> airconditioner<device> in<other> the<other> bathroom<location>
+turnon<action> the<other> livingroom<location> airconditioner<device>
+open<action> music<device> in<other> the<other> room<location>
+musicplayer<device> increase<action>
+temperature<device> open<action>
+switchoff<action> fan<device> in<other> the<other> bedroom<location>
+switchon<action> airconditioner<device> in<other> the<other> livingroom<location>
+turnoff<action> the<other> temperature<device> in<other> the<other> livingroom<location>
+turnoff<action> dvdplayer<device> in<other> the<other> bedroom<location>
+switchon<action> the<other> fan<device> in<other> the<other> bedroom<location>
+turnoff<action> the<other> music<device> in<other> the<other> storage<location>
+temperature<device> decrease<action>
+fan<device> switchoff<action>
+close<action> radio<device> in<other> the<other> room<location>
+tv<device> turnon<action>
+pause<action> coffeepot<device> in<other> the<other> bedroom<location>
+pause<action> the<other> bedroom<location> coffeepot<device>
+switchoff<action> fan<device> in<other> the<other> storage<location>
+turnoff<action> the<other> fan<device> in<other> the<other> storage<location>
+turnoff<action> temperature<device> in<other> the<other> room<location>
+play<action> coffeepot<device> in<other> the<other> bedroom<location>
+pause<action> fan<device> in<other> the<other> storage<location>
+close<action> coffeepot<device> in<other> the<other> basement<location>
+turnon<action> the<other> livingroom<location> faucet<device>
+close<action> movie<device> in<other> the<other> basement<location>
+switchoff<action> fan<device> in<other> the<other> livingroom<location>
+decrease<action> the<other> livingroom<location> light<device>
+open<action> temperature<device> in<other> the<other> storage<location>
+open<action> the<other> livingroom<location> dvdplayer<device>
+turnon<action> the<other> kitchen<location> movie<device>
+tv<device> increase<action>
+coffeepot<device> decrease<action>
+increase<action> movie<device> in<other> the<other> basement<location>
+increase<action> the<other> airconditioner<device> in<other> the<other> bathroom<location>
+increase<action> the<other> kitchen<location> musicplayer<device>
+turnon<action> the<other> fan<device> in<other> the<other> storage<location>
+music<device> close<action>
+turnon<action> the<other> light<device> in<other> the<other> basement<location>
+temperature<device> switchon<action>
+turnon<action> the<other> radio<device> in<other> the<other> kitchen<location>
+turnon<action> the<other> kitchen<location> music<device>
+airconditioner<device> close<action>
+shower<device> pause<action>
+switchoff<action> dvdplayer<device> in<other> the<other> bathroom<location>
+turnoff<action> the<other> room<location> shower<device>
+increase<action> the<other> bathroom<location> temperature<device>
+fan<device> pause<action>
+switchon<action> the<other> bedroom<location> dvdplayer<device>
+open<action> the<other> room<location> fan<device>
+switchoff<action> the<other> livingroom<location> coffeepot<device>
+shower<device> switchoff<action>
+play<action> the<other> bathroom<location> shower<device>
+increase<action> music<device> in<other> the<other> storage<location>
+musicplayer<device> close<action>
+open<action> faucet<device> in<other> the<other> basement<location>
+turnon<action> television<device> in<other> the<other> basement<location>
+close<action> the<other> faucet<device> in<other> the<other> bathroom<location>
+open<action> the<other> bathroom<location> radio<device>
+play<action> the<other> bathroom<location> shower<device>
+music<device> close<action>
+open<action> tv<device> in<other> the<other> storage<location>
+increase<action> the<other> temperature<device> in<other> the<other> livingroom<location>
+increase<action> the<other> kitchen<location> temperature<device>
+play<action> tv<device> in<other> the<other> basement<location>
+increase<action> the<other> movie<device> in<other> the<other> basement<location>
+decrease<action> the<other> bathroom<location> light<device>
+turnoff<action> the<other> light<device> in<other> the<other> livingroom<location>
+switchon<action> the<other> musicplayer<device> in<other> the<other> bathroom<location>
+temperature<device> switchon<action>
+switchon<action> the<other> shower<device> in<other> the<other> bathroom<location>
+turnoff<action> tv<device> in<other> the<other> kitchen<location>
+turnoff<action> fan<device> in<other> the<other> kitchen<location>
+switchoff<action> the<other> temperature<device> in<other> the<other> room<location>
+switchoff<action> temperature<device> in<other> the<other> storage<location>
+open<action> the<other> storage<location> television<device>
+increase<action> the<other> bathroom<location> fan<device>
+decrease<action> shower<device> in<other> the<other> room<location>
+faucet<device> switchon<action>
+switchoff<action> faucet<device> in<other> the<other> bathroom<location>
+switchon<action> faucet<device> in<other> the<other> bathroom<location>
+switchoff<action> airconditioner<device> in<other> the<other> room<location>
+increase<action> the<other> television<device> in<other> the<other> kitchen<location>
+turnon<action> the<other> light<device> in<other> the<other> basement<location>
+play<action> the<other> bedroom<location> television<device>
+decrease<action> the<other> light<device> in<other> the<other> basement<location>
+decrease<action> airconditioner<device> in<other> the<other> bathroom<location>
+switchon<action> fan<device> in<other> the<other> kitchen<location>
+light<device> open<action>
+close<action> temperature<device> in<other> the<other> livingroom<location>
+dvdplayer<device> open<action>
+airconditioner<device> open<action>
+switchoff<action> the<other> fan<device> in<other> the<other> storage<location>
+shower<device> turnon<action>
+decrease<action> the<other> tv<device> in<other> the<other> room<location>
+increase<action> the<other> radio<device> in<other> the<other> bathroom<location>
+movie<device> decrease<action>
+pause<action> television<device> in<other> the<other> bedroom<location>
+turnon<action> the<other> music<device> in<other> the<other> bedroom<location>
+play<action> the<other> coffeepot<device> in<other> the<other> bedroom<location>
+decrease<action> the<other> faucet<device> in<other> the<other> basement<location>
+fan<device> pause<action>
+play<action> the<other> room<location> television<device>
+decrease<action> the<other> livingroom<location> fan<device>
+switchon<action> tv<device> in<other> the<other> bathroom<location>
+tv<device> increase<action>
+switchoff<action> the<other> bedroom<location> tv<device>
+switchon<action> the<other> musicplayer<device> in<other> the<other> bathroom<location>
+close<action> music<device> in<other> the<other> storage<location>
+play<action> tv<device> in<other> the<other> kitchen<location>
+coffeepot<device> turnon<action>
+turnon<action> shower<device> in<other> the<other> bathroom<location>
+switchon<action> dvdplayer<device> in<other> the<other> bedroom<location>
+television<device> pause<action>
+increase<action> the<other> tv<device> in<other> the<other> livingroom<location>
+movie<device> switchoff<action>
+turnoff<action> light<device> in<other> the<other> bedroom<location>
+open<action> the<other> bedroom<location> faucet<device>
+close<action> radio<device> in<other> the<other> basement<location>
+fan<device> close<action>
+open<action> the<other> faucet<device> in<other> the<other> bathroom<location>
+temperature<device> turnoff<action>
+musicplayer<device> increase<action>
+play<action> airconditioner<device> in<other> the<other> bathroom<location>
+radio<device> turnon<action>
+radio<device> turnon<action>
+decrease<action> light<device> in<other> the<other> livingroom<location>
+pause<action> the<other> tv<device> in<other> the<other> bedroom<location>
+switchoff<action> the<other> storage<location> radio<device>
+music<device> close<action>
+increase<action> dvdplayer<device> in<other> the<other> kitchen<location>
+increase<action> the<other> room<location> musicplayer<device>
+turnon<action> musicplayer<device> in<other> the<other> basement<location>
+play<action> the<other> temperature<device> in<other> the<other> bathroom<location>
+switchon<action> the<other> basement<location> musicplayer<device>
+increase<action> the<other> bathroom<location> light<device>
+coffeepot<device> switchon<action>
+switchon<action> the<other> bedroom<location> airconditioner<device>
+close<action> fan<device> in<other> the<other> bathroom<location>
+switchoff<action> the<other> room<location> coffeepot<device>
+open<action> the<other> livingroom<location> dvdplayer<device>
+pause<action> airconditioner<device> in<other> the<other> kitchen<location>
+open<action> the<other> storage<location> airconditioner<device>
+faucet<device> pause<action>
+movie<device> turnon<action>
+shower<device> turnon<action>
+switchoff<action> tv<device> in<other> the<other> bedroom<location>
+play<action> the<other> temperature<device> in<other> the<other> bathroom<location>
+open<action> the<other> airconditioner<device> in<other> the<other> kitchen<location>
+increase<action> light<device> in<other> the<other> livingroom<location>
+switchon<action> the<other> fan<device> in<other> the<other> bedroom<location>
+turnon<action> the<other> bathroom<location> dvdplayer<device>
+open<action> the<other> movie<device> in<other> the<other> room<location>
+open<action> musicplayer<device> in<other> the<other> bedroom<location>
+coffeepot<device> open<action>
+television<device> switchoff<action>
+close<action> temperature<device> in<other> the<other> livingroom<location>
+turnon<action> the<other> livingroom<location> tv<device>
+dvdplayer<device> turnon<action>
+turnoff<action> the<other> basement<location> light<device>
+open<action> the<other> faucet<device> in<other> the<other> kitchen<location>
+switchoff<action> the<other> radio<device> in<other> the<other> livingroom<location>
+increase<action> the<other> basement<location> tv<device>
+close<action> the<other> bedroom<location> television<device>
+decrease<action> the<other> kitchen<location> tv<device>
+close<action> the<other> movie<device> in<other> the<other> kitchen<location>
+light<device> decrease<action>
+open<action> the<other> airconditioner<device> in<other> the<other> kitchen<location>
+open<action> the<other> basement<location> faucet<device>
+switchoff<action> the<other> kitchen<location> airconditioner<device>
+turnoff<action> the<other> room<location> coffeepot<device>
+close<action> music<device> in<other> the<other> bathroom<location>
+turnon<action> the<other> television<device> in<other> the<other> room<location>
+switchoff<action> the<other> livingroom<location> music<device>
+switchoff<action> radio<device> in<other> the<other> bathroom<location>
+close<action> music<device> in<other> the<other> bathroom<location>
+turnoff<action> dvdplayer<device> in<other> the<other> storage<location>
+close<action> the<other> bedroom<location> music<device>
+open<action> the<other> room<location> airconditioner<device>
+switchon<action> the<other> room<location> movie<device>
+shower<device> switchoff<action>
+pause<action> the<other> basement<location> faucet<device>
+switchon<action> the<other> bathroom<location> airconditioner<device>
+switchon<action> tv<device> in<other> the<other> basement<location>
+shower<device> play<action>
+switchon<action> radio<device> in<other> the<other> storage<location>
+turnoff<action> movie<device> in<other> the<other> bathroom<location>
+dvdplayer<device> open<action>
+switchoff<action> the<other> livingroom<location> faucet<device>
+shower<device> switchoff<action>
+switchoff<action> the<other> tv<device> in<other> the<other> room<location>
+play<action> the<other> dvdplayer<device> in<other> the<other> storage<location>
+close<action> the<other> music<device> in<other> the<other> room<location>
+television<device> increase<action>
+increase<action> the<other> bathroom<location> television<device>
+increase<action> the<other> tv<device> in<other> the<other> bedroom<location>
+switchoff<action> the<other> movie<device> in<other> the<other> storage<location>
+close<action> the<other> airconditioner<device> in<other> the<other> bathroom<location>
+decrease<action> coffeepot<device> in<other> the<other> bedroom<location>
+coffeepot<device> turnon<action>
+play<action> temperature<device> in<other> the<other> bathroom<location>
+turnon<action> the<other> bedroom<location> fan<device>
+temperature<device> open<action>
+pause<action> the<other> radio<device> in<other> the<other> room<location>
+turnoff<action> the<other> kitchen<location> television<device>
+close<action> the<other> dvdplayer<device> in<other> the<other> livingroom<location>
+pause<action> tv<device> in<other> the<other> bathroom<location>
+play<action> the<other> shower<device> in<other> the<other> storage<location>
+tv<device> switchoff<action>
+increase<action> the<other> dvdplayer<device> in<other> the<other> room<location>
+turnoff<action> musicplayer<device> in<other> the<other> bathroom<location>
+pause<action> music<device> in<other> the<other> bedroom<location>
+increase<action> the<other> musicplayer<device> in<other> the<other> storage<location>
+radio<device> open<action>
+switchon<action> coffeepot<device> in<other> the<other> livingroom<location>
+turnoff<action> music<device> in<other> the<other> livingroom<location>
+close<action> the<other> bathroom<location> tv<device>
+open<action> the<other> bathroom<location> radio<device>
+open<action> the<other> tv<device> in<other> the<other> bedroom<location>
+pause<action> the<other> bedroom<location> dvdplayer<device>
+switchoff<action> the<other> music<device> in<other> the<other> bathroom<location>
+turnoff<action> the<other> temperature<device> in<other> the<other> bathroom<location>
+switchon<action> the<other> storage<location> radio<device>
+tv<device> increase<action>
+close<action> the<other> bedroom<location> light<device>
+turnoff<action> dvdplayer<device> in<other> the<other> basement<location>
+turnoff<action> the<other> faucet<device> in<other> the<other> livingroom<location>
+fan<device> play<action>
+open<action> the<other> coffeepot<device> in<other> the<other> livingroom<location>
+turnoff<action> tv<device> in<other> the<other> room<location>
+turnoff<action> faucet<device> in<other> the<other> room<location>
+decrease<action> the<other> television<device> in<other> the<other> storage<location>
+increase<action> the<other> bathroom<location> music<device>
+shower<device> switchon<action>
+close<action> the<other> music<device> in<other> the<other> bedroom<location>
+play<action> radio<device> in<other> the<other> storage<location>
+turnon<action> the<other> tv<device> in<other> the<other> basement<location>
+faucet<device> turnon<action>
+increase<action> the<other> shower<device> in<other> the<other> storage<location>
+dvdplayer<device> close<action>
+switchon<action> light<device> in<other> the<other> bedroom<location>
+turnoff<action> the<other> livingroom<location> airconditioner<device>
+switchon<action> airconditioner<device> in<other> the<other> livingroom<location>
+turnon<action> the<other> bedroom<location> airconditioner<device>
+play<action> airconditioner<device> in<other> the<other> bathroom<location>
+movie<device> close<action>
+music<device> switchon<action>
+turnoff<action> the<other> room<location> dvdplayer<device>
+turnoff<action> light<device> in<other> the<other> livingroom<location>
+close<action> the<other> airconditioner<device> in<other> the<other> storage<location>
+close<action> the<other> dvdplayer<device> in<other> the<other> basement<location>
+close<action> the<other> livingroom<location> musicplayer<device>
+airconditioner<device> turnon<action>
+increase<action> music<device> in<other> the<other> bathroom<location>
+temperature<device> turnon<action>
+increase<action> the<other> bathroom<location> shower<device>
+faucet<device> increase<action>
+music<device> play<action>
+switchoff<action> the<other> faucet<device> in<other> the<other> bedroom<location>
+movie<device> play<action>
+turnoff<action> the<other> tv<device> in<other> the<other> kitchen<location>
+light<device> turnon<action>
+temperature<device> play<action>
+increase<action> radio<device> in<other> the<other> bathroom<location>
+open<action> television<device> in<other> the<other> livingroom<location>
+shower<device> turnoff<action>
+play<action> coffeepot<device> in<other> the<other> bathroom<location>
+turnon<action> fan<device> in<other> the<other> room<location>
+switchoff<action> television<device> in<other> the<other> kitchen<location>
+fan<device> increase<action>
+switchoff<action> the<other> temperature<device> in<other> the<other> bedroom<location>
+switchoff<action> the<other> bedroom<location> airconditioner<device>
+switchoff<action> the<other> television<device> in<other> the<other> basement<location>
+close<action> musicplayer<device> in<other> the<other> bedroom<location>
+switchoff<action> the<other> room<location> coffeepot<device>
+close<action> the<other> kitchen<location> dvdplayer<device>
+open<action> the<other> tv<device> in<other> the<other> bathroom<location>
+pause<action> the<other> fan<device> in<other> the<other> storage<location>
+switchon<action> light<device> in<other> the<other> storage<location>
+airconditioner<device> close<action>
+play<action> the<other> bathroom<location> coffeepot<device>
+pause<action> the<other> airconditioner<device> in<other> the<other> basement<location>
+close<action> the<other> music<device> in<other> the<other> livingroom<location>
+open<action> the<other> basement<location> tv<device>
+music<device> turnon<action>
+close<action> the<other> dvdplayer<device> in<other> the<other> bathroom<location>
+turnon<action> fan<device> in<other> the<other> livingroom<location>
+switchon<action> faucet<device> in<other> the<other> basement<location>
+faucet<device> switchoff<action>
+close<action> the<other> bathroom<location> coffeepot<device>
+open<action> the<other> music<device> in<other> the<other> bathroom<location>
+decrease<action> the<other> livingroom<location> dvdplayer<device>
+close<action> the<other> storage<location> music<device>
+turnon<action> the<other> bathroom<location> musicplayer<device>
+radio<device> turnon<action>
+radio<device> switchon<action>
+play<action> the<other> fan<device> in<other> the<other> bathroom<location>
+close<action> the<other> airconditioner<device> in<other> the<other> bathroom<location>
+play<action> the<other> bathroom<location> faucet<device>
+light<device> turnon<action>
+television<device> switchon<action>
+close<action> radio<device> in<other> the<other> room<location>
+increase<action> the<other> faucet<device> in<other> the<other> room<location>
+fan<device> increase<action>
+switchoff<action> the<other> musicplayer<device> in<other> the<other> bedroom<location>
+decrease<action> the<other> movie<device> in<other> the<other> bedroom<location>
+tv<device> switchoff<action>
+faucet<device> turnon<action>
+pause<action> tv<device> in<other> the<other> bathroom<location>
+pause<action> the<other> coffeepot<device> in<other> the<other> basement<location>
+tv<device> increase<action>
+turnoff<action> the<other> coffeepot<device> in<other> the<other> basement<location>
+close<action> the<other> light<device> in<other> the<other> room<location>
+play<action> the<other> basement<location> light<device>
+open<action> the<other> television<device> in<other> the<other> room<location>
+close<action> the<other> basement<location> radio<device>
+radio<device> open<action>
+turnon<action> the<other> storage<location> faucet<device>
+play<action> the<other> bathroom<location> dvdplayer<device>
+tv<device> pause<action>
+switchoff<action> coffeepot<device> in<other> the<other> kitchen<location>
+decrease<action> coffeepot<device> in<other> the<other> basement<location>
+turnoff<action> the<other> kitchen<location> movie<device>
+increase<action> the<other> shower<device> in<other> the<other> bathroom<location>
+open<action> the<other> livingroom<location> temperature<device>
+increase<action> the<other> room<location> tv<device>
+shower<device> open<action>
+decrease<action> the<other> room<location> radio<device>
+close<action> the<other> bathroom<location> fan<device>
+turnon<action> musicplayer<device> in<other> the<other> livingroom<location>
+coffeepot<device> turnon<action>
+close<action> the<other> movie<device> in<other> the<other> livingroom<location>
+turnoff<action> tv<device> in<other> the<other> room<location>
+decrease<action> musicplayer<device> in<other> the<other> kitchen<location>
+open<action> the<other> room<location> faucet<device>
+open<action> the<other> coffeepot<device> in<other> the<other> bedroom<location>
+decrease<action> movie<device> in<other> the<other> room<location>
+close<action> light<device> in<other> the<other> basement<location>
+increase<action> the<other> temperature<device> in<other> the<other> bathroom<location>
+radio<device> play<action>
+switchon<action> radio<device> in<other> the<other> bedroom<location>
+pause<action> the<other> bathroom<location> television<device>
+television<device> increase<action>
+pause<action> the<other> faucet<device> in<other> the<other> bedroom<location>
+decrease<action> the<other> airconditioner<device> in<other> the<other> bedroom<location>
+turnon<action> the<other> storage<location> movie<device>
+decrease<action> the<other> bathroom<location> airconditioner<device>
+open<action> the<other> light<device> in<other> the<other> storage<location>
+play<action> the<other> faucet<device> in<other> the<other> bedroom<location>
+movie<device> turnon<action>
+increase<action> shower<device> in<other> the<other> bathroom<location>
+open<action> the<other> livingroom<location> shower<device>
+pause<action> fan<device> in<other> the<other> storage<location>
+decrease<action> movie<device> in<other> the<other> bathroom<location>
+close<action> tv<device> in<other> the<other> bedroom<location>
+increase<action> coffeepot<device> in<other> the<other> bathroom<location>
+shower<device> switchon<action>
+decrease<action> tv<device> in<other> the<other> storage<location>
+open<action> the<other> livingroom<location> temperature<device>
+faucet<device> turnon<action>
+pause<action> musicplayer<device> in<other> the<other> basement<location>
+temperature<device> turnoff<action>
+switchon<action> the<other> fan<device> in<other> the<other> basement<location>
+close<action> the<other> basement<location> music<device>
+switchon<action> shower<device> in<other> the<other> storage<location>
+switchon<action> the<other> bedroom<location> movie<device>
+turnoff<action> the<other> livingroom<location> fan<device>
+airconditioner<device> switchoff<action>
+open<action> the<other> light<device> in<other> the<other> bathroom<location>
+television<device> pause<action>
+turnoff<action> the<other> kitchen<location> movie<device>
+shower<device> close<action>
+radio<device> turnoff<action>
+musicplayer<device> close<action>
+turnon<action> the<other> television<device> in<other> the<other> room<location>
+turnoff<action> the<other> movie<device> in<other> the<other> bedroom<location>
+open<action> the<other> kitchen<location> television<device>
+play<action> the<other> radio<device> in<other> the<other> bathroom<location>
+turnon<action> the<other> livingroom<location> music<device>
+television<device> turnon<action>
+coffeepot<device> open<action>
+decrease<action> light<device> in<other> the<other> bathroom<location>
+musicplayer<device> switchoff<action>
+switchon<action> the<other> bathroom<location> airconditioner<device>
+light<device> open<action>
+fan<device> decrease<action>
+light<device> turnon<action>
+turnon<action> shower<device> in<other> the<other> storage<location>
+television<device> switchoff<action>
+switchon<action> the<other> airconditioner<device> in<other> the<other> bathroom<location>
+decrease<action> the<other> faucet<device> in<other> the<other> bathroom<location>
+open<action> the<other> bathroom<location> music<device>
+turnoff<action> the<other> movie<device> in<other> the<other> storage<location>
+turnon<action> the<other> dvdplayer<device> in<other> the<other> storage<location>
+open<action> the<other> fan<device> in<other> the<other> bathroom<location>
+turnoff<action> the<other> dvdplayer<device> in<other> the<other> bedroom<location>
+coffeepot<device> increase<action>
+radio<device> play<action>
+close<action> musicplayer<device> in<other> the<other> storage<location>
+light<device> turnon<action>
+turnon<action> the<other> music<device> in<other> the<other> storage<location>
+turnoff<action> the<other> bathroom<location> temperature<device>
+light<device> switchon<action>
+increase<action> television<device> in<other> the<other> livingroom<location>
+increase<action> the<other> room<location> radio<device>
+open<action> the<other> light<device> in<other> the<other> kitchen<location>
+movie<device> decrease<action>
+faucet<device> close<action>
+close<action> the<other> tv<device> in<other> the<other> storage<location>
+open<action> fan<device> in<other> the<other> bathroom<location>
+temperature<device> turnon<action>
+fan<device> increase<action>
+close<action> the<other> music<device> in<other> the<other> livingroom<location>
+pause<action> the<other> room<location> television<device>
+musicplayer<device> switchon<action>
+open<action> the<other> livingroom<location> tv<device>
+play<action> the<other> tv<device> in<other> the<other> bathroom<location>
+turnoff<action> fan<device> in<other> the<other> bathroom<location>
+decrease<action> temperature<device> in<other> the<other> kitchen<location>
+increase<action> the<other> livingroom<location> musicplayer<device>
+turnon<action> temperature<device> in<other> the<other> bedroom<location>
+turnoff<action> movie<device> in<other> the<other> kitchen<location>
+switchon<action> music<device> in<other> the<other> livingroom<location>
+turnoff<action> the<other> bathroom<location> musicplayer<device>
+close<action> the<other> bathroom<location> temperature<device>
+increase<action> the<other> room<location> fan<device>
+switchon<action> the<other> basement<location> airconditioner<device>
+pause<action> light<device> in<other> the<other> bedroom<location>
+switchon<action> fan<device> in<other> the<other> storage<location>
+open<action> television<device> in<other> the<other> bathroom<location>
+pause<action> the<other> bathroom<location> faucet<device>
+play<action> the<other> bedroom<location> radio<device>
+turnoff<action> the<other> livingroom<location> musicplayer<device>
+close<action> musicplayer<device> in<other> the<other> livingroom<location>
+coffeepot<device> close<action>
+increase<action> the<other> light<device> in<other> the<other> basement<location>
