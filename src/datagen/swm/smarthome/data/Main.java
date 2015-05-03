@@ -7,5 +7,6 @@ public class Main
 		Generator dataGenerator = new Generator();
 		dataGenerator.loadAllData();
 		dataGenerator.generateSentences();
+		dataGenerator.generateRandomSentences();
 	}
 }
