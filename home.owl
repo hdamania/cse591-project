@@ -1,0 +1,428 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE rdf:RDF [
+    <!ENTITY owl "http://www.w3.org/2002/07/owl#" >
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+]>
+
+
+<rdf:RDF xmlns="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#"
+     xml:base="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#affectsPhenomenon -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#affectsPhenomenon">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#Device"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#Phenomenon"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#hasAction -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#hasAction">
+        <rdfs:range rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#Action"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#Device"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#hasAlias -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#hasAlias">
+        <rdf:type rdf:resource="&owl;SymmetricProperty"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#hasLocation -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#hasLocation">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#Device"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#Location"/>
+        <owl:inverseOf rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#isLocationOf"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#isActionOf -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#isActionOf">
+        <owl:inverseOf rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#hasAction"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#isAffectedBy -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#isAffectedBy">
+        <owl:inverseOf rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#affectsPhenomenon"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#isLocationOf -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#isLocationOf"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#hasInternalName -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#hasInternalName">
+        <rdfs:range rdf:resource="&xsd;string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#Action -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#Action"/>
+    
+
+
+    <!-- http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#Device -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#Device"/>
+    
+
+
+    <!-- http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#IndoorLocation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#IndoorLocation">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#Location"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#Location -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#Location"/>
+    
+
+
+    <!-- http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#OutdoorLocation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#OutdoorLocation">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#Location"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#Phenomenon -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#Phenomenon"/>
+    
+
+
+    <!-- http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#Smarthome -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#Smarthome"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#airconditioner -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#airconditioner">
+        <rdf:type rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#Device"/>
+        <hasLocation rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#bedroom"/>
+        <hasAction rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#decrease"/>
+        <hasAction rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#increase"/>
+        <affectsPhenomenon rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#temperature"/>
+        <hasAction rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#turnoff"/>
+        <hasAction rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#turnon"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#basement -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#basement">
+        <rdf:type rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#IndoorLocation"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#bathroom -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#bathroom">
+        <rdf:type rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#IndoorLocation"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#bedroom -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#bedroom">
+        <rdf:type rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#IndoorLocation"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#bulb -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#bulb">
+        <rdf:type rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#Device"/>
+        <hasLocation rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#basement"/>
+        <affectsPhenomenon rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#light"/>
+        <hasAction rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#turnoff"/>
+        <hasAction rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#turnon"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#coffeepot -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#coffeepot">
+        <rdf:type rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#Device"/>
+        <hasLocation rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#kitchen"/>
+        <hasAction rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#turnoff"/>
+        <hasAction rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#turnon"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#decrease -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#decrease">
+        <rdf:type rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#Action"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#dvdplayer -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#dvdplayer">
+        <rdf:type rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#Device"/>
+        <hasInternalName xml:lang="en">dvdplayer-01</hasInternalName>
+        <hasLocation rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#livingroom"/>
+        <affectsPhenomenon rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#movie"/>
+        <hasAction rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#pause"/>
+        <hasAction rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#play"/>
+        <hasAction rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#turnoff"/>
+        <hasAction rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#turnon"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#fan -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#fan">
+        <rdf:type rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#Device"/>
+        <hasInternalName xml:lang="en">fan-01</hasInternalName>
+        <hasLocation rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#livingroom"/>
+        <hasAction rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#turnoff"/>
+        <hasAction rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#turnon"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#increase -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#increase">
+        <rdf:type rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#Action"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#kitchen -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#kitchen">
+        <rdf:type rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#IndoorLocation"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#light -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#light">
+        <rdf:type rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#Phenomenon"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#livingroom -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#livingroom">
+        <rdf:type rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#IndoorLocation"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#movie -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#movie">
+        <rdf:type rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#Phenomenon"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#music -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#music">
+        <rdf:type rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#Phenomenon"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#musicplayer -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#musicplayer">
+        <rdf:type rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#Device"/>
+        <hasInternalName xml:lang="en">musicplayer-01</hasInternalName>
+        <hasAction rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#decrease"/>
+        <hasAction rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#increase"/>
+        <hasLocation rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#livingroom"/>
+        <affectsPhenomenon rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#music"/>
+        <hasAction rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#pause"/>
+        <hasAction rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#play"/>
+        <hasAction rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#turnoff"/>
+        <hasAction rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#turnon"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#pause -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#pause">
+        <rdf:type rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#Action"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#play -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#play">
+        <rdf:type rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#Action"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#switchoff -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#switchoff">
+        <rdf:type rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#Action"/>
+        <owl:sameAs rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#turnoff"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#switchon -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#switchon">
+        <rdf:type rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#Action"/>
+        <owl:sameAs rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#turnon"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#television -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#television">
+        <rdf:type rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#Device"/>
+        <hasLocation rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#livingroom"/>
+        <hasAction rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#turnoff"/>
+        <hasAction rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#turnon"/>
+        <owl:sameAs rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#tv"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#temperature -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#temperature">
+        <rdf:type rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#Phenomenon"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#tubelight -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#tubelight">
+        <rdf:type rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#Device"/>
+        <hasLocation rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#kitchen"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#turnoff -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#turnoff">
+        <rdf:type rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#Action"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#turnon -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#turnon">
+        <rdf:type rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#Action"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#tv -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#tv">
+        <rdf:type rdf:resource="http://www.semanticweb.org/shaan/ontologies/2015/4/untitled-ontology-63#Device"/>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.4.2) http://owlapi.sourceforge.net -->
+
