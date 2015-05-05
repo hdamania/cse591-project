@@ -97,15 +97,12 @@ void fill_matrix(const char * file_name,float **mat,int r,int c)
 
 }
 
-
-
-
 void load_model_params()
 {
     int i = 0;
     int j = 0;
-    states = read_from_file("output/states.txt");
-    observations = read_from_file("output/observations.txt"); 
+    states = read_from_file("output_random/states.txt");
+    observations = read_from_file("output_random/observations.txt"); 
     num_states = (int) states.size();
     num_obs = (int)observations.size();
     
@@ -124,15 +121,16 @@ void load_model_params()
     }    
     
     
-    fill_matrix("output/amatrix.csv",a,num_states,num_states);
+    fill_matrix("output_random/amatrix.csv",a,num_states,num_states);
 
     
-    fill_matrix("output/bmatrix.csv",b,num_states,num_obs);
+    fill_matrix("output_random/bmatrix.csv",b,num_states,num_obs);
 
     pi = (float *)malloc(sizeof(float)* num_states);
     
+	/*
     cout<<"States\n";
-
+	
     for(i = 0;i<num_states;i++)
     {
 	cout<<states.at(i)<<"\n";
@@ -173,13 +171,13 @@ void load_model_params()
     }
 
     cout<<"---------start probabilty matrix---------\n";
+	*/
+    fill_matrix("output_random/startprob.txt",&pi,1,num_states);
 
-    fill_matrix("output/startprob.txt",&pi,1,num_states);
+    //for(i = 0 ; i< num_states;i++)
+    //   cout<< pi[i]<<"\t";
 
-    for(i = 0 ; i< num_states;i++)
-       cout<< pi[i]<<"\t";
-
-    cout<<"\n";
+    //cout<<"\n";
 
     for (i = 0; i < num_states; i++)
     {
@@ -210,7 +208,14 @@ float viterbi_forward(int num_states, float *sp, float **tp, float **op, int *ob
 	// at t = 0
 	if (obs_len == 1)
 	{
-		delta[cur_state][0] = sp[cur_state] * op[cur_state][obs[0]];
+		if (op[cur_state][obs[0]] == 0)
+		{
+			delta[cur_state][0] = sp[cur_state] * 0.0001;
+		}
+		else
+		{
+			delta[cur_state][0] = sp[cur_state] * op[cur_state][obs[0]];
+		}
 
 		if (cur_state == (num_states - 1))
 		{
@@ -257,8 +262,15 @@ float viterbi_forward(int num_states, float *sp, float **tp, float **op, int *ob
 	// path.push_back(max_state);
 	// only update the path if a higher probability path is found
 	// path[obs_len-1] = max_state;
-
-	delta[cur_state][obs_len-1] = max_prod * op[cur_state][obs[obs_len-1]];
+	
+	if (op[cur_state][obs[obs_len-1]] == 0)
+	{
+		delta[cur_state][obs_len-1] = max_prod * 0.0001;
+	}
+	else
+	{
+		delta[cur_state][obs_len-1] = max_prod * op[cur_state][obs[obs_len-1]];
+	}
 
 	if (cur_state == (num_states - 1))
 	{
@@ -322,7 +334,7 @@ int viterbi(int num_states, int num_obs, float *sp, float ** tp, float **op, int
 			}
 		}
 
-		printf("-----\n");
+		//printf("-----\n");
 
 		//viterbi_forward(num_states, sp, tp, op, obs, obs_len, delta, i, path);
 	}
@@ -376,6 +388,11 @@ int main(int argc, char *argv[])
 		{
 			// found in obsMap, now insert its value in the obs array
 			obs[i] = it->second;
+		}
+		else
+		{
+			// unknown token
+			obs[i] = observations.size()-1;
 		}
 	}
 
