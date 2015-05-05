@@ -1,0 +1,6 @@
+The project contains the source code used for the Smarthome ontology and HMM model.
+
+The dataset and ontology file are in the root level of the project folder as follows:
+1. home.owl - Ontology file
+2. dataRandom3000.txt - Data set of 3000 commands with annotations.
+3. dataRandom5000.txt - Data set of 5000 commands with annotations.
